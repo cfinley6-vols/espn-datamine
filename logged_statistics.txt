@@ -1,0 +1,90 @@
+=== DISCOVERING LOGGED STATISTICS ===
+
+--- TEAM STATISTICS TRACKED ---
+- 1st Downs (Key: firstDowns)
+- 3rd down efficiency (Key: thirdDownEff)
+- 4th down efficiency (Key: fourthDownEff)
+- Total Yards (Key: totalYards)
+- Passing (Key: netPassingYards)
+- Comp/Att (Key: completionAttempts)
+- Yards per pass (Key: yardsPerPass)
+- Rushing (Key: rushingYards)
+- Rushing Attempts (Key: rushingAttempts)
+- Yards per rush (Key: yardsPerRushAttempt)
+- Penalties (Key: totalPenaltiesYards)
+- Turnovers (Key: turnovers)
+- Fumbles lost (Key: fumblesLost)
+- Interceptions thrown (Key: interceptions)
+- Possession (Key: possessionTime)
+
+--- INDIVIDUAL PLAYER STAT CATEGORIES ---
+
+[PASSING]
+  - C/ATT (Key: completions/passingAttempts)
+  - YDS (Key: passingYards)
+  - AVG (Key: yardsPerPassAttempt)
+  - TD (Key: passingTouchdowns)
+  - INT (Key: interceptions)
+  - QBR (Key: adjQBR)
+
+[RUSHING]
+  - CAR (Key: rushingAttempts)
+  - YDS (Key: rushingYards)
+  - AVG (Key: yardsPerRushAttempt)
+  - TD (Key: rushingTouchdowns)
+  - LONG (Key: longRushing)
+
+[RECEIVING]
+  - REC (Key: receptions)
+  - YDS (Key: receivingYards)
+  - AVG (Key: yardsPerReception)
+  - TD (Key: receivingTouchdowns)
+  - LONG (Key: longReception)
+
+[FUMBLES]
+  - FUM (Key: fumbles)
+  - LOST (Key: fumblesLost)
+  - REC (Key: fumblesRecovered)
+
+[DEFENSIVE]
+  - TOT (Key: totalTackles)
+  - SOLO (Key: soloTackles)
+  - SACKS (Key: sacks)
+  - TFL (Key: tacklesForLoss)
+  - PD (Key: passesDefended)
+  - QB HUR (Key: hurries)
+  - TD (Key: defensiveTouchdowns)
+
+[INTERCEPTIONS]
+  - INT (Key: interceptions)
+  - YDS (Key: interceptionYards)
+  - TD (Key: interceptionTouchdowns)
+
+[KICKRETURNS]
+  - NO (Key: kickReturns)
+  - YDS (Key: kickReturnYards)
+  - AVG (Key: yardsPerKickReturn)
+  - LONG (Key: longKickReturn)
+  - TD (Key: kickReturnTouchdowns)
+
+[PUNTRETURNS]
+  - NO (Key: puntReturns)
+  - YDS (Key: puntReturnYards)
+  - AVG (Key: yardsPerPuntReturn)
+  - LONG (Key: longPuntReturn)
+  - TD (Key: puntReturnTouchdowns)
+
+[KICKING]
+  - FG (Key: fieldGoalsMade/fieldGoalAttempts)
+  - PCT (Key: fieldGoalPct)
+  - LONG (Key: longFieldGoalMade)
+  - XP (Key: extraPointsMade/extraPointAttempts)
+  - PTS (Key: totalKickingPoints)
+
+[PUNTING]
+  - NO (Key: punts)
+  - YDS (Key: puntYards)
+  - AVG (Key: grossAvgPuntYards)
+  - TB (Key: touchbacks)
+  - In 20 (Key: puntsInside20)
+  - LONG (Key: longPunt)
