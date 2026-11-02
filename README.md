@@ -1,9 +1,9 @@
 # Reverse-Engineering ESPN's Hidden College Football APIs for Play-by-Play Data Pipelines
 
 ## Objective & Approach
-This project aims to discover, reverse-engineer, and map undocumented ESPN REST API endpoints for college football to recover play-by-play, drive, and roster data. 
+This project performs a digital archaeology and schema discovery analysis of ESPN’s College Football REST API, specifically focusing on the game summary endpoint to map every statistical and metadata artifact tracked by the platform.
 
-We will inspect network traffic from ESPN's web and mobile clients to identify hidden endpoints and query parameters, then build a Python pipeline to ingest, clean, and structure the nested JSON responses into a relational dataset. The final deliverable will be an open documentation schema and a functional data retrieval package for college football game-level analytics.
+Instead of merely extracting high-level box scores, we execute recursive JSON structural traversals to decode nested data hierarchies across team statistics, individual athlete metrics, drive sequences, and play-by-play events. We then parse these deeply nested arrays—including stat keys, categories, and labels—to generate a comprehensive data dictionary and structural map. The final deliverable is an open documentation schema and an automated Python toolset that catalog and flatten ESPN's JSON payloads into relational data structures for game-level analytics.
 
 ## Expected Data Source
 - **Endpoint:** Data will be acquired from ESPN's internal, undocumented public endpoints:  
