@@ -467,39 +467,39 @@ event_id,date,name,week,home_team,home_team_id,home_score,away_team,away_team_id
 401858268,2026-10-17T16:00Z,Virginia Cavaliers at SMU Mustangs,7,SMU Mustangs,2567,23,Virginia Cavaliers,258,13,Final,Gerald J. Ford Stadium,False
 401856720,2026-10-17T16:00Z,Mississippi State Bulldogs at LSU Tigers,7,LSU Tigers,99,31,Mississippi State Bulldogs,344,0,Final,Tiger Stadium (LA),False
 401856829,2026-10-17T16:00Z,Cincinnati Bearcats at West Virginia Mountaineers,7,West Virginia Mountaineers,277,45,Cincinnati Bearcats,2132,42,Final,Milan Puskar Stadium,False
-401858488,2026-10-17T16:00Z,Ohio State Buckeyes at Indiana Hoosiers,7,Indiana Hoosiers,84,15,Ohio State Buckeyes,194,19,Final,"Memorial Stadium (Bloomington, IN)",False
 401856724,2026-10-17T16:00Z,Florida Gators at Texas Longhorns,7,Texas Longhorns,251,24,Florida Gators,57,27,Final,DKR-Texas Memorial Stadium,False
+401858488,2026-10-17T16:00Z,Ohio State Buckeyes at Indiana Hoosiers,7,Indiana Hoosiers,84,15,Ohio State Buckeyes,194,19,Final,"Memorial Stadium (Bloomington, IN)",False
 401858489,2026-10-17T16:30Z,Rutgers Scarlet Knights at Maryland Terrapins,7,Maryland Terrapins,120,30,Rutgers Scarlet Knights,164,37,Final,SECU Stadium,False
-401862803,2026-10-17T17:00Z,Charlotte 49ers at Temple Owls,7,Temple Owls,218,31,Charlotte 49ers,2429,38,Final,Lincoln Financial Field,False
 401856725,2026-10-17T17:00Z,The Citadel Bulldogs at Texas A&M Aggies,7,Texas A&M Aggies,245,41,The Citadel Bulldogs,2643,0,Final,Kyle Field,False
 401866442,2026-10-17T17:00Z,Massachusetts Minutemen at Buffalo Bulls,7,Buffalo Bulls,2084,25,Massachusetts Minutemen,113,18,Final,Broadview Stadium,False
+401862803,2026-10-17T17:00Z,Charlotte 49ers at Temple Owls,7,Temple Owls,218,31,Charlotte 49ers,2429,38,Final,Lincoln Financial Field,False
 401866443,2026-10-17T17:30Z,Western Michigan Broncos at Central Michigan Chippewas,7,Central Michigan Chippewas,2117,14,Western Michigan Broncos,2711,21,Final,Kelly/Shorts Stadium,False
-401856828,2026-10-17T19:30Z,Arizona State Sun Devils at Texas Tech Red Raiders,7,Texas Tech Red Raiders,2641,53,Arizona State Sun Devils,9,25,Final,Galaxy Stadium,False
-401856723,2026-10-17T19:30Z,Alabama Crimson Tide at Tennessee Volunteers,7,Tennessee Volunteers,2633,26,Alabama Crimson Tide,333,10,Final,Neyland Stadium,False
-401866478,2026-10-17T19:30Z,Akron Zips at Miami (OH) RedHawks,7,Miami (OH) RedHawks,193,34,Akron Zips,2006,14,Final,Yager Stadium,False
-401866444,2026-10-17T19:30Z,Toledo Rockets at Eastern Michigan Eagles,7,Eastern Michigan Eagles,2199,14,Toledo Rockets,2649,34,Final,Rynearson Stadium,False
+401858264,2026-10-17T19:30Z,Georgia Tech Yellow Jackets at Virginia Tech Hokies,7,Virginia Tech Hokies,259,34,Georgia Tech Yellow Jackets,59,24,Final,Lane Stadium,False
+401864522,2026-10-17T19:30Z,Northern Illinois Huskies at Wyoming Cowboys,7,Wyoming Cowboys,2751,41,Northern Illinois Huskies,2459,23,Final,War Memorial Stadium,False
 401856719,2026-10-17T19:30Z,Auburn Tigers at Georgia Bulldogs,7,Georgia Bulldogs,61,24,Auburn Tigers,2,27,Final,Sanford Stadium,False
 401864524,2026-10-17T19:30Z,UNLV Rebels at Air Force Falcons,7,Air Force Falcons,2005,41,UNLV Rebels,2439,31,Final,Falcon Stadium,False
-401864522,2026-10-17T19:30Z,Northern Illinois Huskies at Wyoming Cowboys,7,Wyoming Cowboys,2751,41,Northern Illinois Huskies,2459,23,Final,War Memorial Stadium,False
+401866444,2026-10-17T19:30Z,Toledo Rockets at Eastern Michigan Eagles,7,Eastern Michigan Eagles,2199,14,Toledo Rockets,2649,34,Final,Rynearson Stadium,False
+401856723,2026-10-17T19:30Z,Alabama Crimson Tide at Tennessee Volunteers,7,Tennessee Volunteers,2633,26,Alabama Crimson Tide,333,10,Final,Neyland Stadium,False
+401866478,2026-10-17T19:30Z,Akron Zips at Miami (OH) RedHawks,7,Miami (OH) RedHawks,193,34,Akron Zips,2006,14,Final,Yager Stadium,False
 401856721,2026-10-17T19:30Z,Missouri Tigers at Ole Miss Rebels,7,Ole Miss Rebels,145,31,Missouri Tigers,142,3,Final,Vaught-Hemingway Stadium,False
-401858264,2026-10-17T19:30Z,Georgia Tech Yellow Jackets at Virginia Tech Hokies,7,Virginia Tech Hokies,259,34,Georgia Tech Yellow Jackets,59,24,Final,Lane Stadium,False
+401856828,2026-10-17T19:30Z,Arizona State Sun Devils at Texas Tech Red Raiders,7,Texas Tech Red Raiders,2641,53,Arizona State Sun Devils,9,25,Final,Galaxy Stadium,False
 401858266,2026-10-17T19:30Z,North Carolina Tar Heels at Duke Blue Devils,7,Duke Blue Devils,150,20,North Carolina Tar Heels,153,24,Final,Wallace Wade Stadium,False
 401858490,2026-10-17T19:30Z,Penn State Nittany Lions at Michigan Wolverines,7,Michigan Wolverines,130,21,Penn State Nittany Lions,213,18,Final,Michigan Stadium,False
 401862805,2026-10-17T20:30Z,Tulsa Golden Hurricane at Rice Owls,7,Rice Owls,242,17,Tulsa Golden Hurricane,202,38,Final,First Community Stadium,False
 401869966,2026-10-17T21:00Z,Troy Trojans at Louisiana Ragin' Cajuns,7,Louisiana Ragin' Cajuns,309,33,Troy Trojans,2653,6,Final,Our Lady of Lourdes Stadium,False
 401860903,2026-10-17T22:00Z,Washington State Cougars at Oregon State Beavers,7,Oregon State Beavers,204,48,Washington State Cougars,265,30,Final,Reser Stadium,False
-401856726,2026-10-17T23:00Z,Arkansas Razorbacks at Vanderbilt Commodores,7,Vanderbilt Commodores,238,21,Arkansas Razorbacks,8,31,Final,FirstBank Stadium,False
+401856832,2026-10-17T23:00Z,TCU Horned Frogs at Baylor Bears,7,Baylor Bears,239,6,TCU Horned Frogs,2628,17,Final,McLane Stadium,False
 401862806,2026-10-17T23:00Z,Kent State Golden Flashes at South Florida Bulls,7,South Florida Bulls,58,29,Kent State Golden Flashes,2309,2,Final,Raymond James Stadium,False
 401858263,2026-10-17T23:00Z,Florida State Seminoles at Miami Hurricanes,7,Miami Hurricanes,2390,43,Florida State Seminoles,52,35,Final,Hard Rock Stadium,False
-401856832,2026-10-17T23:00Z,TCU Horned Frogs at Baylor Bears,7,Baylor Bears,239,6,TCU Horned Frogs,2628,17,Final,McLane Stadium,False
 401864520,2026-10-17T23:00Z,Nevada Wolf Pack at North Dakota State Bison,7,North Dakota State Bison,2449,31,Nevada Wolf Pack,2440,17,Final,Fargodome,False
 401869934,2026-10-17T23:00Z,Arkansas State Red Wolves at Southern Miss Golden Eagles,7,Southern Miss Golden Eagles,2572,13,Arkansas State Red Wolves,2032,23,Final,M. M. Roberts Stadium,False
+401856726,2026-10-17T23:00Z,Arkansas Razorbacks at Vanderbilt Commodores,7,Vanderbilt Commodores,238,21,Arkansas Razorbacks,8,31,Final,FirstBank Stadium,False
+401858262,2026-10-17T23:30Z,Elon Phoenix at Stanford Cardinal,7,Stanford Cardinal,24,34,Elon Phoenix,2210,7,Final,Stanford Stadium,False
+401858265,2026-10-17T23:30Z,Louisville Cardinals at Syracuse Orange,7,Syracuse Orange,183,26,Louisville Cardinals,97,34,Final,JMA Wireless Dome,False
 401856722,2026-10-17T23:30Z,Kentucky Wildcats at Oklahoma Sooners,7,Oklahoma Sooners,201,13,Kentucky Wildcats,96,21,Final,"Memorial Stadium (Norman, OK)",False
 401858494,2026-10-17T23:30Z,Wisconsin Badgers at UCLA Bruins,7,UCLA Bruins,26,17,Wisconsin Badgers,275,7,Final,Rose Bowl,False
-401858265,2026-10-17T23:30Z,Louisville Cardinals at Syracuse Orange,7,Syracuse Orange,183,26,Louisville Cardinals,97,34,Final,JMA Wireless Dome,False
 401856831,2026-10-17T23:30Z,Oklahoma State Cowboys at Houston Cougars,7,Houston Cougars,248,35,Oklahoma State Cowboys,197,32,Final,TDECU Stadium,False
 401856809,2026-10-17T23:30Z,Notre Dame Fighting Irish at BYU Cougars,7,BYU Cougars,252,28,Notre Dame Fighting Irish,87,24,Final,LaVell Edwards Stadium,False
-401858262,2026-10-17T23:30Z,Elon Phoenix at Stanford Cardinal,7,Stanford Cardinal,24,34,Elon Phoenix,2210,7,Final,Stanford Stadium,False
 401862804,2026-10-18T00:00Z,Navy Midshipmen at UTSA Roadrunners,7,UTSA Roadrunners,2636,38,Navy Midshipmen,2426,34,Final,Alamodome,False
 401871091,2026-10-18T00:00Z,Louisiana Tech Bulldogs at UL Monroe Warhawks,7,UL Monroe Warhawks,2433,0,Louisiana Tech Bulldogs,2348,24,Final,Malone Stadium,False
 401864523,2026-10-18T01:00Z,San José State Spartans at UTEP Miners,7,UTEP Miners,2638,11,San José State Spartans,23,24,Final,Sun Bowl,False
@@ -509,306 +509,307 @@ event_id,date,name,week,home_team,home_team_id,home_score,away_team,away_team_id
 401860904,2026-10-18T02:30Z,Fresno State Bulldogs at San Diego State Aztecs,7,San Diego State Aztecs,21,26,Fresno State Bulldogs,278,23,Final,Snapdragon Stadium,False
 401864521,2026-10-18T02:30Z,New Mexico Lobos at Hawai'i Rainbow Warriors,7,Hawai'i Rainbow Warriors,62,10,New Mexico Lobos,167,21,Final,Clarence T.C. Ching Athletics Complex,False
 401858492,2026-10-18T03:00Z,Nebraska Cornhuskers at Oregon Ducks,7,Oregon Ducks,2483,17,Nebraska Cornhuskers,158,14,Final,Autzen Stadium,False
-401871069,2026-10-20T23:00Z,Missouri State Bears at Delaware Blue Hens,8,Delaware Blue Hens,48,61,Missouri State Bears,2623,38,Final,Delaware Stadium,False
 401871055,2026-10-20T23:00Z,Middle Tennessee Blue Raiders at Florida International Panthers,8,Florida International Panthers,2229,23,Middle Tennessee Blue Raiders,2393,26,Final,Pitbull Stadium,False
+401871069,2026-10-20T23:00Z,Missouri State Bears at Delaware Blue Hens,8,Delaware Blue Hens,48,61,Missouri State Bears,2623,38,Final,Delaware Stadium,False
 401871092,2026-10-20T23:30Z,South Alabama Jaguars at Marshall Thundering Herd,8,Marshall Thundering Herd,276,20,South Alabama Jaguars,6,13,Final,Joan C. Edwards Stadium,False
 401871070,2026-10-22T00:00Z,New Mexico State Aggies at Sam Houston Bearkats,8,Sam Houston Bearkats,2534,24,New Mexico State Aggies,166,30,Final,Elliott T. Bowers Stadium,False
-401869845,2026-10-22T23:00Z,James Madison Dukes at App State Mountaineers,8,App State Mountaineers,2026,34,James Madison Dukes,256,31,Final,Kidd Brewer Stadium,False
 401871056,2026-10-22T23:00Z,Liberty Flames at Kennesaw State Owls,8,Kennesaw State Owls,338,6,Liberty Flames,2335,34,Final,Walens Family Field at Fifth Third Stadium,False
+401869845,2026-10-22T23:00Z,James Madison Dukes at App State Mountaineers,8,App State Mountaineers,2026,34,James Madison Dukes,256,31,Final,Kidd Brewer Stadium,False
 401862807,2026-10-22T23:30Z,East Carolina Pirates at Memphis Tigers,8,Memphis Tigers,235,41,East Carolina Pirates,151,34,Final,Simmons Bank Liberty Stadium,False
 401858271,2026-10-23T23:00Z,Duke Blue Devils at Virginia Cavaliers,8,Virginia Cavaliers,258,16,Duke Blue Devils,150,19,Final,Scott Stadium,False
 401861965,2026-10-23T23:00Z,Massachusetts Minutemen at UConn Huskies,8,UConn Huskies,41,35,Massachusetts Minutemen,113,16,Final,Pratt & Whitney Stadium,False
 401862808,2026-10-24T00:30Z,Army Black Knights at Tulsa Golden Hurricane,8,Tulsa Golden Hurricane,202,35,Army Black Knights,349,38,Final,H. A. Chapman Stadium,False
 401864525,2026-10-24T01:00Z,Air Force Falcons at Wyoming Cowboys,8,Wyoming Cowboys,2751,28,Air Force Falcons,2005,14,Final,War Memorial Stadium,False
 401858272,2026-10-24T02:30Z,NC State Wolfpack at Stanford Cardinal,8,Stanford Cardinal,24,31,NC State Wolfpack,152,28,Final,Stanford Stadium,False
-401858274,2026-10-24T16:00Z,Pittsburgh Panthers at Miami Hurricanes,8,Miami Hurricanes,2390,52,Pittsburgh Panthers,221,23,Final,Hard Rock Stadium,False
-401866450,2026-10-24T16:00Z,Western Michigan Broncos at Toledo Rockets,8,Toledo Rockets,2649,45,Western Michigan Broncos,2711,38,Final,Glass Bowl,False
 401858498,2026-10-24T16:00Z,Rutgers Scarlet Knights at Northwestern Wildcats,8,Northwestern Wildcats,77,42,Rutgers Scarlet Knights,164,14,Final,Ryan Field,False
+401862809,2026-10-24T16:00Z,Rice Owls at Florida Atlantic Owls,8,Florida Atlantic Owls,2226,51,Rice Owls,242,49,Final,Flagler Credit Union Stadium,False
+401866450,2026-10-24T16:00Z,Western Michigan Broncos at Toledo Rockets,8,Toledo Rockets,2649,45,Western Michigan Broncos,2711,38,Final,Glass Bowl,False
+401856840,2026-10-24T16:00Z,Texas Tech Red Raiders at Cincinnati Bearcats,8,Cincinnati Bearcats,2132,37,Texas Tech Red Raiders,2641,24,Final,Nippert Stadium,False
+401856841,2026-10-24T16:00Z,West Virginia Mountaineers at TCU Horned Frogs,8,TCU Horned Frogs,2628,20,West Virginia Mountaineers,277,24,Final,Amon G. Carter Stadium,False
+401858496,2026-10-24T16:00Z,Indiana Hoosiers at Michigan Wolverines,8,Michigan Wolverines,130,6,Indiana Hoosiers,84,13,Final,Michigan Stadium,False
+401858274,2026-10-24T16:00Z,Pittsburgh Panthers at Miami Hurricanes,8,Miami Hurricanes,2390,52,Pittsburgh Panthers,221,23,Final,Hard Rock Stadium,False
 401858270,2026-10-24T16:00Z,California Golden Bears at SMU Mustangs,8,SMU Mustangs,2567,59,California Golden Bears,25,20,Final,Gerald J. Ford Stadium,False
 401856728,2026-10-24T16:00Z,LSU Tigers at Auburn Tigers,8,Auburn Tigers,2,17,LSU Tigers,99,38,Final,Jordan-Hare Stadium,False
-401856841,2026-10-24T16:00Z,West Virginia Mountaineers at TCU Horned Frogs,8,TCU Horned Frogs,2628,20,West Virginia Mountaineers,277,24,Final,Amon G. Carter Stadium,False
-401862809,2026-10-24T16:00Z,Rice Owls at Florida Atlantic Owls,8,Florida Atlantic Owls,2226,51,Rice Owls,242,49,Final,Flagler Credit Union Stadium,False
-401856840,2026-10-24T16:00Z,Texas Tech Red Raiders at Cincinnati Bearcats,8,Cincinnati Bearcats,2132,37,Texas Tech Red Raiders,2641,24,Final,Nippert Stadium,False
-401858496,2026-10-24T16:00Z,Indiana Hoosiers at Michigan Wolverines,8,Michigan Wolverines,130,6,Indiana Hoosiers,84,13,Final,Michigan Stadium,False
-401866476,2026-10-24T17:00Z,Miami (OH) RedHawks at Central Michigan Chippewas,8,Central Michigan Chippewas,2117,27,Miami (OH) RedHawks,193,28,Final,Kelly/Shorts Stadium,False
-401866446,2026-10-24T17:00Z,Akron Zips at Kent State Golden Flashes,8,Kent State Golden Flashes,2309,35,Akron Zips,2006,20,Final,Zoeller Field at Dix Stadium,False
 401856834,2026-10-24T17:00Z,Baylor Bears at Kansas Jayhawks,8,Kansas Jayhawks,2305,25,Baylor Bears,239,24,Final,David Booth Kansas Memorial Stadium,False
+401866446,2026-10-24T17:00Z,Akron Zips at Kent State Golden Flashes,8,Kent State Golden Flashes,2309,35,Akron Zips,2006,20,Final,Zoeller Field at Dix Stadium,False
+401866476,2026-10-24T17:00Z,Miami (OH) RedHawks at Central Michigan Chippewas,8,Central Michigan Chippewas,2117,27,Miami (OH) RedHawks,193,28,Final,Kelly/Shorts Stadium,False
 401858495,2026-10-24T19:00Z,Oregon Ducks at Illinois Fighting Illini,8,Illinois Fighting Illini,356,21,Oregon Ducks,2483,10,Final,Gies Memorial Stadium,False
+401858497,2026-10-24T19:30Z,Iowa Hawkeyes at Minnesota Golden Gophers,8,Minnesota Golden Gophers,135,13,Iowa Hawkeyes,2294,10,Final,Huntington Bank Stadium,False
+401862810,2026-10-24T19:30Z,North Texas Mean Green at Navy Midshipmen,8,Navy Midshipmen,2426,39,North Texas Mean Green,249,49,Final,Navy-Marine Corps Memorial Stadium,False
 401858273,2026-10-24T19:30Z,Boston College Eagles at Georgia Tech Yellow Jackets,8,Georgia Tech Yellow Jackets,59,27,Boston College Eagles,103,49,Final,Bobby Dodd Stadium,False
 401856730,2026-10-24T19:30Z,Oklahoma Sooners at Mississippi State Bulldogs,8,Mississippi State Bulldogs,344,15,Oklahoma Sooners,201,23,Final,Davis Wade Stadium,False
-401864526,2026-10-24T19:30Z,Hawai'i Rainbow Warriors at Northern Illinois Huskies,8,Northern Illinois Huskies,2459,21,Hawai'i Rainbow Warriors,62,56,Final,Huskie Stadium,False
-401866447,2026-10-24T19:30Z,Sacramento State Hornets at Ball State Cardinals,8,Ball State Cardinals,2050,34,Sacramento State Hornets,16,17,Final,Scheumann Stadium,False
 401866448,2026-10-24T19:30Z,Bowling Green Falcons at Buffalo Bulls,8,Buffalo Bulls,2084,31,Bowling Green Falcons,189,24,Final,Broadview Stadium,False
-401862810,2026-10-24T19:30Z,North Texas Mean Green at Navy Midshipmen,8,Navy Midshipmen,2426,39,North Texas Mean Green,249,49,Final,Navy-Marine Corps Memorial Stadium,False
-401856731,2026-10-24T19:30Z,Tennessee Volunteers at South Carolina Gamecocks,8,South Carolina Gamecocks,2579,27,Tennessee Volunteers,2633,24,Final,Williams-Brice Stadium,False
-401858497,2026-10-24T19:30Z,Iowa Hawkeyes at Minnesota Golden Gophers,8,Minnesota Golden Gophers,135,13,Iowa Hawkeyes,2294,10,Final,Huntington Bank Stadium,False
-401856727,2026-10-24T19:30Z,Texas A&M Aggies at Alabama Crimson Tide,8,Alabama Crimson Tide,333,31,Texas A&M Aggies,245,20,Final,Bryant-Denny Stadium,False
+401864526,2026-10-24T19:30Z,Hawai'i Rainbow Warriors at Northern Illinois Huskies,8,Northern Illinois Huskies,2459,21,Hawai'i Rainbow Warriors,62,56,Final,Huskie Stadium,False
 401858499,2026-10-24T19:30Z,Michigan State Spartans at UCLA Bruins,8,UCLA Bruins,26,28,Michigan State Spartans,127,10,Final,Rose Bowl,False
+401856731,2026-10-24T19:30Z,Tennessee Volunteers at South Carolina Gamecocks,8,South Carolina Gamecocks,2579,27,Tennessee Volunteers,2633,24,Final,Williams-Brice Stadium,False
+401856727,2026-10-24T19:30Z,Texas A&M Aggies at Alabama Crimson Tide,8,Alabama Crimson Tide,333,31,Texas A&M Aggies,245,20,Final,Bryant-Denny Stadium,False
 401856835,2026-10-24T19:30Z,BYU Cougars at UCF Knights,8,UCF Knights,2116,39,BYU Cougars,252,31,Final,Acrisure Bounce House,False
+401866447,2026-10-24T19:30Z,Sacramento State Hornets at Ball State Cardinals,8,Ball State Cardinals,2050,34,Sacramento State Hornets,16,17,Final,Scheumann Stadium,False
 401856839,2026-10-24T19:45Z,Kansas State Wildcats at Arizona State Sun Devils,8,Arizona State Sun Devils,9,28,Kansas State Wildcats,2306,17,Final,Mountain America Stadium,False
-401866449,2026-10-24T20:00Z,Eastern Michigan Eagles at Ohio Bobcats,8,Ohio Bobcats,195,24,Eastern Michigan Eagles,2199,20,Final,Peden Stadium,False
 401871094,2026-10-24T20:00Z,UL Monroe Warhawks at Troy Trojans,8,Troy Trojans,2653,14,UL Monroe Warhawks,2433,21,Final,Veterans Memorial Stadium (AL),False
+401866449,2026-10-24T20:00Z,Eastern Michigan Eagles at Ohio Bobcats,8,Ohio Bobcats,195,24,Eastern Michigan Eagles,2199,20,Final,Peden Stadium,False
+401864528,2026-10-24T21:00Z,San José State Spartans at Nevada Wolf Pack,8,Nevada Wolf Pack,2440,28,San José State Spartans,23,13,Final,Mackay Stadium,False
 401871093,2026-10-24T21:00Z,Old Dominion Monarchs at Louisiana Tech Bulldogs,8,Louisiana Tech Bulldogs,2348,26,Old Dominion Monarchs,295,0,Final,Joe Aillet Stadium,False
 401869967,2026-10-24T21:00Z,Louisiana Ragin' Cajuns at Southern Miss Golden Eagles,8,Southern Miss Golden Eagles,2572,35,Louisiana Ragin' Cajuns,309,31,Final,M. M. Roberts Stadium,False
-401864528,2026-10-24T21:00Z,San José State Spartans at Nevada Wolf Pack,8,Nevada Wolf Pack,2440,28,San José State Spartans,23,13,Final,Mackay Stadium,False
 401860907,2026-10-24T22:00Z,Boise State Broncos at Washington State Cougars,8,Washington State Cougars,265,10,Boise State Broncos,68,31,Final,Martin Stadium,False
 401860905,2026-10-24T22:30Z,San Diego State Aztecs at Colorado State Rams,8,Colorado State Rams,36,56,San Diego State Aztecs,21,49,Final,Canvas Stadium,False
 401856836,2026-10-24T23:00Z,Colorado Buffaloes at Oklahoma State Cowboys,8,Oklahoma State Cowboys,197,57,Colorado Buffaloes,38,24,Final,Boone Pickens Stadium,False
 401858276,2026-10-24T23:00Z,Virginia Tech Hokies at Clemson Tigers,8,Clemson Tigers,228,16,Virginia Tech Hokies,259,20,Final,"Memorial Stadium (Clemson, SC)",False
 401869935,2026-10-24T23:00Z,Georgia State Panthers at Arkansas State Red Wolves,8,Arkansas State Red Wolves,2032,38,Georgia State Panthers,2247,32,Final,Centennial Bank Stadium,False
+401856732,2026-10-24T23:30Z,Ole Miss Rebels at Texas Longhorns,8,Texas Longhorns,251,34,Ole Miss Rebels,145,27,Final,DKR-Texas Memorial Stadium,False
 401856838,2026-10-24T23:30Z,Iowa State Cyclones at Arizona Wildcats,8,Arizona Wildcats,12,39,Iowa State Cyclones,66,3,Final,Casino Del Sol Stadium,False
-401856729,2026-10-24T23:30Z,Vanderbilt Commodores at Kentucky Wildcats,8,Kentucky Wildcats,96,34,Vanderbilt Commodores,238,17,Final,Kroger Field,False
 401858500,2026-10-24T23:30Z,USC Trojans at Wisconsin Badgers,8,Wisconsin Badgers,275,24,USC Trojans,30,7,Final,Camp Randall Stadium,False
+401856729,2026-10-24T23:30Z,Vanderbilt Commodores at Kentucky Wildcats,8,Kentucky Wildcats,96,34,Vanderbilt Commodores,238,17,Final,Kroger Field,False
 401858275,2026-10-24T23:30Z,Syracuse Orange at North Carolina Tar Heels,8,North Carolina Tar Heels,153,30,Syracuse Orange,183,31,Final,Kenan Stadium,False
 401860906,2026-10-24T23:30Z,Utah State Aggies at Texas State Bobcats,8,Texas State Bobcats,326,20,Utah State Aggies,328,17,Final,UFCU Stadium,False
-401856732,2026-10-24T23:30Z,Ole Miss Rebels at Texas Longhorns,8,Texas Longhorns,251,34,Ole Miss Rebels,145,27,Final,DKR-Texas Memorial Stadium,False
 401862811,2026-10-25T00:00Z,UTSA Roadrunners at Tulane Green Wave,8,Tulane Green Wave,2655,19,UTSA Roadrunners,2636,42,Final,Yulman Stadium,False
 401856837,2026-10-25T02:15Z,Houston Cougars at Utah Utes,8,Utah Utes,254,21,Houston Cougars,248,13,Final,Rice-Eccles Stadium,False
 401864527,2026-10-25T02:20Z,North Dakota State Bison at New Mexico Lobos,8,New Mexico Lobos,167,21,North Dakota State Bison,2449,16,Final,University Stadium (NM),False
 401871071,2026-10-27T23:00Z,Delaware Blue Hens at Western Kentucky Hilltoppers,9,Western Kentucky Hilltoppers,98,21,Delaware Blue Hens,48,35,Final,Houchens Industries-L.T. Smith Stadium,False
 401871072,2026-10-28T00:00Z,Sam Houston Bearkats at Missouri State Bears,9,Missouri State Bears,2623,24,Sam Houston Bearkats,2534,3,Final,Robert W. Plaster Stadium,False
-401871058,2026-10-28T23:00Z,Kennesaw State Owls at Middle Tennessee Blue Raiders,9,Middle Tennessee Blue Raiders,2393,0,Kennesaw State Owls,338,0,Scheduled,"Johnny ""Red"" Floyd Stadium",False
-401871057,2026-10-29T00:00Z,Jacksonville State Gamecocks at New Mexico State Aggies,9,New Mexico State Aggies,166,0,Jacksonville State Gamecocks,55,0,Scheduled,Aggie Memorial Stadium,False
-401862812,2026-10-29T23:30Z,Florida Atlantic Owls at North Texas Mean Green,9,North Texas Mean Green,249,0,Florida Atlantic Owls,2226,0,Scheduled,DATCU Stadium,False
-401869963,2026-10-29T23:30Z,Troy Trojans at James Madison Dukes,9,James Madison Dukes,256,0,Troy Trojans,2653,0,Scheduled,Bridgeforth Stadium,False
-401862813,2026-10-30T23:00Z,Tulane Green Wave at Charlotte 49ers,9,Charlotte 49ers,2429,0,Tulane Green Wave,2655,0,Scheduled,Jerry Richardson Stadium,False
-401856844,2026-10-30T23:30Z,Baylor Bears at UCF Knights,9,UCF Knights,2116,0,Baylor Bears,239,0,Scheduled,Acrisure Bounce House,False
-401866451,2026-10-31T02:30Z,Kent State Golden Flashes at Sacramento State Hornets,9,Sacramento State Hornets,16,0,Kent State Golden Flashes,2309,0,Scheduled,Hornet Stadium,False
-401866452,2026-10-31T16:00Z,Bowling Green Falcons at Western Michigan Broncos,9,Western Michigan Broncos,2711,0,Bowling Green Falcons,189,0,Scheduled,Waldo Stadium,False
-401862816,2026-10-31T16:00Z,UAB Blazers at South Florida Bulls,9,South Florida Bulls,58,0,UAB Blazers,5,0,Scheduled,Raymond James Stadium,False
-401858503,2026-10-31T16:00Z,Illinois Fighting Illini at Maryland Terrapins,9,Maryland Terrapins,120,0,Illinois Fighting Illini,356,0,Scheduled,SECU Stadium,False
-401858279,2026-10-31T16:00Z,Boston College Eagles at Duke Blue Devils,9,Duke Blue Devils,150,0,Boston College Eagles,103,0,Scheduled,Wallace Wade Stadium,False
-401858277,2026-10-31T16:00Z,California Golden Bears at NC State Wolfpack,9,NC State Wolfpack,152,0,California Golden Bears,25,0,Scheduled,Carter-Finley Stadium,False
-401858502,2026-10-31T16:00Z,Wisconsin Badgers at Iowa Hawkeyes,9,Iowa Hawkeyes,2294,0,Wisconsin Badgers,275,0,Scheduled,Kinnick Stadium,False
-401858278,2026-10-31T16:00Z,SMU Mustangs at Syracuse Orange,9,Syracuse Orange,183,0,SMU Mustangs,2567,0,Scheduled,JMA Wireless Dome,False
-401856842,2026-10-31T16:00Z,Arizona Wildcats at Texas Tech Red Raiders,9,Texas Tech Red Raiders,2641,0,Arizona Wildcats,12,0,Scheduled,Galaxy Stadium,False
-401859185,2026-10-31T16:00Z,Notre Dame Fighting Irish at Navy Midshipmen,9,Navy Midshipmen,2426,0,Notre Dame Fighting Irish,87,0,Scheduled,Gillette Stadium,True
-401858507,2026-10-31T16:30Z,Michigan Wolverines at Rutgers Scarlet Knights,9,Rutgers Scarlet Knights,164,0,Michigan Wolverines,130,0,Scheduled,SHI Stadium,False
-401856735,2026-10-31T16:45Z,Auburn Tigers at Ole Miss Rebels,9,Ole Miss Rebels,145,0,Auburn Tigers,2,0,Scheduled,Vaught-Hemingway Stadium,False
-401871096,2026-10-31T17:00Z,Marshall Thundering Herd at Old Dominion Monarchs,9,Old Dominion Monarchs,295,0,Marshall Thundering Herd,276,0,Scheduled,S.B. Ballard Stadium,False
-401856846,2026-10-31T18:00Z,Kansas State Wildcats at Colorado Buffaloes,9,Colorado Buffaloes,38,0,Kansas State Wildcats,2306,0,Scheduled,Folsom Field,False
-401869944,2026-10-31T18:00Z,Coastal Carolina Chanticleers at Georgia State Panthers,9,Georgia State Panthers,2247,0,Coastal Carolina Chanticleers,324,0,Scheduled,Center Parc Stadium,False
-401861966,2026-10-31T19:00Z,UConn Huskies at Air Force Falcons,9,Air Force Falcons,2005,0,UConn Huskies,41,0,Scheduled,Falcon Stadium,False
-401862815,2026-10-31T19:00Z,Temple Owls at East Carolina Pirates,9,East Carolina Pirates,151,0,Temple Owls,218,0,Scheduled,Dowdy-Ficklen Stadium,False
-401871097,2026-10-31T19:00Z,Louisiana Tech Bulldogs at South Alabama Jaguars,9,South Alabama Jaguars,6,0,Louisiana Tech Bulldogs,2348,0,Scheduled,Hancock Whitney Stadium,False
-401858283,2026-10-31T19:15Z,Stanford Cardinal at Louisville Cardinals,9,Louisville Cardinals,97,0,Stanford Cardinal,24,0,Scheduled,L&N Federal Credit Union Stadium,False
-401856734,2026-10-31T19:30Z,Florida Gators at Georgia Bulldogs,9,Georgia Bulldogs,61,0,Florida Gators,57,0,Scheduled,Mercedes-Benz Stadium,True
-401858501,2026-10-31T19:30Z,Minnesota Golden Gophers at Indiana Hoosiers,9,Indiana Hoosiers,84,0,Minnesota Golden Gophers,135,0,Scheduled,"Memorial Stadium (Bloomington, IN)",False
-401856843,2026-10-31T19:30Z,Arizona State Sun Devils at BYU Cougars,9,BYU Cougars,252,0,Arizona State Sun Devils,9,0,Scheduled,LaVell Edwards Stadium,False
-401858505,2026-10-31T19:30Z,Northwestern Wildcats at Oregon Ducks,9,Oregon Ducks,2483,0,Northwestern Wildcats,77,0,Scheduled,Autzen Stadium,False
-401856845,2026-10-31T19:30Z,Kansas Jayhawks at TCU Horned Frogs,9,TCU Horned Frogs,2628,0,Kansas Jayhawks,2305,0,Scheduled,Amon G. Carter Stadium,False
-401860910,2026-10-31T19:30Z,Colorado State Rams at Utah State Aggies,9,Utah State Aggies,328,0,Colorado State Rams,36,0,Scheduled,Maverik Stadium,False
-401864531,2026-10-31T19:30Z,UTEP Miners at North Dakota State Bison,9,North Dakota State Bison,2449,0,UTEP Miners,2638,0,Scheduled,Fargodome,False
-401871059,2026-10-31T19:30Z,Florida International Panthers at Liberty Flames,9,Liberty Flames,2335,0,Florida International Panthers,2229,0,Scheduled,Williams Stadium (VA),False
-401871095,2026-10-31T19:30Z,Southern Miss Golden Eagles at UL Monroe Warhawks,9,UL Monroe Warhawks,2433,0,Southern Miss Golden Eagles,2572,0,Scheduled,Malone Stadium,False
-401856848,2026-10-31T19:45Z,Utah Utes at Cincinnati Bearcats,9,Cincinnati Bearcats,2132,0,Utah Utes,254,0,Scheduled,Nippert Stadium,False
-401858284,2026-10-31T19:45Z,Virginia Cavaliers at Wake Forest Demon Deacons,9,Wake Forest Demon Deacons,154,0,Virginia Cavaliers,258,0,Scheduled,Allegacy Federal Credit Union Stadium,False
-401864529,2026-10-31T20:00Z,New Mexico Lobos at San José State Spartans,9,San José State Spartans,23,0,New Mexico Lobos,167,0,Scheduled,CEFCU Stadium,False
-401856736,2026-10-31T20:15Z,South Carolina Gamecocks at Oklahoma Sooners,9,Oklahoma Sooners,201,0,South Carolina Gamecocks,2579,0,Scheduled,"Memorial Stadium (Norman, OK)",False
-401858506,2026-10-31T20:15Z,Purdue Boilermakers at Penn State Nittany Lions,9,Penn State Nittany Lions,213,0,Purdue Boilermakers,2509,0,Scheduled,Beaver Stadium,False
-401858508,2026-10-31T20:15Z,Nevada Wolf Pack at UCLA Bruins,9,UCLA Bruins,26,0,Nevada Wolf Pack,2440,0,Scheduled,Rose Bowl,False
-401869846,2026-10-31T22:30Z,App State Mountaineers at Georgia Southern Eagles,9,Georgia Southern Eagles,290,0,App State Mountaineers,2026,0,Scheduled,Allen E. Paulson Stadium,False
-401856847,2026-10-31T23:00Z,Oklahoma State Cowboys at Iowa State Cyclones,9,Iowa State Cyclones,66,0,Oklahoma State Cowboys,197,0,Scheduled,Jack Trice Stadium,False
-401858280,2026-10-31T23:00Z,Clemson Tigers at Florida State Seminoles,9,Florida State Seminoles,52,0,Clemson Tigers,228,0,Scheduled,Doak Campbell Stadium,False
-401860909,2026-10-31T23:00Z,Washington State Cougars at San Diego State Aztecs,9,San Diego State Aztecs,21,0,Washington State Cougars,265,0,Scheduled,Snapdragon Stadium,False
-401858282,2026-10-31T23:30Z,Miami Hurricanes at North Carolina Tar Heels,9,North Carolina Tar Heels,153,0,Miami Hurricanes,2390,0,Scheduled,Kenan Stadium,False
-401858509,2026-10-31T23:30Z,Ohio State Buckeyes at USC Trojans,9,USC Trojans,30,0,Ohio State Buckeyes,194,0,Scheduled,Los Angeles Memorial Coliseum,False
-401856737,2026-10-31T23:30Z,Mississippi State Bulldogs at Texas Longhorns,9,Texas Longhorns,251,0,Mississippi State Bulldogs,344,0,Scheduled,DKR-Texas Memorial Stadium,False
-401858281,2026-10-31T23:30Z,Georgia Tech Yellow Jackets at Pittsburgh Panthers,9,Pittsburgh Panthers,221,0,Georgia Tech Yellow Jackets,59,0,Scheduled,Acrisure Stadium,False
-401856733,2026-10-31T23:45Z,Missouri Tigers at Arkansas Razorbacks,9,Arkansas Razorbacks,8,0,Missouri Tigers,142,0,Scheduled,Donald W. Reynolds Razorback Stadium,False
-401858504,2026-11-01T00:00Z,Washington Huskies at Nebraska Cornhuskers,9,Nebraska Cornhuskers,158,0,Washington Huskies,264,0,Scheduled,"Memorial Stadium (Lincoln, NE)",False
-401862814,2026-11-01T00:00Z,Army Black Knights at Memphis Tigers,9,Memphis Tigers,235,0,Army Black Knights,349,0,Scheduled,Simmons Bank Liberty Stadium,False
-401860908,2026-11-01T02:00Z,Texas State Bobcats at Boise State Broncos,9,Boise State Broncos,68,0,Texas State Bobcats,326,0,Scheduled,Albertsons Stadium,False
-401864530,2026-11-01T02:30Z,Northern Illinois Huskies at UNLV Rebels,9,UNLV Rebels,2439,0,Northern Illinois Huskies,2459,0,Scheduled,Allegiant Stadium,False
-401860924,2026-11-01T03:00Z,Oregon State Beavers at Fresno State Bulldogs,9,Fresno State Bulldogs,278,0,Oregon State Beavers,204,0,Scheduled,Valley Children's Stadium,False
-401866453,2026-11-04T00:00Z,Ohio Bobcats at Akron Zips,10,Akron Zips,2006,0,Ohio Bobcats,195,0,Scheduled,InfoCision Stadium,False
-401866454,2026-11-04T01:00Z,Buffalo Bulls at Miami (OH) RedHawks,10,Miami (OH) RedHawks,193,0,Buffalo Bulls,2084,0,Scheduled,Yager Stadium,False
-401866455,2026-11-05T00:00Z,Ball State Cardinals at Massachusetts Minutemen,10,Massachusetts Minutemen,113,0,Ball State Cardinals,2050,0,Scheduled,Warren McGuirk Alumni Stadium,False
-401866457,2026-11-05T00:00Z,Toledo Rockets at Sacramento State Hornets,10,Sacramento State Hornets,16,0,Toledo Rockets,2649,0,Scheduled,Hornet Stadium,False
-401866456,2026-11-05T00:30Z,Central Michigan Chippewas at Eastern Michigan Eagles,10,Eastern Michigan Eagles,2199,0,Central Michigan Chippewas,2117,0,Scheduled,Ford Field,True
-401862817,2026-11-06T00:30Z,UTSA Roadrunners at Florida Atlantic Owls,10,Florida Atlantic Owls,2226,0,UTSA Roadrunners,2636,0,Scheduled,Flagler Credit Union Stadium,False
-401869964,2026-11-06T01:00Z,James Madison Dukes at Southern Miss Golden Eagles,10,Southern Miss Golden Eagles,2572,0,James Madison Dukes,256,0,Scheduled,M. M. Roberts Stadium,False
-401858288,2026-11-07T00:00Z,Virginia Tech Hokies at SMU Mustangs,10,SMU Mustangs,2567,0,Virginia Tech Hokies,259,0,Scheduled,Gerald J. Ford Stadium,False
-401862818,2026-11-07T00:30Z,South Florida Bulls at East Carolina Pirates,10,East Carolina Pirates,151,0,South Florida Bulls,58,0,Scheduled,Dowdy-Ficklen Stadium,False
-401858510,2026-11-07T01:00Z,Nebraska Cornhuskers at Illinois Fighting Illini,10,Illinois Fighting Illini,356,0,Nebraska Cornhuskers,158,0,Scheduled,Gies Memorial Stadium,False
-401864533,2026-11-07T02:00Z,New Mexico Lobos at Nevada Wolf Pack,10,Nevada Wolf Pack,2440,0,New Mexico Lobos,167,0,Scheduled,Mackay Stadium,False
-401856855,2026-11-07T03:15Z,TCU Horned Frogs at Arizona Wildcats,10,Arizona Wildcats,12,0,TCU Horned Frogs,2628,0,Scheduled,Casino Del Sol Stadium,False
-401858516,2026-11-07T05:00Z,Penn State Nittany Lions at Washington Huskies,10,Washington Huskies,264,0,Penn State Nittany Lions,213,0,Scheduled,Husky Stadium,False
-401858511,2026-11-07T05:00Z,Michigan State Spartans at Michigan Wolverines,10,Michigan Wolverines,130,0,Michigan State Spartans,127,0,Scheduled,Michigan Stadium,False
-401856853,2026-11-07T05:00Z,Iowa State Cyclones at Baylor Bears,10,Baylor Bears,239,0,Iowa State Cyclones,66,0,Scheduled,McLane Stadium,False
-401856850,2026-11-07T05:00Z,UCF Knights at Kansas Jayhawks,10,Kansas Jayhawks,2305,0,UCF Knights,2116,0,Scheduled,David Booth Kansas Memorial Stadium,False
-401856854,2026-11-07T05:00Z,Oklahoma State Cowboys at Kansas State Wildcats,10,Kansas State Wildcats,2306,0,Oklahoma State Cowboys,197,0,Scheduled,Bill Snyder Family Stadium,False
-401858513,2026-11-07T05:00Z,Iowa Hawkeyes at Northwestern Wildcats,10,Northwestern Wildcats,77,0,Iowa Hawkeyes,2294,0,Scheduled,Ryan Field,False
-401856851,2026-11-07T05:00Z,Cincinnati Bearcats at Houston Cougars,10,Houston Cougars,248,0,Cincinnati Bearcats,2132,0,Scheduled,TDECU Stadium,False
-401856856,2026-11-07T05:00Z,West Virginia Mountaineers at Texas Tech Red Raiders,10,Texas Tech Red Raiders,2641,0,West Virginia Mountaineers,277,0,Scheduled,Galaxy Stadium,False
-401858512,2026-11-07T05:00Z,UCLA Bruins at Minnesota Golden Gophers,10,Minnesota Golden Gophers,135,0,UCLA Bruins,26,0,Scheduled,Huntington Bank Stadium,False
-401856849,2026-11-07T17:00Z,BYU Cougars at Utah Utes,10,Utah Utes,254,0,BYU Cougars,252,0,Scheduled,Rice-Eccles Stadium,False
-401856743,2026-11-07T17:00Z,Texas Longhorns at Missouri Tigers,10,Missouri Tigers,142,0,Texas Longhorns,251,0,Scheduled,Memorial Stadium,False
-401858285,2026-11-07T17:00Z,Clemson Tigers at Syracuse Orange,10,Syracuse Orange,183,0,Clemson Tigers,228,0,Scheduled,JMA Wireless Dome,False
-401858289,2026-11-07T17:00Z,Florida State Seminoles at Boston College Eagles,10,Boston College Eagles,103,0,Florida State Seminoles,52,0,Scheduled,"Alumni Stadium (Chestnut Hill, MA)",False
-401858292,2026-11-07T17:00Z,North Carolina Tar Heels at UConn Huskies,10,UConn Huskies,41,0,North Carolina Tar Heels,153,0,Scheduled,Pratt & Whitney Stadium,False
-401862822,2026-11-07T17:00Z,Tulsa Golden Hurricane at Tulane Green Wave,10,Tulane Green Wave,2655,0,Tulsa Golden Hurricane,202,0,Scheduled,Yulman Stadium,False
-401858517,2026-11-07T17:30Z,Rutgers Scarlet Knights at Wisconsin Badgers,10,Wisconsin Badgers,275,0,Rutgers Scarlet Knights,164,0,Scheduled,Camp Randall Stadium,False
-401858286,2026-11-07T17:30Z,Duke Blue Devils at NC State Wolfpack,10,NC State Wolfpack,152,0,Duke Blue Devils,150,0,Scheduled,Carter-Finley Stadium,False
-401858515,2026-11-07T17:30Z,Maryland Terrapins at Purdue Boilermakers,10,Purdue Boilermakers,2509,0,Maryland Terrapins,120,0,Scheduled,Ross-Ade Stadium,False
-401856738,2026-11-07T17:45Z,Arkansas Razorbacks at Auburn Tigers,10,Auburn Tigers,2,0,Arkansas Razorbacks,8,0,Scheduled,Jordan-Hare Stadium,False
-401869945,2026-11-07T18:00Z,Old Dominion Monarchs at Coastal Carolina Chanticleers,10,Coastal Carolina Chanticleers,324,0,Old Dominion Monarchs,295,0,Scheduled,Brooks Stadium (SC),False
-401869927,2026-11-07T19:30Z,Georgia State Panthers at App State Mountaineers,10,App State Mountaineers,2026,0,Georgia State Panthers,2247,0,Scheduled,Kidd Brewer Stadium,False
-401856744,2026-11-07T20:00Z,Texas A&M Aggies at South Carolina Gamecocks,10,South Carolina Gamecocks,2579,0,Texas A&M Aggies,245,0,Scheduled,Williams-Brice Stadium,False
-401869936,2026-11-07T20:00Z,UL Monroe Warhawks at Arkansas State Red Wolves,10,Arkansas State Red Wolves,2032,0,UL Monroe Warhawks,2433,0,Scheduled,Centennial Bank Stadium,False
-401871073,2026-11-07T20:00Z,Delaware Blue Hens at Kennesaw State Owls,10,Kennesaw State Owls,338,0,Delaware Blue Hens,48,0,Scheduled,Walens Family Field at Fifth Third Stadium,False
-401858514,2026-11-07T20:30Z,Oregon Ducks at Ohio State Buckeyes,10,Ohio State Buckeyes,194,0,Oregon Ducks,2483,0,Scheduled,Ohio Stadium,False
-401856740,2026-11-07T20:30Z,Alabama Crimson Tide at LSU Tigers,10,LSU Tigers,99,0,Alabama Crimson Tide,333,0,Scheduled,Tiger Stadium (LA),False
-401858290,2026-11-07T20:30Z,Merrimack Warriors at Wake Forest Demon Deacons,10,Wake Forest Demon Deacons,154,0,Merrimack Warriors,2771,0,Scheduled,Allegacy Federal Credit Union Stadium,False
-401862819,2026-11-07T20:30Z,Charlotte 49ers at UAB Blazers,10,UAB Blazers,5,0,Charlotte 49ers,2429,0,Scheduled,Protective Stadium,False
-401862820,2026-11-07T20:30Z,Temple Owls at Navy Midshipmen,10,Navy Midshipmen,2426,0,Temple Owls,218,0,Scheduled,Navy-Marine Corps Memorial Stadium,False
-401869951,2026-11-07T20:30Z,Marshall Thundering Herd at Georgia Southern Eagles,10,Georgia Southern Eagles,290,0,Marshall Thundering Herd,276,0,Scheduled,Allen E. Paulson Stadium,False
-401871076,2026-11-07T20:30Z,Western Kentucky Hilltoppers at Middle Tennessee Blue Raiders,10,Middle Tennessee Blue Raiders,2393,0,Western Kentucky Hilltoppers,98,0,Scheduled,"Johnny ""Red"" Floyd Stadium",False
-401862821,2026-11-07T21:00Z,Rice Owls at North Texas Mean Green,10,North Texas Mean Green,249,0,Rice Owls,242,0,Scheduled,DATCU Stadium,False
-401864534,2026-11-07T21:00Z,Northern Illinois Huskies at San José State Spartans,10,San José State Spartans,23,0,Northern Illinois Huskies,2459,0,Scheduled,CEFCU Stadium,False
-401871074,2026-11-07T21:00Z,Missouri State Bears at Florida International Panthers,10,Florida International Panthers,2229,0,Missouri State Bears,2623,0,Scheduled,Pitbull Stadium,False
-401871098,2026-11-07T21:00Z,Louisiana Tech Bulldogs at Troy Trojans,10,Troy Trojans,2653,0,Louisiana Tech Bulldogs,2348,0,Scheduled,Veterans Memorial Stadium (AL),False
-401856742,2026-11-07T21:15Z,Vanderbilt Commodores at Mississippi State Bulldogs,10,Mississippi State Bulldogs,344,0,Vanderbilt Commodores,238,0,Scheduled,Davis Wade Stadium,False
-401869968,2026-11-07T22:00Z,South Alabama Jaguars at Louisiana Ragin' Cajuns,10,Louisiana Ragin' Cajuns,309,0,South Alabama Jaguars,6,0,Scheduled,Our Lady of Lourdes Stadium,False
-401860911,2026-11-07T23:00Z,Boise State Broncos at Colorado State Rams,10,Colorado State Rams,36,0,Boise State Broncos,68,0,Scheduled,Canvas Stadium,False
-401856745,2026-11-07T23:15Z,Kentucky Wildcats at Tennessee Volunteers,10,Tennessee Volunteers,2633,0,Kentucky Wildcats,96,0,Scheduled,Neyland Stadium,False
-401871075,2026-11-08T00:00Z,Sam Houston Bearkats at Jacksonville State Gamecocks,10,Jacksonville State Gamecocks,55,0,Sam Houston Bearkats,2534,0,Scheduled,AmFirst Stadium,False
-401858291,2026-11-08T00:30Z,Miami Hurricanes at Notre Dame Fighting Irish,10,Notre Dame Fighting Irish,87,0,Miami Hurricanes,2390,0,Scheduled,Notre Dame Stadium,False
-401856741,2026-11-08T00:30Z,Georgia Bulldogs at Ole Miss Rebels,10,Ole Miss Rebels,145,0,Georgia Bulldogs,61,0,Scheduled,Vaught-Hemingway Stadium,False
-401856852,2026-11-08T00:30Z,Colorado Buffaloes at Arizona State Sun Devils,10,Arizona State Sun Devils,9,0,Colorado Buffaloes,38,0,Scheduled,Mountain America Stadium,False
-401858287,2026-11-08T00:30Z,Louisville Cardinals at Georgia Tech Yellow Jackets,10,Georgia Tech Yellow Jackets,59,0,Louisville Cardinals,97,0,Scheduled,Bobby Dodd Stadium,False
-401862823,2026-11-08T00:30Z,Air Force Falcons at Army Black Knights,10,Army Black Knights,349,0,Air Force Falcons,2005,0,Scheduled,Michie Stadium,False
-401856739,2026-11-08T00:45Z,Oklahoma Sooners at Florida Gators,10,Florida Gators,57,0,Oklahoma Sooners,201,0,Scheduled,Ben Hill Griffin Stadium,False
-401870795,2026-11-08T01:00Z,Liberty Flames at New Mexico State Aggies,10,New Mexico State Aggies,166,0,Liberty Flames,2335,0,Scheduled,Aggie Memorial Stadium,False
-401860913,2026-11-08T02:30Z,Fresno State Bulldogs at Utah State Aggies,10,Utah State Aggies,328,0,Fresno State Bulldogs,278,0,Scheduled,Maverik Stadium,False
-401864532,2026-11-08T02:30Z,Hawai'i Rainbow Warriors at UTEP Miners,10,UTEP Miners,2638,0,Hawai'i Rainbow Warriors,62,0,Scheduled,Sun Bowl,False
-401860912,2026-11-08T03:30Z,Texas State Bobcats at Oregon State Beavers,10,Oregon State Beavers,204,0,Texas State Bobcats,326,0,Scheduled,Reser Stadium,False
-401864535,2026-11-08T03:30Z,Wyoming Cowboys at UNLV Rebels,10,UNLV Rebels,2439,0,Wyoming Cowboys,2751,0,Scheduled,Allegiant Stadium,False
-401866460,2026-11-11T00:00Z,Ohio Bobcats at Miami (OH) RedHawks,11,Miami (OH) RedHawks,193,0,Ohio Bobcats,195,0,Scheduled,Yager Stadium,False
+401871058,2026-10-28T23:00Z,Kennesaw State Owls at Middle Tennessee Blue Raiders,9,Middle Tennessee Blue Raiders,2393,28,Kennesaw State Owls,338,44,Final,"Johnny ""Red"" Floyd Stadium",False
+401871057,2026-10-29T00:00Z,Jacksonville State Gamecocks at New Mexico State Aggies,9,New Mexico State Aggies,166,0,Jacksonville State Gamecocks,55,24,Final,Aggie Memorial Stadium,False
+401862812,2026-10-29T23:30Z,Florida Atlantic Owls at North Texas Mean Green,9,North Texas Mean Green,249,48,Florida Atlantic Owls,2226,41,Final,DATCU Stadium,False
+401869963,2026-10-29T23:30Z,Troy Trojans at James Madison Dukes,9,James Madison Dukes,256,21,Troy Trojans,2653,24,Final,Bridgeforth Stadium,False
+401862813,2026-10-30T23:00Z,Tulane Green Wave at Charlotte 49ers,9,Charlotte 49ers,2429,31,Tulane Green Wave,2655,38,Final,Jerry Richardson Stadium,False
+401856844,2026-10-30T23:30Z,Baylor Bears at UCF Knights,9,UCF Knights,2116,9,Baylor Bears,239,41,Final,Acrisure Bounce House,False
+401866451,2026-10-31T02:30Z,Kent State Golden Flashes at Sacramento State Hornets,9,Sacramento State Hornets,16,31,Kent State Golden Flashes,2309,10,Final,Hornet Stadium,False
+401858503,2026-10-31T16:00Z,Illinois Fighting Illini at Maryland Terrapins,9,Maryland Terrapins,120,17,Illinois Fighting Illini,356,20,Final,SECU Stadium,False
+401856842,2026-10-31T16:00Z,Arizona Wildcats at Texas Tech Red Raiders,9,Texas Tech Red Raiders,2641,34,Arizona Wildcats,12,26,Final,Galaxy Stadium,False
+401862816,2026-10-31T16:00Z,UAB Blazers at South Florida Bulls,9,South Florida Bulls,58,30,UAB Blazers,5,10,Final,Raymond James Stadium,False
+401858279,2026-10-31T16:00Z,Boston College Eagles at Duke Blue Devils,9,Duke Blue Devils,150,47,Boston College Eagles,103,2,Final,Wallace Wade Stadium,False
+401866452,2026-10-31T16:00Z,Bowling Green Falcons at Western Michigan Broncos,9,Western Michigan Broncos,2711,23,Bowling Green Falcons,189,10,Final,Waldo Stadium,False
+401858278,2026-10-31T16:00Z,SMU Mustangs at Syracuse Orange,9,Syracuse Orange,183,30,SMU Mustangs,2567,27,Final,JMA Wireless Dome,False
+401859185,2026-10-31T16:00Z,Notre Dame Fighting Irish at Navy Midshipmen,9,Navy Midshipmen,2426,13,Notre Dame Fighting Irish,87,35,Final,Gillette Stadium,True
+401858277,2026-10-31T16:00Z,California Golden Bears at NC State Wolfpack,9,NC State Wolfpack,152,31,California Golden Bears,25,10,Final,Carter-Finley Stadium,False
+401858502,2026-10-31T16:00Z,Wisconsin Badgers at Iowa Hawkeyes,9,Iowa Hawkeyes,2294,30,Wisconsin Badgers,275,0,Final,Kinnick Stadium,False
+401858507,2026-10-31T16:30Z,Michigan Wolverines at Rutgers Scarlet Knights,9,Rutgers Scarlet Knights,164,21,Michigan Wolverines,130,28,Final,SHI Stadium,False
+401856735,2026-10-31T16:45Z,Auburn Tigers at Ole Miss Rebels,9,Ole Miss Rebels,145,45,Auburn Tigers,2,15,Final,Vaught-Hemingway Stadium,False
+401871096,2026-10-31T17:00Z,Marshall Thundering Herd at Old Dominion Monarchs,9,Old Dominion Monarchs,295,23,Marshall Thundering Herd,276,36,Final,S.B. Ballard Stadium,False
+401869944,2026-10-31T18:00Z,Coastal Carolina Chanticleers at Georgia State Panthers,9,Georgia State Panthers,2247,20,Coastal Carolina Chanticleers,324,31,Final,Center Parc Stadium,False
+401856846,2026-10-31T18:00Z,Kansas State Wildcats at Colorado Buffaloes,9,Colorado Buffaloes,38,27,Kansas State Wildcats,2306,24,Final,Folsom Field,False
+401861966,2026-10-31T19:00Z,UConn Huskies at Air Force Falcons,9,Air Force Falcons,2005,35,UConn Huskies,41,26,Final,Falcon Stadium,False
+401871097,2026-10-31T19:00Z,Louisiana Tech Bulldogs at South Alabama Jaguars,9,South Alabama Jaguars,6,20,Louisiana Tech Bulldogs,2348,35,Final,Hancock Whitney Stadium,False
+401862815,2026-10-31T19:00Z,Temple Owls at East Carolina Pirates,9,East Carolina Pirates,151,17,Temple Owls,218,9,Final,Dowdy-Ficklen Stadium,False
+401858283,2026-10-31T19:15Z,Stanford Cardinal at Louisville Cardinals,9,Louisville Cardinals,97,52,Stanford Cardinal,24,24,Final,L&N Federal Credit Union Stadium,False
+401871059,2026-10-31T19:30Z,Florida International Panthers at Liberty Flames,9,Liberty Flames,2335,49,Florida International Panthers,2229,10,Final,Williams Stadium (VA),False
+401860910,2026-10-31T19:30Z,Colorado State Rams at Utah State Aggies,9,Utah State Aggies,328,31,Colorado State Rams,36,14,Final,Maverik Stadium,False
+401858505,2026-10-31T19:30Z,Northwestern Wildcats at Oregon Ducks,9,Oregon Ducks,2483,34,Northwestern Wildcats,77,26,Final,Autzen Stadium,False
+401856845,2026-10-31T19:30Z,Kansas Jayhawks at TCU Horned Frogs,9,TCU Horned Frogs,2628,22,Kansas Jayhawks,2305,16,Final,Amon G. Carter Stadium,False
+401871095,2026-10-31T19:30Z,Southern Miss Golden Eagles at UL Monroe Warhawks,9,UL Monroe Warhawks,2433,21,Southern Miss Golden Eagles,2572,35,Final,Malone Stadium,False
+401856843,2026-10-31T19:30Z,Arizona State Sun Devils at BYU Cougars,9,BYU Cougars,252,27,Arizona State Sun Devils,9,20,Final,LaVell Edwards Stadium,False
+401856734,2026-10-31T19:30Z,Florida Gators at Georgia Bulldogs,9,Georgia Bulldogs,61,27,Florida Gators,57,8,Final,Mercedes-Benz Stadium,True
+401864531,2026-10-31T19:30Z,UTEP Miners at North Dakota State Bison,9,North Dakota State Bison,2449,31,UTEP Miners,2638,7,Final,Fargodome,False
+401858501,2026-10-31T19:30Z,Minnesota Golden Gophers at Indiana Hoosiers,9,Indiana Hoosiers,84,23,Minnesota Golden Gophers,135,16,Final,"Memorial Stadium (Bloomington, IN)",False
+401856848,2026-10-31T19:45Z,Utah Utes at Cincinnati Bearcats,9,Cincinnati Bearcats,2132,25,Utah Utes,254,49,Final,Nippert Stadium,False
+401858284,2026-10-31T19:45Z,Virginia Cavaliers at Wake Forest Demon Deacons,9,Wake Forest Demon Deacons,154,51,Virginia Cavaliers,258,7,Final,Allegacy Federal Credit Union Stadium,False
+401864529,2026-10-31T20:00Z,New Mexico Lobos at San José State Spartans,9,San José State Spartans,23,16,New Mexico Lobos,167,21,Final,CEFCU Stadium,False
+401856736,2026-10-31T20:15Z,South Carolina Gamecocks at Oklahoma Sooners,9,Oklahoma Sooners,201,25,South Carolina Gamecocks,2579,42,Final,"Memorial Stadium (Norman, OK)",False
+401858506,2026-10-31T20:15Z,Purdue Boilermakers at Penn State Nittany Lions,9,Penn State Nittany Lions,213,31,Purdue Boilermakers,2509,17,Final,Beaver Stadium,False
+401858508,2026-10-31T20:15Z,Nevada Wolf Pack at UCLA Bruins,9,UCLA Bruins,26,27,Nevada Wolf Pack,2440,0,Final,Rose Bowl,False
+401869846,2026-10-31T22:30Z,App State Mountaineers at Georgia Southern Eagles,9,Georgia Southern Eagles,290,19,App State Mountaineers,2026,3,Final,Allen E. Paulson Stadium,False
+401858280,2026-10-31T23:00Z,Clemson Tigers at Florida State Seminoles,9,Florida State Seminoles,52,24,Clemson Tigers,228,36,Final,Doak Campbell Stadium,False
+401856847,2026-10-31T23:00Z,Oklahoma State Cowboys at Iowa State Cyclones,9,Iowa State Cyclones,66,51,Oklahoma State Cowboys,197,49,Final,Jack Trice Stadium,False
+401860909,2026-10-31T23:00Z,Washington State Cougars at San Diego State Aztecs,9,San Diego State Aztecs,21,26,Washington State Cougars,265,20,Final,Snapdragon Stadium,False
+401856737,2026-10-31T23:30Z,Mississippi State Bulldogs at Texas Longhorns,9,Texas Longhorns,251,31,Mississippi State Bulldogs,344,3,Final,DKR-Texas Memorial Stadium,False
+401858281,2026-10-31T23:30Z,Georgia Tech Yellow Jackets at Pittsburgh Panthers,9,Pittsburgh Panthers,221,34,Georgia Tech Yellow Jackets,59,11,Final,Acrisure Stadium,False
+401858282,2026-10-31T23:30Z,Miami Hurricanes at North Carolina Tar Heels,9,North Carolina Tar Heels,153,35,Miami Hurricanes,2390,38,Final,Kenan Stadium,False
+401858509,2026-10-31T23:30Z,Ohio State Buckeyes at USC Trojans,9,USC Trojans,30,30,Ohio State Buckeyes,194,18,Final,Los Angeles Memorial Coliseum,False
+401856733,2026-10-31T23:45Z,Missouri Tigers at Arkansas Razorbacks,9,Arkansas Razorbacks,8,10,Missouri Tigers,142,34,Final,Donald W. Reynolds Razorback Stadium,False
+401858504,2026-11-01T00:00Z,Washington Huskies at Nebraska Cornhuskers,9,Nebraska Cornhuskers,158,10,Washington Huskies,264,17,Final,"Memorial Stadium (Lincoln, NE)",False
+401862814,2026-11-01T00:00Z,Army Black Knights at Memphis Tigers,9,Memphis Tigers,235,49,Army Black Knights,349,22,Final,Simmons Bank Liberty Stadium,False
+401860908,2026-11-01T02:00Z,Texas State Bobcats at Boise State Broncos,9,Boise State Broncos,68,46,Texas State Bobcats,326,45,Final,Albertsons Stadium,False
+401864530,2026-11-01T02:30Z,Northern Illinois Huskies at UNLV Rebels,9,UNLV Rebels,2439,31,Northern Illinois Huskies,2459,24,Final,Allegiant Stadium,False
+401860924,2026-11-01T03:00Z,Oregon State Beavers at Fresno State Bulldogs,9,Fresno State Bulldogs,278,38,Oregon State Beavers,204,22,Final,Valley Children's Stadium,False
+401866453,2026-11-04T00:00Z,Ohio Bobcats at Akron Zips,10,Akron Zips,2006,20,Ohio Bobcats,195,28,Final,InfoCision Stadium,False
+401866454,2026-11-04T01:00Z,Buffalo Bulls at Miami (OH) RedHawks,10,Miami (OH) RedHawks,193,31,Buffalo Bulls,2084,34,Final,Yager Stadium,False
+401866455,2026-11-05T00:00Z,Ball State Cardinals at Massachusetts Minutemen,10,Massachusetts Minutemen,113,31,Ball State Cardinals,2050,30,Final,Warren McGuirk Alumni Stadium,False
+401866457,2026-11-05T00:00Z,Toledo Rockets at Sacramento State Hornets,10,Sacramento State Hornets,16,17,Toledo Rockets,2649,20,Final,Hornet Stadium,False
+401866456,2026-11-05T00:30Z,Central Michigan Chippewas at Eastern Michigan Eagles,10,Eastern Michigan Eagles,2199,7,Central Michigan Chippewas,2117,35,Final,Ford Field,True
+401862817,2026-11-06T00:30Z,UTSA Roadrunners at Florida Atlantic Owls,10,Florida Atlantic Owls,2226,60,UTSA Roadrunners,2636,29,Final,Flagler Credit Union Stadium,False
+401869964,2026-11-06T01:00Z,James Madison Dukes at Southern Miss Golden Eagles,10,Southern Miss Golden Eagles,2572,23,James Madison Dukes,256,54,Final,M. M. Roberts Stadium,False
+401858288,2026-11-07T00:00Z,Virginia Tech Hokies at SMU Mustangs,10,SMU Mustangs,2567,51,Virginia Tech Hokies,259,28,Final,Gerald J. Ford Stadium,False
+401862818,2026-11-07T00:30Z,South Florida Bulls at East Carolina Pirates,10,East Carolina Pirates,151,20,South Florida Bulls,58,17,Final,Dowdy-Ficklen Stadium,False
+401858510,2026-11-07T01:00Z,Nebraska Cornhuskers at Illinois Fighting Illini,10,Illinois Fighting Illini,356,24,Nebraska Cornhuskers,158,13,Final,Gies Memorial Stadium,False
+401864533,2026-11-07T02:00Z,New Mexico Lobos at Nevada Wolf Pack,10,Nevada Wolf Pack,2440,3,New Mexico Lobos,167,31,Final,Mackay Stadium,False
+401856855,2026-11-07T03:15Z,TCU Horned Frogs at Arizona Wildcats,10,Arizona Wildcats,12,29,TCU Horned Frogs,2628,28,Final,Casino Del Sol Stadium,False
+401858292,2026-11-07T17:00Z,North Carolina Tar Heels at UConn Huskies,10,UConn Huskies,41,21,North Carolina Tar Heels,153,38,Final,Pratt & Whitney Stadium,False
+401858289,2026-11-07T17:00Z,Florida State Seminoles at Boston College Eagles,10,Boston College Eagles,103,24,Florida State Seminoles,52,31,Final,"Alumni Stadium (Chestnut Hill, MA)",False
+401858285,2026-11-07T17:00Z,Clemson Tigers at Syracuse Orange,10,Syracuse Orange,183,13,Clemson Tigers,228,18,Final,JMA Wireless Dome,False
+401862822,2026-11-07T17:00Z,Tulsa Golden Hurricane at Tulane Green Wave,10,Tulane Green Wave,2655,10,Tulsa Golden Hurricane,202,60,Final,Yulman Stadium,False
+401858512,2026-11-07T17:00Z,UCLA Bruins at Minnesota Golden Gophers,10,Minnesota Golden Gophers,135,20,UCLA Bruins,26,34,Final,Huntington Bank Stadium,False
+401856853,2026-11-07T17:00Z,Iowa State Cyclones at Baylor Bears,10,Baylor Bears,239,42,Iowa State Cyclones,66,31,Final,McLane Stadium,False
+401856849,2026-11-07T17:00Z,BYU Cougars at Utah Utes,10,Utah Utes,254,28,BYU Cougars,252,20,Final,Rice-Eccles Stadium,False
+401856743,2026-11-07T17:00Z,Texas Longhorns at Missouri Tigers,10,Missouri Tigers,142,20,Texas Longhorns,251,34,Final,Memorial Stadium,False
+401858515,2026-11-07T17:30Z,Maryland Terrapins at Purdue Boilermakers,10,Purdue Boilermakers,2509,29,Maryland Terrapins,120,34,Final,Ross-Ade Stadium,False
+401858286,2026-11-07T17:30Z,Duke Blue Devils at NC State Wolfpack,10,NC State Wolfpack,152,3,Duke Blue Devils,150,41,Final,Carter-Finley Stadium,False
+401856738,2026-11-07T17:45Z,Arkansas Razorbacks at Auburn Tigers,10,Auburn Tigers,2,26,Arkansas Razorbacks,8,23,Final,Jordan-Hare Stadium,False
+401869945,2026-11-07T18:00Z,Old Dominion Monarchs at Coastal Carolina Chanticleers,10,Coastal Carolina Chanticleers,324,8,Old Dominion Monarchs,295,21,Final,Brooks Stadium (SC),False
+401856854,2026-11-07T18:00Z,Oklahoma State Cowboys at Kansas State Wildcats,10,Kansas State Wildcats,2306,28,Oklahoma State Cowboys,197,66,Final,Bill Snyder Family Stadium,False
+401869927,2026-11-07T19:30Z,Georgia State Panthers at App State Mountaineers,10,App State Mountaineers,2026,23,Georgia State Panthers,2247,39,Final,Kidd Brewer Stadium,False
+401869936,2026-11-07T20:00Z,UL Monroe Warhawks at Arkansas State Red Wolves,10,Arkansas State Red Wolves,2032,17,UL Monroe Warhawks,2433,19,Final,Centennial Bank Stadium,False
+401856744,2026-11-07T20:00Z,Texas A&M Aggies at South Carolina Gamecocks,10,South Carolina Gamecocks,2579,17,Texas A&M Aggies,245,9,Final,Williams-Brice Stadium,False
+401871073,2026-11-07T20:00Z,Delaware Blue Hens at Kennesaw State Owls,10,Kennesaw State Owls,338,42,Delaware Blue Hens,48,40,Final,Walens Family Field at Fifth Third Stadium,False
+401858514,2026-11-07T20:30Z,Oregon Ducks at Ohio State Buckeyes,10,Ohio State Buckeyes,194,28,Oregon Ducks,2483,41,Final,Ohio Stadium,False
+401856851,2026-11-07T20:30Z,Cincinnati Bearcats at Houston Cougars,10,Houston Cougars,248,31,Cincinnati Bearcats,2132,24,Final,TDECU Stadium,False
+401862819,2026-11-07T20:30Z,Charlotte 49ers at UAB Blazers,10,UAB Blazers,5,23,Charlotte 49ers,2429,12,Final,Protective Stadium,False
+401856740,2026-11-07T20:30Z,Alabama Crimson Tide at LSU Tigers,10,LSU Tigers,99,13,Alabama Crimson Tide,333,31,Final,Tiger Stadium (LA),False
+401862820,2026-11-07T20:30Z,Temple Owls at Navy Midshipmen,10,Navy Midshipmen,2426,42,Temple Owls,218,35,Final,Navy-Marine Corps Memorial Stadium,False
+401869951,2026-11-07T20:30Z,Marshall Thundering Herd at Georgia Southern Eagles,10,Georgia Southern Eagles,290,49,Marshall Thundering Herd,276,13,Final,Allen E. Paulson Stadium,False
+401871076,2026-11-07T20:30Z,Western Kentucky Hilltoppers at Middle Tennessee Blue Raiders,10,Middle Tennessee Blue Raiders,2393,51,Western Kentucky Hilltoppers,98,42,Final,"Johnny ""Red"" Floyd Stadium",False
+401858290,2026-11-07T20:30Z,Merrimack Warriors at Wake Forest Demon Deacons,10,Wake Forest Demon Deacons,154,77,Merrimack Warriors,2771,0,Final,Allegacy Federal Credit Union Stadium,False
+401858516,2026-11-07T20:30Z,Penn State Nittany Lions at Washington Huskies,10,Washington Huskies,264,25,Penn State Nittany Lions,213,28,Final,Husky Stadium,False
+401856850,2026-11-07T20:45Z,UCF Knights at Kansas Jayhawks,10,Kansas Jayhawks,2305,32,UCF Knights,2116,33,Final,David Booth Kansas Memorial Stadium,False
+401862821,2026-11-07T21:00Z,Rice Owls at North Texas Mean Green,10,North Texas Mean Green,249,52,Rice Owls,242,23,Final,DATCU Stadium,False
+401871074,2026-11-07T21:00Z,Missouri State Bears at Florida International Panthers,10,Florida International Panthers,2229,23,Missouri State Bears,2623,20,Final,Pitbull Stadium,False
+401871098,2026-11-07T21:00Z,Louisiana Tech Bulldogs at Troy Trojans,10,Troy Trojans,2653,17,Louisiana Tech Bulldogs,2348,41,Final,Veterans Memorial Stadium (AL),False
+401864534,2026-11-07T21:00Z,Northern Illinois Huskies at San José State Spartans,10,San José State Spartans,23,30,Northern Illinois Huskies,2459,19,Final,CEFCU Stadium,False
+401856742,2026-11-07T21:15Z,Vanderbilt Commodores at Mississippi State Bulldogs,10,Mississippi State Bulldogs,344,23,Vanderbilt Commodores,238,25,Final,Davis Wade Stadium,False
+401858517,2026-11-07T21:15Z,Rutgers Scarlet Knights at Wisconsin Badgers,10,Wisconsin Badgers,275,31,Rutgers Scarlet Knights,164,10,Final,Camp Randall Stadium,False
+401869968,2026-11-07T22:00Z,South Alabama Jaguars at Louisiana Ragin' Cajuns,10,Louisiana Ragin' Cajuns,309,28,South Alabama Jaguars,6,26,Final,Our Lady of Lourdes Stadium,False
+401860911,2026-11-07T23:00Z,Boise State Broncos at Colorado State Rams,10,Colorado State Rams,36,38,Boise State Broncos,68,64,Final,Canvas Stadium,False
+401856745,2026-11-07T23:15Z,Kentucky Wildcats at Tennessee Volunteers,10,Tennessee Volunteers,2633,34,Kentucky Wildcats,96,6,Final,Neyland Stadium,False
+401871075,2026-11-08T00:00Z,Sam Houston Bearkats at Jacksonville State Gamecocks,10,Jacksonville State Gamecocks,55,47,Sam Houston Bearkats,2534,14,Final,AmFirst Stadium,False
+401858291,2026-11-08T00:30Z,Miami Hurricanes at Notre Dame Fighting Irish,10,Notre Dame Fighting Irish,87,31,Miami Hurricanes,2390,24,Final,Notre Dame Stadium,False
+401858511,2026-11-08T00:30Z,Michigan State Spartans at Michigan Wolverines,10,Michigan Wolverines,130,6,Michigan State Spartans,127,15,Final,Michigan Stadium,False
+401858287,2026-11-08T00:30Z,Louisville Cardinals at Georgia Tech Yellow Jackets,10,Georgia Tech Yellow Jackets,59,17,Louisville Cardinals,97,44,Final,Bobby Dodd Stadium,False
+401856852,2026-11-08T00:30Z,Colorado Buffaloes at Arizona State Sun Devils,10,Arizona State Sun Devils,9,20,Colorado Buffaloes,38,10,Final,Mountain America Stadium,False
+401862823,2026-11-08T00:30Z,Air Force Falcons at Army Black Knights,10,Army Black Knights,349,21,Air Force Falcons,2005,24,Final,Michie Stadium,False
+401858513,2026-11-08T00:30Z,Iowa Hawkeyes at Northwestern Wildcats,10,Northwestern Wildcats,77,10,Iowa Hawkeyes,2294,24,Final,Ryan Field,False
+401856741,2026-11-08T00:30Z,Georgia Bulldogs at Ole Miss Rebels,10,Ole Miss Rebels,145,7,Georgia Bulldogs,61,42,Final,Vaught-Hemingway Stadium,False
+401856739,2026-11-08T00:45Z,Oklahoma Sooners at Florida Gators,10,Florida Gators,57,7,Oklahoma Sooners,201,23,Final,Ben Hill Griffin Stadium,False
+401870795,2026-11-08T01:00Z,Liberty Flames at New Mexico State Aggies,10,New Mexico State Aggies,166,14,Liberty Flames,2335,30,Final,Aggie Memorial Stadium,False
+401860913,2026-11-08T02:30Z,Fresno State Bulldogs at Utah State Aggies,10,Utah State Aggies,328,17,Fresno State Bulldogs,278,10,Final,Maverik Stadium,False
+401864532,2026-11-08T02:30Z,Hawai'i Rainbow Warriors at UTEP Miners,10,UTEP Miners,2638,14,Hawai'i Rainbow Warriors,62,17,Final,Sun Bowl,False
+401856856,2026-11-08T02:30Z,West Virginia Mountaineers at Texas Tech Red Raiders,10,Texas Tech Red Raiders,2641,53,West Virginia Mountaineers,277,48,Final,Galaxy Stadium,False
+401860912,2026-11-08T03:30Z,Texas State Bobcats at Oregon State Beavers,10,Oregon State Beavers,204,21,Texas State Bobcats,326,42,Final,Reser Stadium,False
+401864535,2026-11-08T03:30Z,Wyoming Cowboys at UNLV Rebels,10,UNLV Rebels,2439,35,Wyoming Cowboys,2751,41,Final,Allegiant Stadium,False
 401866458,2026-11-11T00:00Z,Western Michigan Broncos at Akron Zips,11,Akron Zips,2006,0,Western Michigan Broncos,2711,0,Scheduled,InfoCision Stadium,False
 401866459,2026-11-11T00:00Z,Kent State Golden Flashes at Bowling Green Falcons,11,Bowling Green Falcons,189,0,Kent State Golden Flashes,2309,0,Scheduled,Doyt L. Perry Stadium,False
-401866461,2026-11-11T05:00Z,Buffalo Bulls at Ball State Cardinals,11,Ball State Cardinals,2050,0,Buffalo Bulls,2084,0,Scheduled,Scheumann Stadium,False
-401866462,2026-11-11T05:00Z,Sacramento State Hornets at Central Michigan Chippewas,11,Central Michigan Chippewas,2117,0,Sacramento State Hornets,16,0,Scheduled,Kelly/Shorts Stadium,False
-401866463,2026-11-11T05:00Z,Massachusetts Minutemen at Toledo Rockets,11,Toledo Rockets,2649,0,Massachusetts Minutemen,113,0,Scheduled,Glass Bowl,False
+401866460,2026-11-11T01:00Z,Ohio Bobcats at Miami (OH) RedHawks,11,Miami (OH) RedHawks,193,0,Ohio Bobcats,195,0,Scheduled,Yager Stadium,False
+401866463,2026-11-12T00:30Z,Massachusetts Minutemen at Toledo Rockets,11,Toledo Rockets,2649,0,Massachusetts Minutemen,113,0,Scheduled,Glass Bowl,False
+401866461,2026-11-12T00:30Z,Buffalo Bulls at Ball State Cardinals,11,Ball State Cardinals,2050,0,Buffalo Bulls,2084,0,Scheduled,Scheumann Stadium,False
+401866462,2026-11-12T00:30Z,Sacramento State Hornets at Central Michigan Chippewas,11,Central Michigan Chippewas,2117,0,Sacramento State Hornets,16,0,Scheduled,Kelly/Shorts Stadium,False
 401862824,2026-11-13T01:00Z,Memphis Tigers at South Florida Bulls,11,South Florida Bulls,58,0,Memphis Tigers,235,0,Scheduled,Raymond James Stadium,False
 401869969,2026-11-13T02:00Z,Louisiana Ragin' Cajuns at UL Monroe Warhawks,11,UL Monroe Warhawks,2433,0,Louisiana Ragin' Cajuns,309,0,Scheduled,Malone Stadium,False
 401858293,2026-11-14T00:00Z,Florida State Seminoles at Pittsburgh Panthers,11,Pittsburgh Panthers,221,0,Florida State Seminoles,52,0,Scheduled,Acrisure Stadium,False
 401858526,2026-11-14T02:00Z,Illinois Fighting Illini at UCLA Bruins,11,UCLA Bruins,26,0,Illinois Fighting Illini,356,0,Scheduled,Rose Bowl,False
 401856860,2026-11-14T03:15Z,Houston Cougars at Colorado Buffaloes,11,Colorado Buffaloes,38,0,Houston Cougars,248,0,Scheduled,Folsom Field,False
-401858298,2026-11-14T05:00Z,Louisville Cardinals at North Carolina Tar Heels,11,North Carolina Tar Heels,153,0,Louisville Cardinals,97,0,Scheduled,Kenan Stadium,False
-401871100,2026-11-14T05:00Z,Troy Trojans at South Alabama Jaguars,11,South Alabama Jaguars,6,0,Troy Trojans,2653,0,Scheduled,Hancock Whitney Stadium,False
-401858524,2026-11-14T05:00Z,Minnesota Golden Gophers at Penn State Nittany Lions,11,Penn State Nittany Lions,213,0,Minnesota Golden Gophers,135,0,Scheduled,Beaver Stadium,False
-401858523,2026-11-14T05:00Z,Michigan Wolverines at Oregon Ducks,11,Oregon Ducks,2483,0,Michigan Wolverines,130,0,Scheduled,Autzen Stadium,False
-401858299,2026-11-14T05:00Z,Stanford Cardinal at Virginia Tech Hokies,11,Virginia Tech Hokies,259,0,Stanford Cardinal,24,0,Scheduled,Lane Stadium,False
-401858519,2026-11-14T05:00Z,Purdue Boilermakers at Iowa Hawkeyes,11,Iowa Hawkeyes,2294,0,Purdue Boilermakers,2509,0,Scheduled,Kinnick Stadium,False
-401858300,2026-11-14T05:00Z,Syracuse Orange at NC State Wolfpack,11,NC State Wolfpack,152,0,Syracuse Orange,183,0,Scheduled,Carter-Finley Stadium,False
-401858525,2026-11-14T05:00Z,Nebraska Cornhuskers at Rutgers Scarlet Knights,11,Rutgers Scarlet Knights,164,0,Nebraska Cornhuskers,158,0,Scheduled,SHI Stadium,False
-401858521,2026-11-14T05:00Z,Washington Huskies at Michigan State Spartans,11,Michigan State Spartans,127,0,Washington Huskies,264,0,Scheduled,Spartan Stadium,False
-401862825,2026-11-14T05:00Z,East Carolina Pirates at Charlotte 49ers,11,Charlotte 49ers,2429,0,East Carolina Pirates,151,0,Scheduled,Jerry Richardson Stadium,False
-401864536,2026-11-14T05:00Z,Nevada Wolf Pack at Northern Illinois Huskies,11,Northern Illinois Huskies,2459,0,Nevada Wolf Pack,2440,0,Scheduled,Huskie Stadium,False
-401862827,2026-11-14T05:00Z,North Texas Mean Green at UTSA Roadrunners,11,UTSA Roadrunners,2636,0,North Texas Mean Green,249,0,Scheduled,Alamodome,False
-401862828,2026-11-14T05:00Z,Tulane Green Wave at Rice Owls,11,Rice Owls,242,0,Tulane Green Wave,2655,0,Scheduled,First Community Stadium,False
-401862829,2026-11-14T05:00Z,UAB Blazers at Temple Owls,11,Temple Owls,218,0,UAB Blazers,5,0,Scheduled,Lincoln Financial Field,False
-401864540,2026-11-14T05:00Z,Wyoming Cowboys at UTEP Miners,11,UTEP Miners,2638,0,Wyoming Cowboys,2751,0,Scheduled,Sun Bowl,False
-401869928,2026-11-14T05:00Z,App State Mountaineers at Marshall Thundering Herd,11,Marshall Thundering Herd,276,0,App State Mountaineers,2026,0,Scheduled,Joan C. Edwards Stadium,False
-401869937,2026-11-14T05:00Z,Arkansas State Red Wolves at Coastal Carolina Chanticleers,11,Coastal Carolina Chanticleers,324,0,Arkansas State Red Wolves,2032,0,Scheduled,Brooks Stadium (SC),False
-401869952,2026-11-14T05:00Z,Georgia Southern Eagles at Georgia State Panthers,11,Georgia State Panthers,2247,0,Georgia Southern Eagles,290,0,Scheduled,Center Parc Stadium,False
-401871099,2026-11-14T05:00Z,Southern Miss Golden Eagles at Louisiana Tech Bulldogs,11,Louisiana Tech Bulldogs,2348,0,Southern Miss Golden Eagles,2572,0,Scheduled,Joe Aillet Stadium,False
-401862826,2026-11-14T05:00Z,Florida Atlantic Owls at Tulsa Golden Hurricane,11,Tulsa Golden Hurricane,202,0,Florida Atlantic Owls,2226,0,Scheduled,H. A. Chapman Stadium,False
-401858297,2026-11-14T05:00Z,Georgia Tech Yellow Jackets at Clemson Tigers,11,Clemson Tigers,228,0,Georgia Tech Yellow Jackets,59,0,Scheduled,"Memorial Stadium (Clemson, SC)",False
-401856888,2026-11-14T05:00Z,Tennessee Volunteers at Texas A&M Aggies,11,Texas A&M Aggies,245,0,Tennessee Volunteers,2633,0,Scheduled,Kyle Field,False
-401856886,2026-11-14T05:00Z,Auburn Tigers at Mississippi State Bulldogs,11,Mississippi State Bulldogs,344,0,Auburn Tigers,2,0,Scheduled,Davis Wade Stadium,False
-401858296,2026-11-14T05:00Z,Duke Blue Devils at Miami Hurricanes,11,Miami Hurricanes,2390,0,Duke Blue Devils,150,0,Scheduled,Hard Rock Stadium,False
-401858522,2026-11-14T05:00Z,Northwestern Wildcats at Ohio State Buckeyes,11,Ohio State Buckeyes,194,0,Northwestern Wildcats,77,0,Scheduled,Ohio Stadium,False
-401856883,2026-11-14T05:00Z,Missouri Tigers at Georgia Bulldogs,11,Georgia Bulldogs,61,0,Missouri Tigers,142,0,Scheduled,Sanford Stadium,False
-401858518,2026-11-14T05:00Z,USC Trojans at Indiana Hoosiers,11,Indiana Hoosiers,84,0,USC Trojans,30,0,Scheduled,"Memorial Stadium (Bloomington, IN)",False
-401856864,2026-11-14T05:00Z,Utah Utes at Arizona Wildcats,11,Arizona Wildcats,12,0,Utah Utes,254,0,Scheduled,Casino Del Sol Stadium,False
-401856858,2026-11-14T05:00Z,Baylor Bears at BYU Cougars,11,BYU Cougars,252,0,Baylor Bears,239,0,Scheduled,LaVell Edwards Stadium,False
-401856884,2026-11-14T05:00Z,Florida Gators at Kentucky Wildcats,11,Kentucky Wildcats,96,0,Florida Gators,57,0,Scheduled,Kroger Field,False
-401856889,2026-11-14T05:00Z,Alabama Crimson Tide at Vanderbilt Commodores,11,Vanderbilt Commodores,238,0,Alabama Crimson Tide,333,0,Scheduled,FirstBank Stadium,False
-401856885,2026-11-14T05:00Z,Texas Longhorns at LSU Tigers,11,LSU Tigers,99,0,Texas Longhorns,251,0,Scheduled,Tiger Stadium (LA),False
-401858295,2026-11-14T05:00Z,California Golden Bears at Virginia Cavaliers,11,Virginia Cavaliers,258,0,California Golden Bears,25,0,Scheduled,Scott Stadium,False
-401856863,2026-11-14T05:00Z,Texas Tech Red Raiders at Oklahoma State Cowboys,11,Oklahoma State Cowboys,197,0,Texas Tech Red Raiders,2641,0,Scheduled,Boone Pickens Stadium,False
-401856882,2026-11-14T05:00Z,South Carolina Gamecocks at Arkansas Razorbacks,11,Arkansas Razorbacks,8,0,South Carolina Gamecocks,2579,0,Scheduled,Donald W. Reynolds Razorback Stadium,False
-401856862,2026-11-14T05:00Z,Kansas State Wildcats at TCU Horned Frogs,11,TCU Horned Frogs,2628,0,Kansas State Wildcats,2306,0,Scheduled,Amon G. Carter Stadium,False
-401856861,2026-11-14T05:00Z,Kansas Jayhawks at West Virginia Mountaineers,11,West Virginia Mountaineers,277,0,Kansas Jayhawks,2305,0,Scheduled,Milan Puskar Stadium,False
-401856887,2026-11-14T05:00Z,Ole Miss Rebels at Oklahoma Sooners,11,Oklahoma Sooners,201,0,Ole Miss Rebels,145,0,Scheduled,"Memorial Stadium (Norman, OK)",False
-401856857,2026-11-14T05:00Z,Arizona State Sun Devils at UCF Knights,11,UCF Knights,2116,0,Arizona State Sun Devils,9,0,Scheduled,Acrisure Bounce House,False
-401858520,2026-11-14T05:00Z,Wisconsin Badgers at Maryland Terrapins,11,Maryland Terrapins,120,0,Wisconsin Badgers,275,0,Scheduled,SECU Stadium,False
-401858301,2026-11-14T05:00Z,Wake Forest Demon Deacons at SMU Mustangs,11,SMU Mustangs,2567,0,Wake Forest Demon Deacons,154,0,Scheduled,Gerald J. Ford Stadium,False
-401856859,2026-11-14T05:00Z,Cincinnati Bearcats at Iowa State Cyclones,11,Iowa State Cyclones,66,0,Cincinnati Bearcats,2132,0,Scheduled,Jack Trice Stadium,False
+401858301,2026-11-14T17:00Z,Wake Forest Demon Deacons at SMU Mustangs,11,SMU Mustangs,2567,0,Wake Forest Demon Deacons,154,0,Scheduled,Gerald J. Ford Stadium,False
+401858296,2026-11-14T17:00Z,Duke Blue Devils at Miami Hurricanes,11,Miami Hurricanes,2390,0,Duke Blue Devils,150,0,Scheduled,Hard Rock Stadium,False
+401858522,2026-11-14T17:00Z,Northwestern Wildcats at Ohio State Buckeyes,11,Ohio State Buckeyes,194,0,Northwestern Wildcats,77,0,Scheduled,Ohio Stadium,False
+401856859,2026-11-14T17:00Z,Cincinnati Bearcats at Iowa State Cyclones,11,Iowa State Cyclones,66,0,Cincinnati Bearcats,2132,0,Scheduled,Jack Trice Stadium,False
+401856886,2026-11-14T17:00Z,Auburn Tigers at Mississippi State Bulldogs,11,Mississippi State Bulldogs,344,0,Auburn Tigers,2,0,Scheduled,Davis Wade Stadium,False
+401858300,2026-11-14T17:00Z,Syracuse Orange at NC State Wolfpack,11,NC State Wolfpack,152,0,Syracuse Orange,183,0,Scheduled,Carter-Finley Stadium,False
+401858520,2026-11-14T17:00Z,Wisconsin Badgers at Maryland Terrapins,11,Maryland Terrapins,120,0,Wisconsin Badgers,275,0,Scheduled,SECU Stadium,False
 401861967,2026-11-14T17:00Z,James Madison Dukes at UConn Huskies,11,UConn Huskies,41,0,James Madison Dukes,256,0,Scheduled,Pratt & Whitney Stadium,False
+401858297,2026-11-14T17:30Z,Georgia Tech Yellow Jackets at Clemson Tigers,11,Clemson Tigers,228,0,Georgia Tech Yellow Jackets,59,0,Scheduled,"Memorial Stadium (Clemson, SC)",False
+401858525,2026-11-14T17:30Z,Nebraska Cornhuskers at Rutgers Scarlet Knights,11,Rutgers Scarlet Knights,164,0,Nebraska Cornhuskers,158,0,Scheduled,SHI Stadium,False
+401856889,2026-11-14T17:45Z,Alabama Crimson Tide at Vanderbilt Commodores,11,Vanderbilt Commodores,238,0,Alabama Crimson Tide,333,0,Scheduled,FirstBank Stadium,False
+401869937,2026-11-14T18:00Z,Arkansas State Red Wolves at Coastal Carolina Chanticleers,11,Coastal Carolina Chanticleers,324,0,Arkansas State Red Wolves,2032,0,Scheduled,Brooks Stadium (SC),False
+401862829,2026-11-14T18:00Z,UAB Blazers at Temple Owls,11,Temple Owls,218,0,UAB Blazers,5,0,Scheduled,Lincoln Financial Field,False
+401862825,2026-11-14T18:00Z,East Carolina Pirates at Charlotte 49ers,11,Charlotte 49ers,2429,0,East Carolina Pirates,151,0,Scheduled,Jerry Richardson Stadium,False
+401856862,2026-11-14T19:00Z,Kansas State Wildcats at TCU Horned Frogs,11,TCU Horned Frogs,2628,0,Kansas State Wildcats,2306,0,Scheduled,Amon G. Carter Stadium,False
+401862828,2026-11-14T19:00Z,Tulane Green Wave at Rice Owls,11,Rice Owls,242,0,Tulane Green Wave,2655,0,Scheduled,First Community Stadium,False
 401870769,2026-11-14T19:00Z,Kennesaw State Owls at Sam Houston Bearkats,11,Sam Houston Bearkats,2534,0,Kennesaw State Owls,338,0,Scheduled,Elliott T. Bowers Stadium,False
+401856888,2026-11-14T20:00Z,Tennessee Volunteers at Texas A&M Aggies,11,Texas A&M Aggies,245,0,Tennessee Volunteers,2633,0,Scheduled,Kyle Field,False
 401870796,2026-11-14T20:00Z,New Mexico State Aggies at Missouri State Bears,11,Missouri State Bears,2623,0,New Mexico State Aggies,166,0,Scheduled,Robert W. Plaster Stadium,False
 401871060,2026-11-14T20:00Z,Florida International Panthers at Delaware Blue Hens,11,Delaware Blue Hens,48,0,Florida International Panthers,2229,0,Scheduled,Delaware Stadium,False
-401870752,2026-11-14T20:30Z,Jacksonville State Gamecocks at Western Kentucky Hilltoppers,11,Western Kentucky Hilltoppers,98,0,Jacksonville State Gamecocks,55,0,Scheduled,Houchens Industries-L.T. Smith Stadium,False
 401871061,2026-11-14T20:30Z,Middle Tennessee Blue Raiders at Liberty Flames,11,Liberty Flames,2335,0,Middle Tennessee Blue Raiders,2393,0,Scheduled,Williams Stadium (VA),False
+401870752,2026-11-14T20:30Z,Jacksonville State Gamecocks at Western Kentucky Hilltoppers,11,Western Kentucky Hilltoppers,98,0,Jacksonville State Gamecocks,55,0,Scheduled,Houchens Industries-L.T. Smith Stadium,False
+401864536,2026-11-14T20:30Z,Nevada Wolf Pack at Northern Illinois Huskies,11,Northern Illinois Huskies,2459,0,Nevada Wolf Pack,2440,0,Scheduled,Huskie Stadium,False
+401862826,2026-11-14T20:30Z,Florida Atlantic Owls at Tulsa Golden Hurricane,11,Tulsa Golden Hurricane,202,0,Florida Atlantic Owls,2226,0,Scheduled,H. A. Chapman Stadium,False
+401858295,2026-11-14T20:30Z,California Golden Bears at Virginia Cavaliers,11,Virginia Cavaliers,258,0,California Golden Bears,25,0,Scheduled,Scott Stadium,False
+401869952,2026-11-14T20:30Z,Georgia Southern Eagles at Georgia State Panthers,11,Georgia State Panthers,2247,0,Georgia Southern Eagles,290,0,Scheduled,Center Parc Stadium,False
+401858523,2026-11-14T20:30Z,Michigan Wolverines at Oregon Ducks,11,Oregon Ducks,2483,0,Michigan Wolverines,130,0,Scheduled,Autzen Stadium,False
 401858294,2026-11-14T20:30Z,Boston College Eagles at Notre Dame Fighting Irish,11,Notre Dame Fighting Irish,87,0,Boston College Eagles,103,0,Scheduled,Notre Dame Stadium,False
+401856858,2026-11-14T20:30Z,Baylor Bears at BYU Cougars,11,BYU Cougars,252,0,Baylor Bears,239,0,Scheduled,LaVell Edwards Stadium,False
+401858518,2026-11-14T20:30Z,USC Trojans at Indiana Hoosiers,11,Indiana Hoosiers,84,0,USC Trojans,30,0,Scheduled,"Memorial Stadium (Bloomington, IN)",False
+401856883,2026-11-14T20:30Z,Missouri Tigers at Georgia Bulldogs,11,Georgia Bulldogs,61,0,Missouri Tigers,142,0,Scheduled,Sanford Stadium,False
+401856857,2026-11-14T20:30Z,Arizona State Sun Devils at UCF Knights,11,UCF Knights,2116,0,Arizona State Sun Devils,9,0,Scheduled,Acrisure Bounce House,False
 401860916,2026-11-14T21:00Z,Fresno State Bulldogs at Texas State Bobcats,11,Texas State Bobcats,326,0,Fresno State Bulldogs,278,0,Scheduled,UFCU Stadium,False
+401856887,2026-11-14T21:15Z,Ole Miss Rebels at Oklahoma Sooners,11,Oklahoma Sooners,201,0,Ole Miss Rebels,145,0,Scheduled,"Memorial Stadium (Norman, OK)",False
+401858521,2026-11-14T21:15Z,Washington Huskies at Michigan State Spartans,11,Michigan State Spartans,127,0,Washington Huskies,264,0,Scheduled,Spartan Stadium,False
+401871099,2026-11-14T22:00Z,Southern Miss Golden Eagles at Louisiana Tech Bulldogs,11,Louisiana Tech Bulldogs,2348,0,Southern Miss Golden Eagles,2572,0,Scheduled,Joe Aillet Stadium,False
+401856861,2026-11-14T22:30Z,Kansas Jayhawks at West Virginia Mountaineers,11,West Virginia Mountaineers,277,0,Kansas Jayhawks,2305,0,Scheduled,Milan Puskar Stadium,False
 401860914,2026-11-14T23:00Z,Oregon State Beavers at Boise State Broncos,11,Boise State Broncos,68,0,Oregon State Beavers,204,0,Scheduled,Albertsons Stadium,False
+401869928,2026-11-14T23:00Z,App State Mountaineers at Marshall Thundering Herd,11,Marshall Thundering Herd,276,0,App State Mountaineers,2026,0,Scheduled,Joan C. Edwards Stadium,False
+401856884,2026-11-14T23:15Z,Florida Gators at Kentucky Wildcats,11,Kentucky Wildcats,96,0,Florida Gators,57,0,Scheduled,Kroger Field,False
+401858298,2026-11-15T00:00Z,Louisville Cardinals at North Carolina Tar Heels,11,North Carolina Tar Heels,153,0,Louisville Cardinals,97,0,Scheduled,Kenan Stadium,False
+401858524,2026-11-15T00:00Z,Minnesota Golden Gophers at Penn State Nittany Lions,11,Penn State Nittany Lions,213,0,Minnesota Golden Gophers,135,0,Scheduled,Beaver Stadium,False
 401864538,2026-11-15T00:00Z,San José State Spartans at Air Force Falcons,11,Air Force Falcons,2005,0,San José State Spartans,23,0,Scheduled,Falcon Stadium,False
+401871100,2026-11-15T00:00Z,Troy Trojans at South Alabama Jaguars,11,South Alabama Jaguars,6,0,Troy Trojans,2653,0,Scheduled,Hancock Whitney Stadium,False
+401858299,2026-11-15T00:30Z,Stanford Cardinal at Virginia Tech Hokies,11,Virginia Tech Hokies,259,0,Stanford Cardinal,24,0,Scheduled,Lane Stadium,False
+401858519,2026-11-15T00:30Z,Purdue Boilermakers at Iowa Hawkeyes,11,Iowa Hawkeyes,2294,0,Purdue Boilermakers,2509,0,Scheduled,Kinnick Stadium,False
+401856864,2026-11-15T00:30Z,Utah Utes at Arizona Wildcats,11,Arizona Wildcats,12,0,Utah Utes,254,0,Scheduled,Casino Del Sol Stadium,False
 401864539,2026-11-15T00:30Z,UNLV Rebels at New Mexico Lobos,11,New Mexico Lobos,167,0,UNLV Rebels,2439,0,Scheduled,University Stadium (NM),False
+401856885,2026-11-15T00:30Z,Texas Longhorns at LSU Tigers,11,LSU Tigers,99,0,Texas Longhorns,251,0,Scheduled,Tiger Stadium (LA),False
+401856882,2026-11-15T00:45Z,South Carolina Gamecocks at Arkansas Razorbacks,11,Arkansas Razorbacks,8,0,South Carolina Gamecocks,2579,0,Scheduled,Donald W. Reynolds Razorback Stadium,False
+401862827,2026-11-15T02:00Z,North Texas Mean Green at UTSA Roadrunners,11,UTSA Roadrunners,2636,0,North Texas Mean Green,249,0,Scheduled,Alamodome,False
+401856863,2026-11-15T02:30Z,Texas Tech Red Raiders at Oklahoma State Cowboys,11,Oklahoma State Cowboys,197,0,Texas Tech Red Raiders,2641,0,Scheduled,Boone Pickens Stadium,False
 401860915,2026-11-15T02:30Z,Utah State Aggies at San Diego State Aztecs,11,San Diego State Aztecs,21,0,Utah State Aggies,328,0,Scheduled,Snapdragon Stadium,False
+401864540,2026-11-15T03:00Z,Wyoming Cowboys at UTEP Miners,11,UTEP Miners,2638,0,Wyoming Cowboys,2751,0,Scheduled,Sun Bowl,False
 401860917,2026-11-15T03:30Z,Colorado State Rams at Washington State Cougars,11,Washington State Cougars,265,0,Colorado State Rams,36,0,Scheduled,Martin Stadium,False
 401864537,2026-11-15T04:00Z,North Dakota State Bison at Hawai'i Rainbow Warriors,11,Hawai'i Rainbow Warriors,62,0,North Dakota State Bison,2449,0,Scheduled,Clarence T.C. Ching Athletics Complex,False
-401866466,2026-11-18T00:00Z,Miami (OH) RedHawks at Kent State Golden Flashes,12,Kent State Golden Flashes,2309,0,Miami (OH) RedHawks,193,0,Scheduled,Zoeller Field at Dix Stadium,False
 401866464,2026-11-18T00:00Z,Ball State Cardinals at Ohio Bobcats,12,Ohio Bobcats,195,0,Ball State Cardinals,2050,0,Scheduled,Peden Stadium,False
 401866465,2026-11-18T00:00Z,Eastern Michigan Eagles at Western Michigan Broncos,12,Western Michigan Broncos,2711,0,Eastern Michigan Eagles,2199,0,Scheduled,Waldo Stadium,False
-401866469,2026-11-18T05:00Z,Central Michigan Chippewas at Buffalo Bulls,12,Buffalo Bulls,2084,0,Central Michigan Chippewas,2117,0,Scheduled,Broadview Stadium,False
+401866466,2026-11-18T00:00Z,Miami (OH) RedHawks at Kent State Golden Flashes,12,Kent State Golden Flashes,2309,0,Miami (OH) RedHawks,193,0,Scheduled,Zoeller Field at Dix Stadium,False
 401866467,2026-11-18T05:00Z,Akron Zips at Massachusetts Minutemen,12,Massachusetts Minutemen,113,0,Akron Zips,2006,0,Scheduled,Warren McGuirk Alumni Stadium,False
+401866469,2026-11-19T00:30Z,Central Michigan Chippewas at Buffalo Bulls,12,Buffalo Bulls,2084,0,Central Michigan Chippewas,2117,0,Scheduled,Broadview Stadium,False
 401862830,2026-11-20T00:30Z,Rice Owls at Temple Owls,12,Temple Owls,218,0,Rice Owls,242,0,Scheduled,Lincoln Financial Field,False
 401856869,2026-11-20T23:00Z,Iowa State Cyclones at UCF Knights,12,UCF Knights,2116,0,Iowa State Cyclones,66,0,Scheduled,Acrisure Bounce House,False
-401858303,2026-11-21T00:30Z,Clemson Tigers at Duke Blue Devils,12,Duke Blue Devils,150,0,Clemson Tigers,228,0,Scheduled,Wallace Wade Stadium,False
 401866468,2026-11-21T00:30Z,Bowling Green Falcons at Toledo Rockets,12,Toledo Rockets,2649,0,Bowling Green Falcons,189,0,Scheduled,Glass Bowl,False
+401858303,2026-11-21T00:30Z,Clemson Tigers at Duke Blue Devils,12,Duke Blue Devils,150,0,Clemson Tigers,228,0,Scheduled,Wallace Wade Stadium,False
 401858529,2026-11-21T01:00Z,Oregon Ducks at Michigan State Spartans,12,Michigan State Spartans,127,0,Oregon Ducks,2483,0,Scheduled,Spartan Stadium,False
 401864545,2026-11-21T01:00Z,UTEP Miners at Air Force Falcons,12,Air Force Falcons,2005,0,UTEP Miners,2638,0,Scheduled,Falcon Stadium,False
-401858305,2026-11-21T05:00Z,North Carolina Tar Heels at Virginia Cavaliers,12,Virginia Cavaliers,258,0,North Carolina Tar Heels,153,0,Scheduled,Scott Stadium,False
-401858306,2026-11-21T05:00Z,Pittsburgh Panthers at Louisville Cardinals,12,Louisville Cardinals,97,0,Pittsburgh Panthers,221,0,Scheduled,L&N Federal Credit Union Stadium,False
+401864542,2026-11-21T02:00Z,New Mexico Lobos at Wyoming Cowboys,12,Wyoming Cowboys,2751,0,New Mexico Lobos,167,0,Scheduled,War Memorial Stadium,False
 401858308,2026-11-21T05:00Z,Stanford Cardinal at California Golden Bears,12,California Golden Bears,25,0,Stanford Cardinal,24,0,Scheduled,California Memorial Stadium,False
 401858309,2026-11-21T05:00Z,Syracuse Orange at Boston College Eagles,12,Boston College Eagles,103,0,Syracuse Orange,183,0,Scheduled,"Alumni Stadium (Chestnut Hill, MA)",False
-401858527,2026-11-21T05:00Z,Iowa Hawkeyes at Illinois Fighting Illini,12,Illinois Fighting Illini,356,0,Iowa Hawkeyes,2294,0,Scheduled,Gies Memorial Stadium,False
+401858530,2026-11-21T05:00Z,Northwestern Wildcats at Minnesota Golden Gophers,12,Minnesota Golden Gophers,135,0,Northwestern Wildcats,77,0,Scheduled,Huntington Bank Stadium,False
 401858532,2026-11-21T05:00Z,Rutgers Scarlet Knights at Penn State Nittany Lions,12,Penn State Nittany Lions,213,0,Rutgers Scarlet Knights,164,0,Scheduled,Beaver Stadium,False
-401858534,2026-11-21T05:00Z,Maryland Terrapins at USC Trojans,12,USC Trojans,30,0,Maryland Terrapins,120,0,Scheduled,Los Angeles Memorial Coliseum,False
+401858533,2026-11-21T05:00Z,Wisconsin Badgers at Purdue Boilermakers,12,Purdue Boilermakers,2509,0,Wisconsin Badgers,275,0,Scheduled,Ross-Ade Stadium,False
+401862833,2026-11-21T05:00Z,South Florida Bulls at Florida Atlantic Owls,12,Florida Atlantic Owls,2226,0,South Florida Bulls,58,0,Scheduled,Flagler Credit Union Stadium,False
 401862832,2026-11-21T05:00Z,Charlotte 49ers at Tulsa Golden Hurricane,12,Tulsa Golden Hurricane,202,0,Charlotte 49ers,2429,0,Scheduled,H. A. Chapman Stadium,False
-401871101,2026-11-21T05:00Z,South Alabama Jaguars at Southern Miss Golden Eagles,12,Southern Miss Golden Eagles,2572,0,South Alabama Jaguars,6,0,Scheduled,M. M. Roberts Stadium,False
+401858306,2026-11-21T05:00Z,Pittsburgh Panthers at Louisville Cardinals,12,Louisville Cardinals,97,0,Pittsburgh Panthers,221,0,Scheduled,L&N Federal Credit Union Stadium,False
 401862835,2026-11-21T05:00Z,North Texas Mean Green at Tulane Green Wave,12,Tulane Green Wave,2655,0,North Texas Mean Green,249,0,Scheduled,Yulman Stadium,False
-401858304,2026-11-21T05:00Z,NC State Wolfpack at Florida State Seminoles,12,Florida State Seminoles,52,0,NC State Wolfpack,152,0,Scheduled,Doak Campbell Stadium,False
+401856755,2026-11-21T05:00Z,Arkansas Razorbacks at Texas Longhorns,12,Texas Longhorns,251,0,Arkansas Razorbacks,8,0,Scheduled,DKR-Texas Memorial Stadium,False
 401864541,2026-11-21T05:00Z,Hawai'i Rainbow Warriors at Nevada Wolf Pack,12,Nevada Wolf Pack,2440,0,Hawai'i Rainbow Warriors,62,0,Scheduled,Mackay Stadium,False
 401869929,2026-11-21T05:00Z,UL Monroe Warhawks at App State Mountaineers,12,App State Mountaineers,2026,0,UL Monroe Warhawks,2433,0,Scheduled,Kidd Brewer Stadium,False
 401869938,2026-11-21T05:00Z,Arkansas State Red Wolves at Louisiana Tech Bulldogs,12,Louisiana Tech Bulldogs,2348,0,Arkansas State Red Wolves,2032,0,Scheduled,Joe Aillet Stadium,False
 401869946,2026-11-21T05:00Z,Coastal Carolina Chanticleers at Louisiana Ragin' Cajuns,12,Louisiana Ragin' Cajuns,309,0,Coastal Carolina Chanticleers,324,0,Scheduled,Our Lady of Lourdes Stadium,False
 401869953,2026-11-21T05:00Z,Georgia Southern Eagles at Troy Trojans,12,Troy Trojans,2653,0,Georgia Southern Eagles,290,0,Scheduled,Veterans Memorial Stadium (AL),False
 401869958,2026-11-21T05:00Z,Georgia State Panthers at Marshall Thundering Herd,12,Marshall Thundering Herd,276,0,Georgia State Panthers,2247,0,Scheduled,Joan C. Edwards Stadium,False
-401862833,2026-11-21T05:00Z,South Florida Bulls at Florida Atlantic Owls,12,Florida Atlantic Owls,2226,0,South Florida Bulls,58,0,Scheduled,Flagler Credit Union Stadium,False
+401871101,2026-11-21T05:00Z,South Alabama Jaguars at Southern Miss Golden Eagles,12,Southern Miss Golden Eagles,2572,0,South Alabama Jaguars,6,0,Scheduled,M. M. Roberts Stadium,False
+401858305,2026-11-21T05:00Z,North Carolina Tar Heels at Virginia Cavaliers,12,Virginia Cavaliers,258,0,North Carolina Tar Heels,153,0,Scheduled,Scott Stadium,False
 401862836,2026-11-21T05:00Z,UTSA Roadrunners at UAB Blazers,12,UAB Blazers,5,0,UTSA Roadrunners,2636,0,Scheduled,Protective Stadium,False
-401856752,2026-11-21T05:00Z,Texas A&M Aggies at Oklahoma Sooners,12,Oklahoma Sooners,201,0,Texas A&M Aggies,245,0,Scheduled,"Memorial Stadium (Norman, OK)",False
-401858533,2026-11-21T05:00Z,Wisconsin Badgers at Purdue Boilermakers,12,Purdue Boilermakers,2509,0,Wisconsin Badgers,275,0,Scheduled,Ross-Ade Stadium,False
-401856867,2026-11-21T05:00Z,Colorado Buffaloes at Cincinnati Bearcats,12,Cincinnati Bearcats,2132,0,Colorado Buffaloes,38,0,Scheduled,Nippert Stadium,False
-401858302,2026-11-21T05:00Z,Virginia Tech Hokies at Miami Hurricanes,12,Miami Hurricanes,2390,0,Virginia Tech Hokies,259,0,Scheduled,Hard Rock Stadium,False
-401858531,2026-11-21T05:00Z,Ohio State Buckeyes at Nebraska Cornhuskers,12,Nebraska Cornhuskers,158,0,Ohio State Buckeyes,194,0,Scheduled,"Memorial Stadium (Lincoln, NE)",False
-401856753,2026-11-21T05:00Z,Georgia Bulldogs at South Carolina Gamecocks,12,South Carolina Gamecocks,2579,0,Georgia Bulldogs,61,0,Scheduled,Williams-Brice Stadium,False
+401858304,2026-11-21T05:00Z,NC State Wolfpack at Florida State Seminoles,12,Florida State Seminoles,52,0,NC State Wolfpack,152,0,Scheduled,Doak Campbell Stadium,False
 401858535,2026-11-21T05:00Z,Indiana Hoosiers at Washington Huskies,12,Washington Huskies,264,0,Indiana Hoosiers,84,0,Scheduled,Husky Stadium,False
+401856867,2026-11-21T05:00Z,Colorado Buffaloes at Cincinnati Bearcats,12,Cincinnati Bearcats,2132,0,Colorado Buffaloes,38,0,Scheduled,Nippert Stadium,False
+401856753,2026-11-21T05:00Z,Georgia Bulldogs at South Carolina Gamecocks,12,South Carolina Gamecocks,2579,0,Georgia Bulldogs,61,0,Scheduled,Williams-Brice Stadium,False
 401856872,2026-11-21T05:00Z,Utah Utes at TCU Horned Frogs,12,TCU Horned Frogs,2628,0,Utah Utes,254,0,Scheduled,Amon G. Carter Stadium,False
+401856870,2026-11-21T05:00Z,Oklahoma State Cowboys at Arizona State Sun Devils,12,Arizona State Sun Devils,9,0,Oklahoma State Cowboys,197,0,Scheduled,Mountain America Stadium,False
+401856751,2026-11-21T05:00Z,Kentucky Wildcats at Missouri Tigers,12,Missouri Tigers,142,0,Kentucky Wildcats,96,0,Scheduled,Memorial Stadium,False
 401858528,2026-11-21T05:00Z,UCLA Bruins at Michigan Wolverines,12,Michigan Wolverines,130,0,UCLA Bruins,26,0,Scheduled,Michigan Stadium,False
 401856866,2026-11-21T05:00Z,BYU Cougars at Kansas Jayhawks,12,Kansas Jayhawks,2305,0,BYU Cougars,252,0,Scheduled,David Booth Kansas Memorial Stadium,False
-401856751,2026-11-21T05:00Z,Kentucky Wildcats at Missouri Tigers,12,Missouri Tigers,142,0,Kentucky Wildcats,96,0,Scheduled,Memorial Stadium,False
-401856748,2026-11-21T05:00Z,Vanderbilt Commodores at Florida Gators,12,Florida Gators,57,0,Vanderbilt Commodores,238,0,Scheduled,Ben Hill Griffin Stadium,False
-401856871,2026-11-21T05:00Z,Texas Tech Red Raiders at Baylor Bears,12,Baylor Bears,239,0,Texas Tech Red Raiders,2641,0,Scheduled,McLane Stadium,False
-401858310,2026-11-21T05:00Z,Wake Forest Demon Deacons at Georgia Tech Yellow Jackets,12,Georgia Tech Yellow Jackets,59,0,Wake Forest Demon Deacons,154,0,Scheduled,Bobby Dodd Stadium,False
+401858531,2026-11-21T05:00Z,Ohio State Buckeyes at Nebraska Cornhuskers,12,Nebraska Cornhuskers,158,0,Ohio State Buckeyes,194,0,Scheduled,"Memorial Stadium (Lincoln, NE)",False
+401858302,2026-11-21T05:00Z,Virginia Tech Hokies at Miami Hurricanes,12,Miami Hurricanes,2390,0,Virginia Tech Hokies,259,0,Scheduled,Hard Rock Stadium,False
 401856754,2026-11-21T05:00Z,LSU Tigers at Tennessee Volunteers,12,Tennessee Volunteers,2633,0,LSU Tigers,99,0,Scheduled,Neyland Stadium,False
-401856755,2026-11-21T05:00Z,Arkansas Razorbacks at Texas Longhorns,12,Texas Longhorns,251,0,Arkansas Razorbacks,8,0,Scheduled,DKR-Texas Memorial Stadium,False
+401858310,2026-11-21T05:00Z,Wake Forest Demon Deacons at Georgia Tech Yellow Jackets,12,Georgia Tech Yellow Jackets,59,0,Wake Forest Demon Deacons,154,0,Scheduled,Bobby Dodd Stadium,False
 401856868,2026-11-21T05:00Z,Houston Cougars at West Virginia Mountaineers,12,West Virginia Mountaineers,277,0,Houston Cougars,248,0,Scheduled,Milan Puskar Stadium,False
-401858530,2026-11-21T05:00Z,Northwestern Wildcats at Minnesota Golden Gophers,12,Minnesota Golden Gophers,135,0,Northwestern Wildcats,77,0,Scheduled,Huntington Bank Stadium,False
+401858527,2026-11-21T05:00Z,Iowa Hawkeyes at Illinois Fighting Illini,12,Illinois Fighting Illini,356,0,Iowa Hawkeyes,2294,0,Scheduled,Gies Memorial Stadium,False
+401858534,2026-11-21T05:00Z,Maryland Terrapins at USC Trojans,12,USC Trojans,30,0,Maryland Terrapins,120,0,Scheduled,Los Angeles Memorial Coliseum,False
 401856865,2026-11-21T05:00Z,Arizona Wildcats at Kansas State Wildcats,12,Kansas State Wildcats,2306,0,Arizona Wildcats,12,0,Scheduled,Bill Snyder Family Stadium,False
-401856870,2026-11-21T05:00Z,Oklahoma State Cowboys at Arizona State Sun Devils,12,Arizona State Sun Devils,9,0,Oklahoma State Cowboys,197,0,Scheduled,Mountain America Stadium,False
-401856749,2026-11-21T17:00Z,Wofford Terriers at Ole Miss Rebels,12,Ole Miss Rebels,145,0,Wofford Terriers,2747,0,Scheduled,Vaught-Hemingway Stadium,False
+401856748,2026-11-21T05:00Z,Vanderbilt Commodores at Florida Gators,12,Florida Gators,57,0,Vanderbilt Commodores,238,0,Scheduled,Ben Hill Griffin Stadium,False
+401856752,2026-11-21T05:00Z,Texas A&M Aggies at Oklahoma Sooners,12,Oklahoma Sooners,201,0,Texas A&M Aggies,245,0,Scheduled,"Memorial Stadium (Norman, OK)",False
+401856871,2026-11-21T05:00Z,Texas Tech Red Raiders at Baylor Bears,12,Baylor Bears,239,0,Texas Tech Red Raiders,2641,0,Scheduled,McLane Stadium,False
 401862831,2026-11-21T17:00Z,East Carolina Pirates at Army Black Knights,12,Army Black Knights,349,0,East Carolina Pirates,151,0,Scheduled,Michie Stadium,False
 401862834,2026-11-21T17:00Z,Memphis Tigers at Navy Midshipmen,12,Navy Midshipmen,2426,0,Memphis Tigers,235,0,Scheduled,Navy-Marine Corps Memorial Stadium,False
+401856749,2026-11-21T17:00Z,Wofford Terriers at Ole Miss Rebels,12,Ole Miss Rebels,145,0,Wofford Terriers,2747,0,Scheduled,Vaught-Hemingway Stadium,False
 401856750,2026-11-21T18:00Z,Tennessee Tech Golden Eagles at Mississippi State Bulldogs,12,Mississippi State Bulldogs,344,0,Tennessee Tech Golden Eagles,2635,0,Scheduled,Davis Wade Stadium,False
 401871080,2026-11-21T18:00Z,Western Kentucky Hilltoppers at Liberty Flames,12,Liberty Flames,2335,0,Western Kentucky Hilltoppers,98,0,Scheduled,Williams Stadium (VA),False
-401871081,2026-11-21T19:00Z,Middle Tennessee Blue Raiders at Sam Houston Bearkats,12,Sam Houston Bearkats,2534,0,Middle Tennessee Blue Raiders,2393,0,Scheduled,Elliott T. Bowers Stadium,False
-401871079,2026-11-21T19:00Z,Missouri State Bears at Jacksonville State Gamecocks,12,Jacksonville State Gamecocks,55,0,Missouri State Bears,2623,0,Scheduled,AmFirst Stadium,False
 401856746,2026-11-21T19:00Z,Chattanooga Mocs at Alabama Crimson Tide,12,Alabama Crimson Tide,333,0,Chattanooga Mocs,236,0,Scheduled,Bryant-Denny Stadium,False
+401871079,2026-11-21T19:00Z,Missouri State Bears at Jacksonville State Gamecocks,12,Jacksonville State Gamecocks,55,0,Missouri State Bears,2623,0,Scheduled,AmFirst Stadium,False
+401871081,2026-11-21T19:00Z,Middle Tennessee Blue Raiders at Sam Houston Bearkats,12,Sam Houston Bearkats,2534,0,Middle Tennessee Blue Raiders,2393,0,Scheduled,Elliott T. Bowers Stadium,False
 401871077,2026-11-21T20:00Z,Delaware Blue Hens at New Mexico State Aggies,12,New Mexico State Aggies,166,0,Delaware Blue Hens,48,0,Scheduled,Aggie Memorial Stadium,False
 401871078,2026-11-21T20:00Z,Florida International Panthers at Kennesaw State Owls,12,Kennesaw State Owls,338,0,Florida International Panthers,2229,0,Scheduled,Walens Family Field at Fifth Third Stadium,False
 401861968,2026-11-21T20:30Z,Old Dominion Monarchs at UConn Huskies,12,UConn Huskies,41,0,Old Dominion Monarchs,295,0,Scheduled,Pratt & Whitney Stadium,False
@@ -818,76 +819,75 @@ event_id,date,name,week,home_team,home_team_id,home_score,away_team,away_team_id
 401864544,2026-11-22T00:00Z,UNLV Rebels at San José State Spartans,12,San José State Spartans,23,0,UNLV Rebels,2439,0,Scheduled,CEFCU Stadium,False
 401858307,2026-11-22T00:30Z,SMU Mustangs at Notre Dame Fighting Irish,12,Notre Dame Fighting Irish,87,0,SMU Mustangs,2567,0,Scheduled,Notre Dame Stadium,False
 401860918,2026-11-22T00:30Z,Colorado State Rams at Fresno State Bulldogs,12,Fresno State Bulldogs,278,0,Colorado State Rams,36,0,Scheduled,Valley Children's Stadium,False
-401864542,2026-11-22T02:00Z,New Mexico Lobos at Wyoming Cowboys,12,Wyoming Cowboys,2751,0,New Mexico Lobos,167,0,Scheduled,War Memorial Stadium,False
 401860925,2026-11-22T02:30Z,San Diego State Aztecs at Boise State Broncos,12,Boise State Broncos,68,0,San Diego State Aztecs,21,0,Scheduled,Albertsons Stadium,False
 401860919,2026-11-22T03:30Z,Utah State Aggies at Oregon State Beavers,12,Oregon State Beavers,204,0,Utah State Aggies,328,0,Scheduled,Reser Stadium,False
 401866471,2026-11-24T05:00Z,Miami (OH) RedHawks at Western Michigan Broncos,13,Western Michigan Broncos,2711,0,Miami (OH) RedHawks,193,0,Scheduled,Waldo Stadium,False
 401866470,2026-11-25T00:00Z,Kent State Golden Flashes at Eastern Michigan Eagles,13,Eastern Michigan Eagles,2199,0,Kent State Golden Flashes,2309,0,Scheduled,Rynearson Stadium,False
 401856879,2026-11-27T01:00Z,TCU Horned Frogs at Texas Tech Red Raiders,13,Texas Tech Red Raiders,2641,0,TCU Horned Frogs,2628,0,Scheduled,Galaxy Stadium,False
+401862839,2026-11-27T05:00Z,Tulane Green Wave at South Florida Bulls,13,South Florida Bulls,58,0,Tulane Green Wave,2655,0,Scheduled,Raymond James Stadium,False
+401862840,2026-11-27T05:00Z,Tulsa Golden Hurricane at UTSA Roadrunners,13,UTSA Roadrunners,2636,0,Tulsa Golden Hurricane,202,0,Scheduled,Alamodome,False
 401862837,2026-11-27T05:00Z,Florida Atlantic Owls at East Carolina Pirates,13,East Carolina Pirates,151,0,Florida Atlantic Owls,2226,0,Scheduled,Dowdy-Ficklen Stadium,False
 401862838,2026-11-27T05:00Z,Temple Owls at Memphis Tigers,13,Memphis Tigers,235,0,Temple Owls,218,0,Scheduled,Simmons Bank Liberty Stadium,False
-401862839,2026-11-27T05:00Z,Tulane Green Wave at South Florida Bulls,13,South Florida Bulls,58,0,Tulane Green Wave,2655,0,Scheduled,Raymond James Stadium,False
+401866473,2026-11-27T17:00Z,Toledo Rockets at Ohio Bobcats,13,Ohio Bobcats,195,0,Toledo Rockets,2649,0,Scheduled,Peden Stadium,False
+401866472,2026-11-27T17:00Z,Buffalo Bulls at Akron Zips,13,Akron Zips,2006,0,Buffalo Bulls,2084,0,Scheduled,InfoCision Stadium,False
 401856762,2026-11-27T17:00Z,Mississippi State Bulldogs at Ole Miss Rebels,13,Ole Miss Rebels,145,0,Mississippi State Bulldogs,344,0,Scheduled,Vaught-Hemingway Stadium,False
 401858536,2026-11-27T17:00Z,Nebraska Cornhuskers at Iowa Hawkeyes,13,Iowa Hawkeyes,2294,0,Nebraska Cornhuskers,158,0,Scheduled,Kinnick Stadium,False
-401866472,2026-11-27T17:00Z,Buffalo Bulls at Akron Zips,13,Akron Zips,2006,0,Buffalo Bulls,2084,0,Scheduled,InfoCision Stadium,False
-401866473,2026-11-27T17:00Z,Toledo Rockets at Ohio Bobcats,13,Ohio Bobcats,195,0,Toledo Rockets,2649,0,Scheduled,Peden Stadium,False
 401869930,2026-11-27T20:00Z,App State Mountaineers at South Alabama Jaguars,13,South Alabama Jaguars,6,0,App State Mountaineers,2026,0,Scheduled,Hancock Whitney Stadium,False
-401864549,2026-11-27T20:30Z,North Dakota State Bison at San José State Spartans,13,San José State Spartans,23,0,North Dakota State Bison,2449,0,Scheduled,CEFCU Stadium,False
 401856759,2026-11-27T20:30Z,Florida Gators at Florida State Seminoles,13,Florida State Seminoles,52,0,Florida Gators,57,0,Scheduled,Doak Campbell Stadium,False
+401864549,2026-11-27T20:30Z,North Dakota State Bison at San José State Spartans,13,San José State Spartans,23,0,North Dakota State Bison,2449,0,Scheduled,CEFCU Stadium,False
+401864546,2026-11-27T21:30Z,Air Force Falcons at New Mexico Lobos,13,New Mexico Lobos,167,0,Air Force Falcons,2005,0,Scheduled,University Stadium (NM),False
 401856756,2026-11-28T00:30Z,Texas Longhorns at Texas A&M Aggies,13,Texas A&M Aggies,245,0,Texas Longhorns,251,0,Scheduled,Kyle Field,False
 401858544,2026-11-28T00:30Z,Minnesota Golden Gophers at Wisconsin Badgers,13,Wisconsin Badgers,275,0,Minnesota Golden Gophers,135,0,Scheduled,Camp Randall Stadium,False
 401856880,2026-11-28T02:00Z,West Virginia Mountaineers at Utah Utes,13,Utah Utes,254,0,West Virginia Mountaineers,277,0,Scheduled,Rice-Eccles Stadium,False
-401858317,2026-11-28T05:00Z,Virginia Cavaliers at Virginia Tech Hokies,13,Virginia Tech Hokies,259,0,Virginia Cavaliers,258,0,Scheduled,Lane Stadium,False
+401858537,2026-11-28T05:00Z,Illinois Fighting Illini at Northwestern Wildcats,13,Northwestern Wildcats,77,0,Illinois Fighting Illini,356,0,Scheduled,Ryan Field,False
 401858539,2026-11-28T05:00Z,Penn State Nittany Lions at Maryland Terrapins,13,Maryland Terrapins,120,0,Penn State Nittany Lions,213,0,Scheduled,SECU Stadium,False
-401858541,2026-11-28T05:00Z,Washington Huskies at Oregon Ducks,13,Oregon Ducks,2483,0,Washington Huskies,264,0,Scheduled,Autzen Stadium,False
+401858542,2026-11-28T05:00Z,Michigan State Spartans at Rutgers Scarlet Knights,13,Rutgers Scarlet Knights,164,0,Michigan State Spartans,127,0,Scheduled,SHI Stadium,False
 401860926,2026-11-28T05:00Z,TBD at Colorado State Rams,13,Colorado State Rams,36,0,TBD,-2,0,Scheduled,Canvas Stadium,False
 401860927,2026-11-28T05:00Z,TBD at Fresno State Bulldogs,13,Fresno State Bulldogs,278,0,TBD,-2,0,Scheduled,Valley Children's Stadium,False
 401860928,2026-11-28T05:00Z,TBD at Utah State Aggies,13,Utah State Aggies,328,0,TBD,-2,0,Scheduled,Maverik Stadium,False
 401860929,2026-11-28T05:00Z,TBD at Washington State Cougars,13,Washington State Cougars,265,0,TBD,-2,0,Scheduled,Martin Stadium,False
 401861969,2026-11-28T05:00Z,UConn Huskies at Wyoming Cowboys,13,Wyoming Cowboys,2751,0,UConn Huskies,41,0,Scheduled,War Memorial Stadium,False
-401862840,2026-11-28T05:00Z,Tulsa Golden Hurricane at UTSA Roadrunners,13,UTSA Roadrunners,2636,0,Tulsa Golden Hurricane,202,0,Scheduled,Alamodome,False
-401862841,2026-11-28T05:00Z,Army Black Knights at Rice Owls,13,Rice Owls,242,0,Army Black Knights,349,0,Scheduled,First Community Stadium,False
+401864550,2026-11-28T05:00Z,UTEP Miners at Northern Illinois Huskies,13,Northern Illinois Huskies,2459,0,UTEP Miners,2638,0,Scheduled,Huskie Stadium,False
 401862842,2026-11-28T05:00Z,Navy Midshipmen at Charlotte 49ers,13,Charlotte 49ers,2429,0,Navy Midshipmen,2426,0,Scheduled,Jerry Richardson Stadium,False
 401862843,2026-11-28T05:00Z,UAB Blazers at North Texas Mean Green,13,North Texas Mean Green,249,0,UAB Blazers,5,0,Scheduled,DATCU Stadium,False
-401864550,2026-11-28T05:00Z,UTEP Miners at Northern Illinois Huskies,13,Northern Illinois Huskies,2459,0,UTEP Miners,2638,0,Scheduled,Huskie Stadium,False
+401858317,2026-11-28T05:00Z,Virginia Cavaliers at Virginia Tech Hokies,13,Virginia Tech Hokies,259,0,Virginia Cavaliers,258,0,Scheduled,Lane Stadium,False
 401869947,2026-11-28T05:00Z,Coastal Carolina Chanticleers at James Madison Dukes,13,James Madison Dukes,256,0,Coastal Carolina Chanticleers,324,0,Scheduled,Bridgeforth Stadium,False
 401869954,2026-11-28T05:00Z,Louisiana Tech Bulldogs at Georgia Southern Eagles,13,Georgia Southern Eagles,290,0,Louisiana Tech Bulldogs,2348,0,Scheduled,Allen E. Paulson Stadium,False
 401869959,2026-11-28T05:00Z,Louisiana Ragin' Cajuns at Georgia State Panthers,13,Georgia State Panthers,2247,0,Louisiana Ragin' Cajuns,309,0,Scheduled,Center Parc Stadium,False
 401871102,2026-11-28T05:00Z,Marshall Thundering Herd at UL Monroe Warhawks,13,UL Monroe Warhawks,2433,0,Marshall Thundering Herd,276,0,Scheduled,Malone Stadium,False
 401871103,2026-11-28T05:00Z,Southern Miss Golden Eagles at Old Dominion Monarchs,13,Old Dominion Monarchs,295,0,Southern Miss Golden Eagles,2572,0,Scheduled,S.B. Ballard Stadium,False
+401862841,2026-11-28T05:00Z,Army Black Knights at Rice Owls,13,Rice Owls,242,0,Army Black Knights,349,0,Scheduled,First Community Stadium,False
+401858316,2026-11-28T05:00Z,SMU Mustangs at Stanford Cardinal,13,Stanford Cardinal,24,0,SMU Mustangs,2567,0,Scheduled,Stanford Stadium,False
 401858315,2026-11-28T05:00Z,Pittsburgh Panthers at California Golden Bears,13,California Golden Bears,25,0,Pittsburgh Panthers,221,0,Scheduled,California Memorial Stadium,False
-401858313,2026-11-28T05:00Z,NC State Wolfpack at North Carolina Tar Heels,13,North Carolina Tar Heels,153,0,NC State Wolfpack,152,0,Scheduled,Kenan Stadium,False
-401858542,2026-11-28T05:00Z,Michigan State Spartans at Rutgers Scarlet Knights,13,Rutgers Scarlet Knights,164,0,Michigan State Spartans,127,0,Scheduled,SHI Stadium,False
-401856875,2026-11-28T05:00Z,UCF Knights at Colorado Buffaloes,13,Colorado Buffaloes,38,0,UCF Knights,2116,0,Scheduled,Folsom Field,False
+401858543,2026-11-28T05:00Z,USC Trojans at UCLA Bruins,13,UCLA Bruins,26,0,USC Trojans,30,0,Scheduled,Rose Bowl,False
 401858311,2026-11-28T05:00Z,Boston College Eagles at Miami Hurricanes,13,Miami Hurricanes,2390,0,Boston College Eagles,103,0,Scheduled,Hard Rock Stadium,False
 401856760,2026-11-28T05:00Z,Georgia Tech Yellow Jackets at Georgia Bulldogs,13,Georgia Bulldogs,61,0,Georgia Tech Yellow Jackets,59,0,Scheduled,Sanford Stadium,False
 401858538,2026-11-28T05:00Z,Purdue Boilermakers at Indiana Hoosiers,13,Indiana Hoosiers,84,0,Purdue Boilermakers,2509,0,Scheduled,"Memorial Stadium (Bloomington, IN)",False
-401856878,2026-11-28T05:00Z,Kansas State Wildcats at Iowa State Cyclones,13,Iowa State Cyclones,66,0,Kansas State Wildcats,2306,0,Scheduled,Jack Trice Stadium,False
-401858543,2026-11-28T05:00Z,USC Trojans at UCLA Bruins,13,UCLA Bruins,26,0,USC Trojans,30,0,Scheduled,Rose Bowl,False
-401856876,2026-11-28T05:00Z,Cincinnati Bearcats at BYU Cougars,13,BYU Cougars,252,0,Cincinnati Bearcats,2132,0,Scheduled,LaVell Edwards Stadium,False
-401856761,2026-11-28T05:00Z,Louisville Cardinals at Kentucky Wildcats,13,Kentucky Wildcats,96,0,Louisville Cardinals,97,0,Scheduled,Kroger Field,False
 401856757,2026-11-28T05:00Z,Auburn Tigers at Alabama Crimson Tide,13,Alabama Crimson Tide,333,0,Auburn Tigers,2,0,Scheduled,Bryant-Denny Stadium,False
-401858312,2026-11-28T05:00Z,Duke Blue Devils at Wake Forest Demon Deacons,13,Wake Forest Demon Deacons,154,0,Duke Blue Devils,150,0,Scheduled,Allegacy Federal Credit Union Stadium,False
+401856761,2026-11-28T05:00Z,Louisville Cardinals at Kentucky Wildcats,13,Kentucky Wildcats,96,0,Louisville Cardinals,97,0,Scheduled,Kroger Field,False
+401858313,2026-11-28T05:00Z,NC State Wolfpack at North Carolina Tar Heels,13,North Carolina Tar Heels,153,0,NC State Wolfpack,152,0,Scheduled,Kenan Stadium,False
 401858314,2026-11-28T05:00Z,Notre Dame Fighting Irish at Syracuse Orange,13,Syracuse Orange,183,0,Notre Dame Fighting Irish,87,0,Scheduled,JMA Wireless Dome,False
 401856765,2026-11-28T05:00Z,Tennessee Volunteers at Vanderbilt Commodores,13,Vanderbilt Commodores,238,0,Tennessee Volunteers,2633,0,Scheduled,FirstBank Stadium,False
-401856874,2026-11-28T05:00Z,Baylor Bears at Houston Cougars,13,Houston Cougars,248,0,Baylor Bears,239,0,Scheduled,TDECU Stadium,False
-401858316,2026-11-28T05:00Z,SMU Mustangs at Stanford Cardinal,13,Stanford Cardinal,24,0,SMU Mustangs,2567,0,Scheduled,Stanford Stadium,False
-401858537,2026-11-28T05:00Z,Illinois Fighting Illini at Northwestern Wildcats,13,Northwestern Wildcats,77,0,Illinois Fighting Illini,356,0,Scheduled,Ryan Field,False
-401856873,2026-11-28T05:00Z,Arizona State Sun Devils at Arizona Wildcats,13,Arizona Wildcats,12,0,Arizona State Sun Devils,9,0,Scheduled,Casino Del Sol Stadium,False
-401856763,2026-11-28T05:00Z,Oklahoma Sooners at Missouri Tigers,13,Missouri Tigers,142,0,Oklahoma Sooners,201,0,Scheduled,Memorial Stadium,False
-401856877,2026-11-28T05:00Z,Kansas Jayhawks at Oklahoma State Cowboys,13,Oklahoma State Cowboys,197,0,Kansas Jayhawks,2305,0,Scheduled,Boone Pickens Stadium,False
-401856764,2026-11-28T05:00Z,South Carolina Gamecocks at Clemson Tigers,13,Clemson Tigers,228,0,South Carolina Gamecocks,2579,0,Scheduled,"Memorial Stadium (Clemson, SC)",False
 401856758,2026-11-28T05:00Z,LSU Tigers at Arkansas Razorbacks,13,Arkansas Razorbacks,8,0,LSU Tigers,99,0,Scheduled,Donald W. Reynolds Razorback Stadium,False
-401866475,2026-11-28T17:00Z,Massachusetts Minutemen at Bowling Green Falcons,13,Bowling Green Falcons,189,0,Massachusetts Minutemen,113,0,Scheduled,Doyt L. Perry Stadium,False
-401866474,2026-11-28T17:00Z,Central Michigan Chippewas at Ball State Cardinals,13,Ball State Cardinals,2050,0,Central Michigan Chippewas,2117,0,Scheduled,Scheumann Stadium,False
+401856876,2026-11-28T05:00Z,Cincinnati Bearcats at BYU Cougars,13,BYU Cougars,252,0,Cincinnati Bearcats,2132,0,Scheduled,LaVell Edwards Stadium,False
+401856874,2026-11-28T05:00Z,Baylor Bears at Houston Cougars,13,Houston Cougars,248,0,Baylor Bears,239,0,Scheduled,TDECU Stadium,False
+401856763,2026-11-28T05:00Z,Oklahoma Sooners at Missouri Tigers,13,Missouri Tigers,142,0,Oklahoma Sooners,201,0,Scheduled,Memorial Stadium,False
+401856764,2026-11-28T05:00Z,South Carolina Gamecocks at Clemson Tigers,13,Clemson Tigers,228,0,South Carolina Gamecocks,2579,0,Scheduled,"Memorial Stadium (Clemson, SC)",False
+401856873,2026-11-28T05:00Z,Arizona State Sun Devils at Arizona Wildcats,13,Arizona Wildcats,12,0,Arizona State Sun Devils,9,0,Scheduled,Casino Del Sol Stadium,False
+401858541,2026-11-28T05:00Z,Washington Huskies at Oregon Ducks,13,Oregon Ducks,2483,0,Washington Huskies,264,0,Scheduled,Autzen Stadium,False
+401856875,2026-11-28T05:00Z,UCF Knights at Colorado Buffaloes,13,Colorado Buffaloes,38,0,UCF Knights,2116,0,Scheduled,Folsom Field,False
+401856877,2026-11-28T05:00Z,Kansas Jayhawks at Oklahoma State Cowboys,13,Oklahoma State Cowboys,197,0,Kansas Jayhawks,2305,0,Scheduled,Boone Pickens Stadium,False
+401856878,2026-11-28T05:00Z,Kansas State Wildcats at Iowa State Cyclones,13,Iowa State Cyclones,66,0,Kansas State Wildcats,2306,0,Scheduled,Jack Trice Stadium,False
+401858312,2026-11-28T05:00Z,Duke Blue Devils at Wake Forest Demon Deacons,13,Wake Forest Demon Deacons,154,0,Duke Blue Devils,150,0,Scheduled,Allegacy Federal Credit Union Stadium,False
 401858540,2026-11-28T17:00Z,Michigan Wolverines at Ohio State Buckeyes,13,Ohio State Buckeyes,194,0,Michigan Wolverines,130,0,Scheduled,Ohio Stadium,False
+401866474,2026-11-28T17:00Z,Central Michigan Chippewas at Ball State Cardinals,13,Ball State Cardinals,2050,0,Central Michigan Chippewas,2117,0,Scheduled,Scheumann Stadium,False
+401866475,2026-11-28T17:00Z,Massachusetts Minutemen at Bowling Green Falcons,13,Bowling Green Falcons,189,0,Massachusetts Minutemen,113,0,Scheduled,Doyt L. Perry Stadium,False
 401870804,2026-11-28T18:00Z,Kennesaw State Owls at Western Kentucky Hilltoppers,13,Western Kentucky Hilltoppers,98,0,Kennesaw State Owls,338,0,Scheduled,Houchens Industries-L.T. Smith Stadium,False
-401871063,2026-11-28T19:00Z,Liberty Flames at Missouri State Bears,13,Missouri State Bears,2623,0,Liberty Flames,2335,0,Scheduled,Robert W. Plaster Stadium,False
 401871082,2026-11-28T19:00Z,Sam Houston Bearkats at Florida International Panthers,13,Florida International Panthers,2229,0,Sam Houston Bearkats,2534,0,Scheduled,Pitbull Stadium,False
+401871063,2026-11-28T19:00Z,Liberty Flames at Missouri State Bears,13,Missouri State Bears,2623,0,Liberty Flames,2335,0,Scheduled,Robert W. Plaster Stadium,False
 401871083,2026-11-28T19:00Z,New Mexico State Aggies at Middle Tennessee Blue Raiders,13,Middle Tennessee Blue Raiders,2393,0,New Mexico State Aggies,166,0,Scheduled,"Johnny ""Red"" Floyd Stadium",False
 401869939,2026-11-28T20:00Z,Troy Trojans at Arkansas State Red Wolves,13,Arkansas State Red Wolves,2032,0,Troy Trojans,2653,0,Scheduled,Centennial Bank Stadium,False
 401871062,2026-11-28T20:30Z,Jacksonville State Gamecocks at Delaware Blue Hens,13,Delaware Blue Hens,48,0,Jacksonville State Gamecocks,55,0,Scheduled,Delaware Stadium,False
-401864546,2026-11-28T21:30Z,Air Force Falcons at New Mexico Lobos,13,New Mexico Lobos,167,0,Air Force Falcons,2005,0,Scheduled,University Stadium (NM),False
 401864548,2026-11-29T02:00Z,Nevada Wolf Pack at UNLV Rebels,13,UNLV Rebels,2439,0,Nevada Wolf Pack,2440,0,Scheduled,Allegiant Stadium,False
 401864547,2026-11-29T04:00Z,Sacramento State Hornets at Hawai'i Rainbow Warriors,13,Hawai'i Rainbow Warriors,62,0,Sacramento State Hornets,16,0,Scheduled,Clarence T.C. Ching Athletics Complex,False
 401869535,2026-12-04T05:00Z,TBD at TBD,14,TBD,-1,0,TBD,-2,0,Scheduled,,False
