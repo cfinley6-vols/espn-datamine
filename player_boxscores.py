@@ -27,12 +27,13 @@ CREATE INDEX IF NOT EXISTS idx_player_box_scores_category
     ON Player_Box_Scores(stat_category, stat_name);
 """
 
-PLAYER_BS_INSERT = """
+INSERT = """
 INSERT INTO Player_Box_Scores
 (game_id, team_id, player_id, player_name, stat_category, stat_name,
  stat_label, stat_value, display_value)
 VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
 """
+
 
 def numeric_or_none(value):
     """Keep compound ESPN display values as text rather than inventing numbers."""
@@ -42,6 +43,7 @@ def numeric_or_none(value):
         return float(value)
     except (TypeError, ValueError):
         return None
+
 
 def parse_player_stats(game_id, boxscore):
     """Yield one row per game/team/player/category/statistic."""
@@ -71,34 +73,37 @@ def parse_player_stats(game_id, boxscore):
                         numeric_or_none(raw_value), display,
                     )
 
-def rebuild_from_raw(conn):
+
+def rebuild_from_raw(connection):
     """Atomically rebuild player stats from all cached payloads; no network access."""
-    conn.execute("PRAGMA foreign_keys = ON")
-    cached = conn.execute(
+    connection.execute("PRAGMA foreign_keys = ON")
+    cached = connection.execute(
         "SELECT game_id, payload FROM Raw_Boxscores WHERE payload IS NOT NULL"
     ).fetchall()
     total_rows = 0
     games_with_players = 0
-    with conn:
-        conn.executescript(CREATE_TABLE)
+    with connection:
+        connection.executescript(CREATE_TABLE)
         # Rebuild rather than upsert: removed/corrected ESPN stats cannot linger.
-        conn.execute("DELETE FROM Player_Box_Scores")
+        connection.execute("DELETE FROM Player_Box_Scores")
         for game_id, blob in cached:
             boxscore = json.loads(zlib.decompress(blob))
             rows = list(parse_player_stats(game_id, boxscore))
             if rows:
                 games_with_players += 1
-                conn.executemany(PLAYER_BS_INSERT, rows)
+                connection.executemany(INSERT, rows)
                 total_rows += len(rows)
     return len(cached), games_with_players, total_rows
+
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--db", default="espn_cfb_2026.db", help="SQLite database path")
     args = parser.parse_args()
-    with sqlite3.connect(args.db) as conn:
-        cached, games, rows = rebuild_from_raw(conn)
+    with sqlite3.connect(args.db) as connection:
+        cached, games, rows = rebuild_from_raw(connection)
     print(f"Cached payloads: {cached}; games with player stats: {games}; player-stat rows: {rows}")
+
 
 if __name__ == "__main__":
     main()
