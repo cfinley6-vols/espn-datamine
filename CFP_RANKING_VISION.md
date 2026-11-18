@@ -76,3 +76,8 @@ Add dated entries as new goals or decisions come up.
   each step, give hints, function names and small snippets, then review what Connor
   wrote. Don't write whole cells or large code blocks into the notebook unless asked.
   Notebook: `cfp_rankings.ipynb`.
+- **2026-11-18**: **Modeling decision: FCS opponents.** All FCS teams (the
+  `Teams` rows where `conference` is NULL, 102 of them in 2026) are combined into a
+  single "FCS" pseudo-team. Their games are kept, so a loss to an FCS team still
+  counts against an FBS team, and the rating stays stable. Only FBS teams appear in
+  the final rankings.
