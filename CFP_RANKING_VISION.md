@@ -81,3 +81,15 @@ Add dated entries as new goals or decisions come up.
   single "FCS" pseudo-team. Their games are kept, so a loss to an FCS team still
   counts against an FBS team, and the rating stays stable. Only FBS teams appear in
   the final rankings.
+- **2026-11-20**: **Modeling decision: margin handling in Massey.** No hand-picked
+  margin cap. Connor prefers (a) **tuning by out-of-sample prediction**: fit on
+  weeks 1..k-1, predict week k, roll forward, and choose the setting that predicts best,
+  then check it on the 2025 season; and (b) **garbage-time filtering from
+  play-by-play** (ignore points scored after the game is decided), which is the most
+  principled approach. Plan: build the backtest first, so that hard caps, smooth
+  caps (tanh) and garbage-time filtering can all be compared on the same measure.
+  **Never tune parameters to match the committee's rankings**: that would build in
+  its biases. Tune on predictive accuracy, then compare with the committee.
+- **Finding (2026-11-20):** Margin caps don't fix LSU-type profiles (blowout
+  wins, close losses). Massey treats a 1-point loss as almost a tie. So the
+  final model needs a win/loss (resume) component as well as margin.
