@@ -63,6 +63,67 @@ director**. The work should therefore be:
 - **Defensible**: backtested against past seasons and committee rankings, with a
   clear story for where it improves on the committee (bias, consistency).
 
+## Where we left off (update every session)
+_Last updated 2026-11-23. Connor closed the session to work on other parts of the course project._
+
+**Notebook state (`cfp_rankings.ipynb`):** Phases 1–3 are done and committed, up to
+`df68ac4` ("deriving a reasonable cap margin for massey").
+- Phase 1: `games` (Final games only, FCS IDs replaced with `"FCS"`), `teams` (plus the FCS
+  row), `team_games` (one row per team per game: `team_id`, `opp_id`, `points_for`,
+  `points_against`, `location`, `margin`, `win`).
+- Phase 2: `records` (indexed by `team_id`: games, wins, losses, win_pct, sos (naive),
+  colley, massey) and `ranking` (win % with SOS as a tiebreaker).
+- Phase 3: Colley (`C r = b`, `colley_rank`); Massey (`X`, `y`, a sum-to-zero
+  constraint row, `lstsq`, `massey_rank`, home-field advantage about 3.16 uncapped);
+  helper functions `massey_ratings(X_c, y, cap=None)` (symmetric clip),
+  `build_massey_system(games_df)`, `predict_margins(sol, test_games)` and
+  `backtest(cap=None, start_week=5)`.
+- Backtest (weeks 5–11, 421 games, scored on winner accuracy): no cap 65.3%, cap 35
+  66.5%, **cap 28 67.0%**, cap 21 66.3%, cap 14 63.4%, cap 7 63.2%. Baseline "home team always
+  wins" is 56.8%. The differences between 21, 28 and 35 are 2–3 games, which is
+  noise. Conclusion so far: moderate caps beat both no cap and tight caps.
+- Claude added the baseline cell (the last cell) at Connor's request. **It may not have been run
+  or committed yet**, so check that first.
+
+**NEXT TASK: garbage-time margin from play-by-play.** Connor wants to get this right.
+Data is available: the `Plays` table covers all 752 Final 2026 games (and 956 of 958
+in 2025). Each play has `period`, `clock` ("MM:SS"), and running `home_score` /
+`away_score` after the play. `Scoring_Plays` also exists (`period`, `clock`,
+`team_id`, `points`).
+Plan (still pair-programming: guide Connor, don't write the cells):
+1. Load the plays for Final games. Turn `period` + `clock` into elapsed seconds
+   (quarters are 15:00; overtime is period ≥ 5, and a game in OT was never garbage time).
+2. Define **"game decided"**. Start simple and transparent, e.g. the lead is ≥ N
+   points with ≤ T seconds left (thresholds that vary by quarter, like SP+ style
+   rules: Q2 > 38, Q3 > 28, Q4 > 22), or a lead greater than the points still
+   possible in the time left. Keep N/T as parameters.
+3. For each game, the **competitive margin** is the home-minus-away score at the
+   first play where the game became decided (or the final margin if it never did). Watch out:
+   a "decided" game where the trailing team came back. Decide whether to use the first
+   decided moment or require the game to stay decided.
+4. Check: there should be one competitive margin per game, and |competitive| should be ≤ |final|
+   in almost every game. Look at examples (LSU's and Wake Forest's blowouts).
+5. Plug it into Massey as an alternative `y`. This needs `massey_ratings` /
+   `build_massey_system` / `backtest` to accept a margin column (e.g. a
+   `margin_col` parameter) instead of always using `home_score - away_score`.
+   Scoring should still be winner accuracy against the actual final result.
+6. Put garbage-time Massey on the backtest scoreboard against caps 21/28/35. Only
+   keep it if it beats the simple cap (the backtest is the judge).
+
+**Backlog after garbage time (in recommended order):**
+1. `load_season(db_path)` refactor so the whole pipeline also runs on 2025, then
+   rerun the backtest scoreboard on 2025 to see whether the margin setting holds up.
+2. `tanh` smooth cap (`k * tanh(m / k)`) as another scoreboard option.
+3. Phase 4: resume score. First fix SOS self-inclusion (opponents' win % leaving out
+   games against the team itself, which Connor identified), then score quality wins,
+   bad losses (6 FBS teams lost to FCS in 2026) and conference titles.
+4. Phase 5: blend Colley (resume) with Massey (strength), plus head-to-head and
+   common-opponent adjustments. Test case: Tennessee beat Alabama 26–10 in Week 7
+   (2026), but Colley has Alabama #6 / Tennessee #13 and Massey has #4 / #8 (about 6 points
+   apart). Connor needs to decide when teams count as "comparable" enough for
+   head-to-head to override the ratings.
+5. Phase 6: compare everything with the committee's actual rankings.
+
 ## Intent Log
 Add dated entries as new goals or decisions come up.
 
