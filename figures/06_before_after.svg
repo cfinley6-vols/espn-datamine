@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="959.976pt" height="540pt" viewBox="0 0 959.976 540" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-23T11:27:03.936019</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 540 
+L 959.976 540 
+L 959.976 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 48.997175 195.507 
+L 434.062748 195.507 
+Q 444.660883 195.507 444.660883 186.521625 
+L 444.660883 121.305375 
+Q 444.660883 112.32 434.062748 112.32 
+L 48.997175 112.32 
+Q 38.39904 112.32 38.39904 121.305375 
+L 38.39904 186.521625 
+Q 38.39904 195.507 48.997175 195.507 
+z
+" clip-path="url(#p3aef139864)" style="fill: #f4f3ef"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 48.997175 291.33 
+L 434.062748 291.33 
+Q 444.660883 291.33 444.660883 282.344625 
+L 444.660883 217.128375 
+Q 444.660883 208.143 434.062748 208.143 
+L 48.997175 208.143 
+Q 38.39904 208.143 38.39904 217.128375 
+L 38.39904 282.344625 
+Q 38.39904 291.33 48.997175 291.33 
+z
+" clip-path="url(#p3aef139864)" style="fill: #f4f3ef"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 48.997175 387.153 
+L 434.062748 387.153 
+Q 444.660883 387.153 444.660883 378.167625 
+L 444.660883 312.951375 
+Q 444.660883 303.966 434.062748 303.966 
+L 48.997175 303.966 
+Q 38.39904 303.966 38.39904 312.951375 
+L 38.39904 378.167625 
+Q 38.39904 387.153 48.997175 387.153 
+z
+" clip-path="url(#p3aef139864)" style="fill: #f4f3ef"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 48.997175 482.976 
+L 434.062748 482.976 
+Q 444.660883 482.976 444.660883 473.990625 
+L 444.660883 408.774375 
+Q 444.660883 399.789 434.062748 399.789 
+L 48.997175 399.789 
+Q 38.39904 399.789 38.39904 408.774375 
+L 38.39904 473.990625 
+Q 38.39904 482.976 48.997175 482.976 
+z
+" clip-path="url(#p3aef139864)" style="fill: url(#hf8eb9cb6d1); stroke: #eb6834; stroke-width: 2.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 48.997175 474.552 
+L 434.062748 474.552 
+L 434.062748 408.213 
+L 48.997175 408.213 
+z
+" clip-path="url(#p3aef139864)" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 525.913252 227.448 
+L 910.978825 227.448 
+Q 921.57696 227.448 921.57696 218.462625 
+L 921.57696 121.305375 
+Q 921.57696 112.32 910.978825 112.32 
+L 525.913252 112.32 
+Q 515.315117 112.32 515.315117 121.305375 
+L 515.315117 218.462625 
+Q 515.315117 227.448 525.913252 227.448 
+z
+" clip-path="url(#p3aef139864)" style="fill: #cde2fb"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 525.913252 355.212 
+L 910.978825 355.212 
+Q 921.57696 355.212 921.57696 346.226625 
+L 921.57696 249.069375 
+Q 921.57696 240.084 910.978825 240.084 
+L 525.913252 240.084 
+Q 515.315117 240.084 515.315117 249.069375 
+L 515.315117 346.226625 
+Q 515.315117 355.212 525.913252 355.212 
+z
+" clip-path="url(#p3aef139864)" style="fill: #cde2fb"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 525.913252 482.976 
+L 910.978825 482.976 
+Q 921.57696 482.976 921.57696 473.990625 
+L 921.57696 376.833375 
+Q 921.57696 367.848 910.978825 367.848 
+L 525.913252 367.848 
+Q 515.315117 367.848 515.315117 376.833375 
+L 515.315117 473.990625 
+Q 515.315117 482.976 525.913252 482.976 
+z
+" clip-path="url(#p3aef139864)" style="fill: #cde2fb"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="38.39904" y="90.416" transform="rotate(-0 38.39904 90.416)">ESPN provides</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 40px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="64.894378" y="169.0735" transform="rotate(-0 64.894378 169.0735)">15</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 17px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="170.875728" y="164.901466" transform="rotate(-0 170.875728 164.901466)">team stats per game</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="170.875728" y="190.90515" transform="rotate(-0 170.875728 190.90515)">offense only</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 40px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="64.894378" y="264.8965" transform="rotate(-0 64.894378 264.8965)">50</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 17px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="170.875728" y="261.201262" transform="rotate(-0 170.875728 261.201262)">player stat fields</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="170.875728" y="286.713931" transform="rotate(-0 170.875728 286.713931)">10 categories, 10 defensive</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 40px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="64.894378" y="360.7195" transform="rotate(-0 64.894378 360.7195)">34</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 17px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="170.875728" y="357.024263" transform="rotate(-0 170.875728 357.024263)">play-by-play fields</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="170.875728" y="382.495369" transform="rotate(-0 170.875728 382.495369)">per play</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 40px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #b4441a" x="64.894378" y="456.5425" transform="rotate(-0 64.894378 456.5425)">0</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 17px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="170.875728" y="454.274997" transform="rotate(-0 170.875728 454.274997)">team defensive stats</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="170.875728" y="478.388369" transform="rotate(-0 170.875728 478.388369)">not published</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="515.315117" y="90.416" transform="rotate(-0 515.315117 90.416)">We reconstructed</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 40px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #1c5cab" x="541.810454" y="185.044" transform="rotate(-0 541.810454 185.044)">17</text>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 17px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="647.791805" y="171.825297" transform="rotate(-0 647.791805 171.825297)">team defensive stats</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #52514e" transform="translate(647.791805 195.99445)">from opponent box score,</text>
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #52514e" transform="translate(647.791805 214.625169)">scoreboard and play-by-play</text>
+   </g>
+   <g id="text_18">
+    <text style="font-weight: 700; font-size: 40px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #1c5cab" x="541.810454" y="312.808" transform="rotate(-0 541.810454 312.808)">10</text>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 700; font-size: 17px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #0b0b0b" transform="translate(647.791805 298.161563)">team totals of player</text>
+    <text style="font-weight: 700; font-size: 17px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #0b0b0b" transform="translate(647.791805 321.879697)">defensive stats</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="647.791805" y="345.52085" transform="rotate(-0 647.791805 345.52085)">summed per team-game</text>
+   </g>
+   <g id="text_21">
+    <text style="font-weight: 700; font-size: 40px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #1c5cab" x="541.810454" y="440.572" transform="rotate(-0 541.810454 440.572)">63</text>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 700; font-size: 17px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="647.791805" y="427.353297" transform="rotate(-0 647.791805 427.353297)">season defensive features</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #52514e" transform="translate(647.791805 451.584794)">per team (138 FBS teams)</text>
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #52514e" transform="translate(647.791805 470.789731)">in team_defensive_season_2026.csv</text>
+   </g>
+   <g id="patch_10">
+    <path d="M 457.908552 289.224 
+Q 479.988 289.224 498.713346 289.224 
+" style="fill: none; stroke: #52514e; stroke-width: 3; stroke-linecap: round"/>
+    <path d="M 489.913346 284.824 
+L 498.713346 289.224 
+L 489.913346 293.624 
+z
+" style="fill: #52514e; stroke: #52514e; stroke-width: 3; stroke-linecap: round"/>
+   </g>
+  </g>
+  <g id="line2d_1">
+   <path d="M 38.39904 507.6 
+L 921.57696 507.6 
+" style="fill: none; stroke: #e1e0d9; stroke-linecap: square"/>
+  </g>
+  <g id="text_24">
+   <text style="font-weight: 700; font-size: 24px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="38.39904" y="35.1" transform="rotate(-0 38.39904 35.1)">From 0 team defensive stats to 27 per game</text>
+  </g>
+  <g id="text_25">
+   <text style="font-size: 12px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #898781" x="38.39904" y="526.5" transform="rotate(-0 38.39904 526.5)">Source: espn_cfb_2026.db (ESPN site API) · 752 Final games through Week 11 (Nov 15, 2026) · generated 2026-11-23</text>
+  </g>
+  <g id="text_26">
+   <text style="font-size: 12px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #898781" x="921.57696" y="526.5" transform="rotate(-0 921.57696 526.5)">06_before_after</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p3aef139864">
+   <rect x="38.39904" y="70.2" width="883.17792" height="421.2"/>
+  </clipPath>
+ </defs>
+ <defs>
+  <pattern id="hf8eb9cb6d1" patternUnits="userSpaceOnUse" x="0" y="0" width="72" height="72">
+   <rect x="0" y="0" width="73" height="73" fill="#ffffff"/>
+   <path d="M -36 36 
+L 36 -36 
+M -30 42 
+L 42 -30 
+M -24 48 
+L 48 -24 
+M -18 54 
+L 54 -18 
+M -12 60 
+L 60 -12 
+M -6 66 
+L 66 -6 
+M 0 72 
+L 72 0 
+M 6 78 
+L 78 6 
+M 12 84 
+L 84 12 
+M 18 90 
+L 90 18 
+M 24 96 
+L 96 24 
+M 30 102 
+L 102 30 
+M 36 108 
+L 108 36 
+" style="fill: #eb6834; stroke: #eb6834; stroke-width: 1.2; stroke-linecap: butt; stroke-linejoin: miter"/>
+  </pattern>
+ </defs>
+</svg>

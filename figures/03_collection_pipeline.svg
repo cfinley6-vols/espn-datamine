@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="959.976pt" height="540pt" viewBox="0 0 959.976 540" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-23T11:27:03.227653</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 540 
+L 959.976 540 
+L 959.976 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 84.324292 176.31 
+L 204.436489 176.31 
+Q 215.034624 176.31 215.034624 167.785413 
+L 215.034624 132.886587 
+Q 215.034624 124.362 204.436489 124.362 
+L 84.324292 124.362 
+Q 73.726157 124.362 73.726157 132.886587 
+L 73.726157 167.785413 
+Q 73.726157 176.31 84.324292 176.31 
+z
+" clip-path="url(#p25b3c2e093)" style="fill: #cde2fb"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 283.039324 176.31 
+L 526.79643 176.31 
+Q 537.394565 176.31 537.394565 167.785413 
+L 537.394565 132.886587 
+Q 537.394565 124.362 526.79643 124.362 
+L 283.039324 124.362 
+Q 272.441189 124.362 272.441189 132.886587 
+L 272.441189 167.785413 
+Q 272.441189 176.31 283.039324 176.31 
+z
+" clip-path="url(#p25b3c2e093)" style="fill: #f4f3ef"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 84.324292 244.242 
+L 204.436489 244.242 
+Q 215.034624 244.242 215.034624 235.717413 
+L 215.034624 200.818587 
+Q 215.034624 192.294 204.436489 192.294 
+L 84.324292 192.294 
+Q 73.726157 192.294 73.726157 200.818587 
+L 73.726157 235.717413 
+Q 73.726157 244.242 84.324292 244.242 
+z
+" clip-path="url(#p25b3c2e093)" style="fill: #cde2fb"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 283.039324 244.242 
+L 526.79643 244.242 
+Q 537.394565 244.242 537.394565 235.717413 
+L 537.394565 200.818587 
+Q 537.394565 192.294 526.79643 192.294 
+L 283.039324 192.294 
+Q 272.441189 192.294 272.441189 200.818587 
+L 272.441189 235.717413 
+Q 272.441189 244.242 283.039324 244.242 
+z
+" clip-path="url(#p25b3c2e093)" style="fill: #f4f3ef"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 84.324292 312.174 
+L 204.436489 312.174 
+Q 215.034624 312.174 215.034624 303.649413 
+L 215.034624 268.750587 
+Q 215.034624 260.226 204.436489 260.226 
+L 84.324292 260.226 
+Q 73.726157 260.226 73.726157 268.750587 
+L 73.726157 303.649413 
+Q 73.726157 312.174 84.324292 312.174 
+z
+" clip-path="url(#p25b3c2e093)" style="fill: #cde2fb"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 283.039324 312.174 
+L 526.79643 312.174 
+Q 537.394565 312.174 537.394565 303.649413 
+L 537.394565 268.750587 
+Q 537.394565 260.226 526.79643 260.226 
+L 283.039324 260.226 
+Q 272.441189 260.226 272.441189 268.750587 
+L 272.441189 303.649413 
+Q 272.441189 312.174 283.039324 312.174 
+z
+" clip-path="url(#p25b3c2e093)" style="fill: #f4f3ef"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 84.324292 380.106 
+L 204.436489 380.106 
+Q 215.034624 380.106 215.034624 371.581413 
+L 215.034624 336.682587 
+Q 215.034624 328.158 204.436489 328.158 
+L 84.324292 328.158 
+Q 73.726157 328.158 73.726157 336.682587 
+L 73.726157 371.581413 
+Q 73.726157 380.106 84.324292 380.106 
+z
+" clip-path="url(#p25b3c2e093)" style="fill: #f4f3ef"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 283.039324 380.106 
+L 526.79643 380.106 
+Q 537.394565 380.106 537.394565 371.581413 
+L 537.394565 336.682587 
+Q 537.394565 328.158 526.79643 328.158 
+L 283.039324 328.158 
+Q 272.441189 328.158 272.441189 336.682587 
+L 272.441189 371.581413 
+Q 272.441189 380.106 283.039324 380.106 
+z
+" clip-path="url(#p25b3c2e093)" style="fill: #f4f3ef"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 84.324292 448.038 
+L 204.436489 448.038 
+Q 215.034624 448.038 215.034624 439.513413 
+L 215.034624 404.614587 
+Q 215.034624 396.09 204.436489 396.09 
+L 84.324292 396.09 
+Q 73.726157 396.09 73.726157 404.614587 
+L 73.726157 439.513413 
+Q 73.726157 448.038 84.324292 448.038 
+z
+" clip-path="url(#p25b3c2e093)" style="fill: #f4f3ef"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 283.039324 448.038 
+L 526.79643 448.038 
+Q 537.394565 448.038 537.394565 439.513413 
+L 537.394565 404.614587 
+Q 537.394565 396.09 526.79643 396.09 
+L 283.039324 396.09 
+Q 272.441189 396.09 272.441189 404.614587 
+L 272.441189 439.513413 
+Q 272.441189 448.038 283.039324 448.038 
+z
+" clip-path="url(#p25b3c2e093)" style="fill: #f4f3ef"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 797.932051 464.022 
+L 921.57696 464.022 
+" clip-path="url(#p25b3c2e093)" style="fill: none; stroke: #c3c2b7; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="859.754506" y="98.388" transform="rotate(-0 859.754506 98.388)">requests</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 22px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #898781" x="47.230819" y="158.674" transform="rotate(-0 47.230819 158.674)">1</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 17px; font-family: 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle; fill: #1c5cab" x="144.38039" y="155.204242" transform="rotate(-0 144.38039 155.204242)">standings</text>
+   </g>
+   <g id="patch_12">
+    <path d="M 223.866403 150.336 
+Q 243.737906 150.336 261.373342 150.336 
+" style="fill: none; stroke: #52514e; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 252.573342 145.936 
+L 261.373342 150.336 
+L 252.573342 154.736 
+z
+" style="fill: #52514e; stroke: #52514e; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="285.688858" y="155.609438" transform="rotate(-0 285.688858 155.609438)">Teams</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="559.474013" y="155.8785" transform="rotate(-0 559.474013 155.8785)">once; FCS opponents added later</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: middle; fill: #1c5cab" x="859.754506" y="159.432" transform="rotate(-0 859.754506 159.432)">1</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 22px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #898781" x="47.230819" y="226.606" transform="rotate(-0 47.230819 226.606)">2</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 17px; font-family: 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle; fill: #1c5cab" x="144.38039" y="222.68468" transform="rotate(-0 144.38039 222.68468)">scoreboard</text>
+   </g>
+   <g id="patch_13">
+    <path d="M 223.866403 218.268 
+Q 243.737906 218.268 261.373342 218.268 
+" style="fill: none; stroke: #52514e; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 252.573342 213.868 
+L 261.373342 218.268 
+L 252.573342 222.668 
+z
+" style="fill: #52514e; stroke: #52514e; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="285.688858" y="223.6305" transform="rotate(-0 285.688858 223.6305)">Games</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="559.474013" y="223.8105" transform="rotate(-0 559.474013 223.8105)">one call per day of the season</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: middle; fill: #1c5cab" x="859.754506" y="227.364" transform="rotate(-0 859.754506 227.364)">123</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 22px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #898781" x="47.230819" y="294.538" transform="rotate(-0 47.230819 294.538)">3</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 17px; font-family: 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle; fill: #1c5cab" x="144.38039" y="290.616016" transform="rotate(-0 144.38039 290.616016)">summary</text>
+   </g>
+   <g id="patch_14">
+    <path d="M 223.866403 286.2 
+Q 243.737906 286.2 261.373342 286.2 
+" style="fill: none; stroke: #52514e; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 252.573342 281.8 
+L 261.373342 286.2 
+L 252.573342 290.6 
+z
+" style="fill: #52514e; stroke: #52514e; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="285.688858" y="290.002734" transform="rotate(-0 285.688858 290.002734)">Raw_Boxscores + Raw_Plays</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="559.474013" y="291.7425" transform="rotate(-0 559.474013 291.7425)">one per completed game</text>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: middle; fill: #1c5cab" x="859.754506" y="295.296" transform="rotate(-0 859.754506 295.296)">752</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 22px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #898781" x="47.230819" y="362.47" transform="rotate(-0 47.230819 362.47)">4</text>
+   </g>
+   <g id="text_18">
+    <text style="font-weight: 700; font-size: 17px; font-family: 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle; fill: #0b0b0b" x="144.38039" y="358.548016" transform="rotate(-0 144.38039 358.548016)">parse</text>
+   </g>
+   <g id="patch_15">
+    <path d="M 223.866403 354.132 
+Q 243.737906 354.132 261.373342 354.132 
+" style="fill: none; stroke: #52514e; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 252.573342 349.732 
+L 261.373342 354.132 
+L 252.573342 358.532 
+z
+" style="fill: #52514e; stroke: #52514e; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #0b0b0b" transform="translate(285.688858 347.576297)">Box_Scores, Player_Box_Scores,</text>
+    <text style="font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #0b0b0b" transform="translate(285.688858 368.531063)">Plays, Scoring_Plays</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="559.474013" y="359.6745" transform="rotate(-0 559.474013 359.6745)">from stored JSON</text>
+   </g>
+   <g id="text_21">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: middle; fill: #898781" x="859.754506" y="363.228" transform="rotate(-0 859.754506 363.228)">0</text>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 700; font-size: 22px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #898781" x="47.230819" y="430.402" transform="rotate(-0 47.230819 430.402)">5</text>
+   </g>
+   <g id="text_23">
+    <text style="font-weight: 700; font-size: 17px; font-family: 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle; fill: #0b0b0b" x="144.38039" y="426.932242" transform="rotate(-0 144.38039 426.932242)">derive</text>
+   </g>
+   <g id="patch_16">
+    <path d="M 223.866403 422.064 
+Q 243.737906 422.064 261.373342 422.064 
+" style="fill: none; stroke: #52514e; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 252.573342 417.664 
+L 261.373342 422.064 
+L 252.573342 426.464 
+z
+" style="fill: #52514e; stroke: #52514e; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #0b0b0b" transform="translate(285.688858 415.583297)">Team_Defense_Opponent_Stats,</text>
+    <text style="font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #0b0b0b" transform="translate(285.688858 437.100563)">Team_Defensive_Stats</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="559.474013" y="427.6065" transform="rotate(-0 559.474013 427.6065)">from parsed tables</text>
+   </g>
+   <g id="text_26">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: middle; fill: #898781" x="859.754506" y="431.16" transform="rotate(-0 859.754506 431.16)">0</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="789.100272" y="489.5445" transform="rotate(-0 789.100272 489.5445)">total</text>
+   </g>
+   <g id="text_28">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: middle; fill: #0b0b0b" x="859.754506" y="493.098" transform="rotate(-0 859.754506 493.098)">876</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #52514e" transform="translate(47.230819 476.26)">0.15 s pause per call · 3 retries with backoff · 30 s timeout</text>
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #52514e" transform="translate(47.230819 499.072125)">zlib-compressed, SHA-256 fingerprinted · only new or changed games re-fetched</text>
+   </g>
+  </g>
+  <g id="line2d_2">
+   <path d="M 38.39904 507.6 
+L 921.57696 507.6 
+" style="fill: none; stroke: #e1e0d9; stroke-linecap: square"/>
+  </g>
+  <g id="text_30">
+   <text style="font-weight: 700; font-size: 24px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="38.39904" y="35.1" transform="rotate(-0 38.39904 35.1)">The whole season so far costs 876 requests</text>
+  </g>
+  <g id="text_31">
+   <text style="font-size: 16px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="38.39904" y="62.1" transform="rotate(-0 38.39904 62.1)">Raw JSON is stored first, so parsing and deriving never touch the API</text>
+  </g>
+  <g id="text_32">
+   <text style="font-size: 12px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #898781" x="38.39904" y="526.5" transform="rotate(-0 38.39904 526.5)">Source: espn_cfb_2026.db (ESPN site API) · 752 Final games through Week 11 (Nov 15, 2026) · generated 2026-11-23</text>
+  </g>
+  <g id="text_33">
+   <text style="font-size: 12px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #898781" x="921.57696" y="526.5" transform="rotate(-0 921.57696 526.5)">03_collection_pipeline</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p25b3c2e093">
+   <rect x="38.39904" y="86.4" width="883.17792" height="399.6"/>
+  </clipPath>
+ </defs>
+</svg>

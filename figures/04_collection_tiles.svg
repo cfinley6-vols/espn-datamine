@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="959.976pt" height="540pt" viewBox="0 0 959.976 540" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-23T11:27:03.470851</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 540 
+L 959.976 540 
+L 959.976 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 48.997175 200.016 
+L 306.00195 200.016 
+Q 316.600085 200.016 316.600085 191.261019 
+L 316.600085 89.754981 
+Q 316.600085 81 306.00195 81 
+L 48.997175 81 
+Q 38.39904 81 38.39904 89.754981 
+L 38.39904 191.261019 
+Q 38.39904 200.016 48.997175 200.016 
+z
+" clip-path="url(#pc9d5d35394)" style="fill: #f4f3ef"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 351.485613 200.016 
+L 608.490387 200.016 
+Q 619.088522 200.016 619.088522 191.261019 
+L 619.088522 89.754981 
+Q 619.088522 81 608.490387 81 
+L 351.485613 81 
+Q 340.887478 81 340.887478 89.754981 
+L 340.887478 191.261019 
+Q 340.887478 200.016 351.485613 200.016 
+z
+" clip-path="url(#pc9d5d35394)" style="fill: #f4f3ef"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 653.97405 200.016 
+L 910.978825 200.016 
+Q 921.57696 200.016 921.57696 191.261019 
+L 921.57696 89.754981 
+Q 921.57696 81 910.978825 81 
+L 653.97405 81 
+Q 643.375915 81 643.375915 89.754981 
+L 643.375915 191.261019 
+Q 643.375915 200.016 653.97405 200.016 
+z
+" clip-path="url(#pc9d5d35394)" style="fill: #f4f3ef"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 48.997175 337.5 
+L 306.00195 337.5 
+Q 316.600085 337.5 316.600085 328.745019 
+L 316.600085 227.238981 
+Q 316.600085 218.484 306.00195 218.484 
+L 48.997175 218.484 
+Q 38.39904 218.484 38.39904 227.238981 
+L 38.39904 328.745019 
+Q 38.39904 337.5 48.997175 337.5 
+z
+" clip-path="url(#pc9d5d35394)" style="fill: #f4f3ef"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 351.485613 337.5 
+L 608.490387 337.5 
+Q 619.088522 337.5 619.088522 328.745019 
+L 619.088522 227.238981 
+Q 619.088522 218.484 608.490387 218.484 
+L 351.485613 218.484 
+Q 340.887478 218.484 340.887478 227.238981 
+L 340.887478 328.745019 
+Q 340.887478 337.5 351.485613 337.5 
+z
+" clip-path="url(#pc9d5d35394)" style="fill: #f4f3ef"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 653.97405 337.5 
+L 910.978825 337.5 
+Q 921.57696 337.5 921.57696 328.745019 
+L 921.57696 227.238981 
+Q 921.57696 218.484 910.978825 218.484 
+L 653.97405 218.484 
+Q 643.375915 218.484 643.375915 227.238981 
+L 643.375915 328.745019 
+Q 643.375915 337.5 653.97405 337.5 
+z
+" clip-path="url(#pc9d5d35394)" style="fill: #f4f3ef"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 48.997175 474.984 
+L 306.00195 474.984 
+Q 316.600085 474.984 316.600085 466.229019 
+L 316.600085 364.722981 
+Q 316.600085 355.968 306.00195 355.968 
+L 48.997175 355.968 
+Q 38.39904 355.968 38.39904 364.722981 
+L 38.39904 466.229019 
+Q 38.39904 474.984 48.997175 474.984 
+z
+" clip-path="url(#pc9d5d35394)" style="fill: #f4f3ef"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 351.485613 474.984 
+L 608.490387 474.984 
+Q 619.088522 474.984 619.088522 466.229019 
+L 619.088522 364.722981 
+Q 619.088522 355.968 608.490387 355.968 
+L 351.485613 355.968 
+Q 340.887478 355.968 340.887478 364.722981 
+L 340.887478 466.229019 
+Q 340.887478 474.984 351.485613 474.984 
+z
+" clip-path="url(#pc9d5d35394)" style="fill: #f4f3ef"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 653.97405 474.984 
+L 910.978825 474.984 
+Q 921.57696 474.984 921.57696 466.229019 
+L 921.57696 364.722981 
+Q 921.57696 355.968 910.978825 355.968 
+L 653.97405 355.968 
+Q 643.375915 355.968 643.375915 364.722981 
+L 643.375915 466.229019 
+Q 643.375915 474.984 653.97405 474.984 
+z
+" clip-path="url(#pc9d5d35394)" style="fill: #f4f3ef"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 36px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="60.478488" y="133.632" transform="rotate(-0 60.478488 133.632)">899</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="60.478488" y="165.04" transform="rotate(-0 60.478488 165.04)">games on the schedule</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="60.478488" y="188.773" transform="rotate(-0 60.478488 188.773)">Weeks 1–13</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 36px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="362.966926" y="133.632" transform="rotate(-0 362.966926 133.632)">752</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="362.966926" y="165.04" transform="rotate(-0 362.966926 165.04)">completed games collected</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="362.966926" y="188.773" transform="rotate(-0 362.966926 188.773)">123 against FCS opponents</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 36px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="665.455363" y="133.632" transform="rotate(-0 665.455363 133.632)">240</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="665.455363" y="165.04" transform="rotate(-0 665.455363 165.04)">teams</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="665.455363" y="188.773" transform="rotate(-0 665.455363 188.773)">138 FBS + 102 FCS opponents</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 36px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="60.478488" y="271.116" transform="rotate(-0 60.478488 271.116)">1,504</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="60.478488" y="302.524" transform="rotate(-0 60.478488 302.524)">team-game box scores</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="60.478488" y="326.257" transform="rotate(-0 60.478488 326.257)">22,560 team stat rows</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 36px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="362.966926" y="271.116" transform="rotate(-0 362.966926 271.116)">385,218</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="362.966926" y="302.524" transform="rotate(-0 362.966926 302.524)">player stat rows</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="362.966926" y="326.257" transform="rotate(-0 362.966926 326.257)">12,488 unique players</text>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 36px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="665.455363" y="271.116" transform="rotate(-0 665.455363 271.116)">53,097</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="665.455363" y="302.524" transform="rotate(-0 665.455363 302.524)">player-game appearances</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="665.455363" y="326.257" transform="rotate(-0 665.455363 326.257)">50 stat fields per player</text>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 700; font-size: 36px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="60.478488" y="408.6" transform="rotate(-0 60.478488 408.6)">133,954</text>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="60.478488" y="440.008" transform="rotate(-0 60.478488 440.008)">plays</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="60.478488" y="463.741" transform="rotate(-0 60.478488 463.741)">across 17,655 drives</text>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 700; font-size: 36px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="362.966926" y="408.6" transform="rotate(-0 362.966926 408.6)">6,733</text>
+   </g>
+   <g id="text_23">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="362.966926" y="440.008" transform="rotate(-0 362.966926 440.008)">scoring plays</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="362.966926" y="463.741" transform="rotate(-0 362.966926 463.741)">318 not scored by the offense</text>
+   </g>
+   <g id="text_25">
+    <text style="font-weight: 700; font-size: 36px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="665.455363" y="408.6" transform="rotate(-0 665.455363 408.6)">20.5</text>
+   </g>
+   <g id="text_26">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="665.455363" y="440.008" transform="rotate(-0 665.455363 440.008)">MB of raw JSON</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="665.455363" y="463.741" transform="rotate(-0 665.455363 463.741)">compressed box scores + play-by-play</text>
+   </g>
+  </g>
+  <g id="line2d_1">
+   <path d="M 38.39904 507.6 
+L 921.57696 507.6 
+" style="fill: none; stroke: #e1e0d9; stroke-linecap: square"/>
+  </g>
+  <g id="text_28">
+   <text style="font-weight: 700; font-size: 24px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="38.39904" y="35.1" transform="rotate(-0 38.39904 35.1)">What we collected</text>
+  </g>
+  <g id="text_29">
+   <text style="font-size: 16px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="38.39904" y="62.1" transform="rotate(-0 38.39904 62.1)">2026 FBS season, Final games through Week 11</text>
+  </g>
+  <g id="text_30">
+   <text style="font-size: 12px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #898781" x="38.39904" y="526.5" transform="rotate(-0 38.39904 526.5)">Source: espn_cfb_2026.db (ESPN site API) · 752 Final games through Week 11 (Nov 15, 2026) · generated 2026-11-23</text>
+  </g>
+  <g id="text_31">
+   <text style="font-size: 12px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #898781" x="921.57696" y="526.5" transform="rotate(-0 921.57696 526.5)">04_collection_tiles</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pc9d5d35394">
+   <rect x="38.39904" y="81" width="883.17792" height="410.4"/>
+  </clipPath>
+ </defs>
+</svg>
