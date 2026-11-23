@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-11-23T11:27:04.169132</dc:date>
+    <dc:date>2026-11-23T12:58:48.398325</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -35,7 +35,7 @@ L 479.988 185.2416
 L 479.988 149.1264 
 L 33.98315 149.1264 
 z
-" clip-path="url(#p9942673f57)" style="fill: #f4f3ef"/>
+" clip-path="url(#p19bab3e367)" style="fill: #f4f3ef"/>
    </g>
    <g id="patch_3">
     <path d="M 33.98315 269.784 
@@ -43,7 +43,7 @@ L 479.988 269.784
 L 479.988 233.6688 
 L 33.98315 233.6688 
 z
-" clip-path="url(#p9942673f57)" style="fill: #f4f3ef"/>
+" clip-path="url(#p19bab3e367)" style="fill: #f4f3ef"/>
    </g>
    <g id="patch_4">
     <path d="M 33.98315 354.3264 
@@ -51,7 +51,7 @@ L 479.988 354.3264
 L 479.988 318.2112 
 L 33.98315 318.2112 
 z
-" clip-path="url(#p9942673f57)" style="fill: #f4f3ef"/>
+" clip-path="url(#p19bab3e367)" style="fill: #f4f3ef"/>
    </g>
    <g id="patch_5">
     <path d="M 33.98315 438.8688 
@@ -59,7 +59,7 @@ L 479.988 438.8688
 L 479.988 402.7536 
 L 33.98315 402.7536 
 z
-" clip-path="url(#p9942673f57)" style="fill: #f4f3ef"/>
+" clip-path="url(#p19bab3e367)" style="fill: #f4f3ef"/>
    </g>
    <g id="patch_6">
     <path d="M 528.562786 182.7792 
@@ -67,7 +67,7 @@ L 921.57696 182.7792
 L 921.57696 151.5888 
 L 528.562786 151.5888 
 z
-" clip-path="url(#p9942673f57)" style="fill: #f4f3ef"/>
+" clip-path="url(#p19bab3e367)" style="fill: #f4f3ef"/>
    </g>
    <g id="patch_7">
     <path d="M 528.562786 253.368 
@@ -75,7 +75,7 @@ L 921.57696 253.368
 L 921.57696 222.1776 
 L 528.562786 222.1776 
 z
-" clip-path="url(#p9942673f57)" style="fill: #f4f3ef"/>
+" clip-path="url(#p19bab3e367)" style="fill: #f4f3ef"/>
    </g>
    <g id="patch_8">
     <path d="M 528.562786 323.9568 
@@ -83,7 +83,7 @@ L 921.57696 323.9568
 L 921.57696 292.7664 
 L 528.562786 292.7664 
 z
-" clip-path="url(#p9942673f57)" style="fill: #f4f3ef"/>
+" clip-path="url(#p19bab3e367)" style="fill: #f4f3ef"/>
    </g>
    <g id="patch_9">
     <path d="M 528.562786 394.5456 
@@ -91,12 +91,12 @@ L 921.57696 394.5456
 L 921.57696 363.3552 
 L 528.562786 363.3552 
 z
-" clip-path="url(#p9942673f57)" style="fill: #f4f3ef"/>
+" clip-path="url(#p19bab3e367)" style="fill: #f4f3ef"/>
    </g>
    <g id="line2d_1">
     <path d="M 532.978675 399.8808 
 L 921.57696 399.8808 
-" clip-path="url(#p9942673f57)" style="fill: none; stroke: #0b0b0b; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#p19bab3e367)" style="fill: none; stroke: #0b0b0b; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="text_1">
     <text style="font-weight: 700; font-size: 19px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="38.39904" y="100.513" transform="rotate(-0 38.39904 100.513)">1. Opponent inversion</text>
@@ -385,14 +385,14 @@ L 921.57696 507.6
    <text style="font-size: 16px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="38.39904" y="62.1" transform="rotate(-0 38.39904 62.1)">How Tennessee's team defensive line is built from two parts of the same payload</text>
   </g>
   <g id="text_71">
-   <text style="font-size: 12px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #898781" x="38.39904" y="526.5" transform="rotate(-0 38.39904 526.5)">Source: espn_cfb_2026.db (ESPN site API) · 752 Final games through Week 11 (Nov 15, 2026) · generated 2026-11-23</text>
+   <text style="font-size: 12px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #898781" x="38.39904" y="526.5" transform="rotate(-0 38.39904 526.5)">Source: espn_cfb_2026.db (ESPN site API) · 822 Final games through Week 12 (Nov 21, 2026) · generated 2026-11-23</text>
   </g>
   <g id="text_72">
    <text style="font-size: 12px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #898781" x="921.57696" y="526.5" transform="rotate(-0 921.57696 526.5)">07_worked_example</text>
   </g>
  </g>
  <defs>
-  <clipPath id="p9942673f57">
+  <clipPath id="p19bab3e367">
    <rect x="38.39904" y="81" width="883.17792" height="410.4"/>
   </clipPath>
  </defs>

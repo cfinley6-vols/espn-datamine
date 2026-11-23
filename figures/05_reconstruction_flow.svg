@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-11-23T11:27:03.718224</dc:date>
+    <dc:date>2026-11-23T12:58:48.019711</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -40,7 +40,7 @@ Q 38.39904 110.376 38.39904 118.900587
 L 38.39904 165.787413 
 Q 38.39904 174.312 48.997175 174.312 
 z
-" clip-path="url(#pa8102a25c7)" style="fill: #f4f3ef"/>
+" clip-path="url(#p1dd859d0d9)" style="fill: #f4f3ef"/>
    </g>
    <g id="patch_3">
     <path d="M 419.931901 174.312 
@@ -53,7 +53,7 @@ Q 409.333766 110.376 409.333766 118.900587
 L 409.333766 165.787413 
 Q 409.333766 174.312 419.931901 174.312 
 z
-" clip-path="url(#pa8102a25c7)" style="fill: #cde2fb"/>
+" clip-path="url(#p1dd859d0d9)" style="fill: #cde2fb"/>
    </g>
    <g id="patch_4">
     <path d="M 48.997175 266.22 
@@ -66,7 +66,7 @@ Q 38.39904 202.284 38.39904 210.808587
 L 38.39904 257.695413 
 Q 38.39904 266.22 48.997175 266.22 
 z
-" clip-path="url(#pa8102a25c7)" style="fill: #f4f3ef"/>
+" clip-path="url(#p1dd859d0d9)" style="fill: #f4f3ef"/>
    </g>
    <g id="patch_5">
     <path d="M 419.931901 266.22 
@@ -79,7 +79,7 @@ Q 409.333766 202.284 409.333766 210.808587
 L 409.333766 257.695413 
 Q 409.333766 266.22 419.931901 266.22 
 z
-" clip-path="url(#pa8102a25c7)" style="fill: #cde2fb"/>
+" clip-path="url(#p1dd859d0d9)" style="fill: #cde2fb"/>
    </g>
    <g id="patch_6">
     <path d="M 48.997175 358.128 
@@ -92,7 +92,7 @@ Q 38.39904 294.192 38.39904 302.716587
 L 38.39904 349.603413 
 Q 38.39904 358.128 48.997175 358.128 
 z
-" clip-path="url(#pa8102a25c7)" style="fill: #f4f3ef"/>
+" clip-path="url(#p1dd859d0d9)" style="fill: #f4f3ef"/>
    </g>
    <g id="patch_7">
     <path d="M 419.931901 358.128 
@@ -105,7 +105,7 @@ Q 409.333766 294.192 409.333766 302.716587
 L 409.333766 349.603413 
 Q 409.333766 358.128 419.931901 358.128 
 z
-" clip-path="url(#pa8102a25c7)" style="fill: #cde2fb"/>
+" clip-path="url(#p1dd859d0d9)" style="fill: #cde2fb"/>
    </g>
    <g id="patch_8">
     <path d="M 48.997175 450.036 
@@ -118,7 +118,7 @@ Q 38.39904 386.1 38.39904 394.624587
 L 38.39904 441.511413 
 Q 38.39904 450.036 48.997175 450.036 
 z
-" clip-path="url(#pa8102a25c7)" style="fill: #f4f3ef"/>
+" clip-path="url(#p1dd859d0d9)" style="fill: #f4f3ef"/>
    </g>
    <g id="patch_9">
     <path d="M 419.931901 450.036 
@@ -131,7 +131,7 @@ Q 409.333766 386.1 409.333766 394.624587
 L 409.333766 441.511413 
 Q 409.333766 450.036 419.931901 450.036 
 z
-" clip-path="url(#pa8102a25c7)" style="fill: #cde2fb"/>
+" clip-path="url(#p1dd859d0d9)" style="fill: #cde2fb"/>
    </g>
    <g id="patch_10">
     <path d="M 737.875953 398.088 
@@ -144,7 +144,7 @@ Q 727.277818 174.312 727.277818 182.836587
 L 727.277818 389.563413 
 Q 727.277818 398.088 737.875953 398.088 
 z
-" clip-path="url(#pa8102a25c7)" style="fill: #2a78d6"/>
+" clip-path="url(#p1dd859d0d9)" style="fill: #2a78d6"/>
    </g>
    <g id="text_1">
     <text style="font-weight: 700; font-size: 16px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #0b0b0b" transform="translate(63.43039 135.3008)">Opponent's offensive</text>
@@ -234,7 +234,7 @@ z
     <text style="font-weight: 700; font-size: 17px; font-family: 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: start; fill: #1c5cab" x="426.997325" y="317.042242" transform="rotate(-0 426.997325 317.042242)">offensePointsAllowed</text>
    </g>
    <g id="text_12">
-    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #52514e" transform="translate(426.997325 334.386969)">318 pick-sixes and return</text>
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #52514e" transform="translate(426.997325 334.386969)">333 pick-sixes and return</text>
     <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #52514e" transform="translate(426.997325 354.446125)">scores removed</text>
    </g>
    <g id="patch_16">
@@ -290,7 +290,7 @@ z
     <text style="font-size: 17px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #ffffff" transform="translate(780.803795 325.889234)">team-game</text>
    </g>
    <g id="text_19">
-    <text style="font-weight: 700; font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="824.427389" y="375.801" transform="rotate(-0 824.427389 375.801)">× 1,504 team-games</text>
+    <text style="font-weight: 700; font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="824.427389" y="375.801" transform="rotate(-0 824.427389 375.801)">× 1,644 team-games</text>
    </g>
   </g>
   <g id="line2d_1">
@@ -305,14 +305,14 @@ L 921.57696 507.6
    <text style="font-size: 16px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="38.39904" y="62.1" transform="rotate(-0 38.39904 62.1)">Four parts of the payload combine into one team defensive record per team-game</text>
   </g>
   <g id="text_22">
-   <text style="font-size: 12px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #898781" x="38.39904" y="526.5" transform="rotate(-0 38.39904 526.5)">Source: espn_cfb_2026.db (ESPN site API) · 752 Final games through Week 11 (Nov 15, 2026) · generated 2026-11-23</text>
+   <text style="font-size: 12px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #898781" x="38.39904" y="526.5" transform="rotate(-0 38.39904 526.5)">Source: espn_cfb_2026.db (ESPN site API) · 822 Final games through Week 12 (Nov 21, 2026) · generated 2026-11-23</text>
   </g>
   <g id="text_23">
    <text style="font-size: 12px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #898781" x="921.57696" y="526.5" transform="rotate(-0 921.57696 526.5)">05_reconstruction_flow</text>
   </g>
  </g>
  <defs>
-  <clipPath id="pa8102a25c7">
+  <clipPath id="p1dd859d0d9">
    <rect x="38.39904" y="86.4" width="883.17792" height="399.6"/>
   </clipPath>
  </defs>

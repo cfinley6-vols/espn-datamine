@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-11-23T11:27:05.039464</dc:date>
+    <dc:date>2026-11-23T12:58:49.222845</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -43,7 +43,7 @@ L 399.99 218.851049
 L 399.99 158.809091 
 L 239.994 158.809091 
 z
-" clip-path="url(#p2aa6755f7f)" style="fill: #2a78d6"/>
+" clip-path="url(#p139a22a9b5)" style="fill: #2a78d6"/>
    </g>
    <g id="patch_4">
     <path d="M 239.994 318.920979 
@@ -51,7 +51,7 @@ L 262.850571 318.920979
 L 262.850571 258.879021 
 L 239.994 258.879021 
 z
-" clip-path="url(#p2aa6755f7f)" style="fill: #2a78d6"/>
+" clip-path="url(#p139a22a9b5)" style="fill: #2a78d6"/>
    </g>
    <g id="patch_5">
     <path d="M 239.994 418.990909 
@@ -59,7 +59,7 @@ L 262.850571 418.990909
 L 262.850571 358.948951 
 L 239.994 358.948951 
 z
-" clip-path="url(#p2aa6755f7f)" style="fill: #2a78d6"/>
+" clip-path="url(#p139a22a9b5)" style="fill: #2a78d6"/>
    </g>
    <g id="matplotlib.axis_1"/>
    <g id="matplotlib.axis_2">
@@ -152,7 +152,7 @@ z
      <g id="line2d_8">
       <path d="M 547.18632 410.4 
 L 921.57696 410.4 
-" clip-path="url(#pf48808d6e0)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.8; stroke-linecap: square"/>
+" clip-path="url(#p7f64803ead)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.8; stroke-linecap: square"/>
      </g>
      <g id="line2d_9"/>
      <g id="text_13">
@@ -163,7 +163,7 @@ L 921.57696 410.4
      <g id="line2d_10">
       <path d="M 547.18632 357.48 
 L 921.57696 357.48 
-" clip-path="url(#pf48808d6e0)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.8; stroke-linecap: square"/>
+" clip-path="url(#p7f64803ead)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.8; stroke-linecap: square"/>
      </g>
      <g id="line2d_11"/>
      <g id="text_14">
@@ -174,7 +174,7 @@ L 921.57696 357.48
      <g id="line2d_12">
       <path d="M 547.18632 304.56 
 L 921.57696 304.56 
-" clip-path="url(#pf48808d6e0)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.8; stroke-linecap: square"/>
+" clip-path="url(#p7f64803ead)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.8; stroke-linecap: square"/>
      </g>
      <g id="line2d_13"/>
      <g id="text_15">
@@ -185,7 +185,7 @@ L 921.57696 304.56
      <g id="line2d_14">
       <path d="M 547.18632 251.64 
 L 921.57696 251.64 
-" clip-path="url(#pf48808d6e0)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.8; stroke-linecap: square"/>
+" clip-path="url(#p7f64803ead)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.8; stroke-linecap: square"/>
      </g>
      <g id="line2d_15"/>
      <g id="text_16">
@@ -196,7 +196,7 @@ L 921.57696 251.64
      <g id="line2d_16">
       <path d="M 547.18632 198.72 
 L 921.57696 198.72 
-" clip-path="url(#pf48808d6e0)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.8; stroke-linecap: square"/>
+" clip-path="url(#p7f64803ead)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.8; stroke-linecap: square"/>
      </g>
      <g id="line2d_17"/>
      <g id="text_17">
@@ -207,7 +207,7 @@ L 921.57696 198.72
      <g id="line2d_18">
       <path d="M 547.18632 145.8 
 L 921.57696 145.8 
-" clip-path="url(#pf48808d6e0)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.8; stroke-linecap: square"/>
+" clip-path="url(#p7f64803ead)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.8; stroke-linecap: square"/>
      </g>
      <g id="line2d_19"/>
      <g id="text_18">
@@ -221,34 +221,34 @@ L 921.57696 145.8
    <g id="patch_8">
     <path d="M 564.204076 1204.2 
 L 622.496943 1204.2 
-L 622.496943 299.915426 
-L 564.204076 299.915426 
+L 622.496943 296.448175 
+L 564.204076 296.448175 
 z
-" clip-path="url(#pf48808d6e0)" style="fill: #c3c2b7"/>
+" clip-path="url(#p7f64803ead)" style="fill: #c3c2b7"/>
    </g>
    <g id="patch_9">
     <path d="M 658.22483 1204.2 
 L 716.517697 1204.2 
-L 716.517697 289.359574 
-L 658.22483 289.359574 
+L 716.517697 285.50365 
+L 658.22483 285.50365 
 z
-" clip-path="url(#pf48808d6e0)" style="fill: #c3c2b7"/>
+" clip-path="url(#p7f64803ead)" style="fill: #c3c2b7"/>
    </g>
    <g id="patch_10">
     <path d="M 752.245583 1204.2 
 L 810.53845 1204.2 
-L 810.53845 246.432447 
-L 752.245583 246.432447 
+L 810.53845 241.725547 
+L 752.245583 241.725547 
 z
-" clip-path="url(#pf48808d6e0)" style="fill: #c3c2b7"/>
+" clip-path="url(#p7f64803ead)" style="fill: #c3c2b7"/>
    </g>
    <g id="patch_11">
     <path d="M 846.266337 1204.2 
 L 904.559204 1204.2 
-L 904.559204 209.135106 
-L 846.266337 209.135106 
+L 904.559204 206.960584 
+L 846.266337 206.960584 
 z
-" clip-path="url(#pf48808d6e0)" style="fill: #2a78d6"/>
+" clip-path="url(#p7f64803ead)" style="fill: #2a78d6"/>
    </g>
    <g id="patch_12">
     <path d="M 547.18632 410.4 
@@ -261,19 +261,19 @@ L 921.57696 410.4
 " style="fill: none; stroke: #c3c2b7; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="text_20">
-    <text style="font-weight: 700; font-size: 18px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: middle; fill: #0b0b0b" x="593.35051" y="293.565026" transform="rotate(-0 593.35051 293.565026)">85.4%</text>
+    <text style="font-weight: 700; font-size: 18px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: middle; fill: #0b0b0b" x="593.35051" y="290.097775" transform="rotate(-0 593.35051 290.097775)">85.8%</text>
    </g>
    <g id="text_21">
-    <text style="font-weight: 700; font-size: 18px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: middle; fill: #0b0b0b" x="687.371263" y="283.009174" transform="rotate(-0 687.371263 283.009174)">86.4%</text>
+    <text style="font-weight: 700; font-size: 18px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: middle; fill: #0b0b0b" x="687.371263" y="279.15325" transform="rotate(-0 687.371263 279.15325)">86.8%</text>
    </g>
    <g id="text_22">
-    <text style="font-weight: 700; font-size: 18px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: middle; fill: #0b0b0b" x="781.392017" y="240.082047" transform="rotate(-0 781.392017 240.082047)">90.5%</text>
+    <text style="font-weight: 700; font-size: 18px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: middle; fill: #0b0b0b" x="781.392017" y="235.375147" transform="rotate(-0 781.392017 235.375147)">90.9%</text>
    </g>
    <g id="text_23">
-    <text style="font-weight: 700; font-size: 18px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: middle; fill: #0b0b0b" x="875.41277" y="202.784706" transform="rotate(-0 875.41277 202.784706)">94.0%</text>
+    <text style="font-weight: 700; font-size: 18px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: middle; fill: #0b0b0b" x="875.41277" y="200.610184" transform="rotate(-0 875.41277 200.610184)">94.2%</text>
    </g>
    <g id="text_24">
-    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="547.18632" y="136.539" transform="rotate(-0 547.18632 136.539)">1,504 team-games; y-axis starts at 75%</text>
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="547.18632" y="136.539" transform="rotate(-0 547.18632 136.539)">1,644 team-games; y-axis starts at 75%</text>
    </g>
    <g id="text_25">
     <text style="font-weight: 700; font-size: 16px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start" x="547.18632" y="115.8" transform="rotate(-0 547.18632 115.8)">Sacks: rebuilding "sacks taken" from play text</text>
@@ -291,17 +291,17 @@ L 921.57696 507.6
    <text style="font-size: 16px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="38.39904" y="62.1" transform="rotate(-0 38.39904 62.1)">Mismatches were read play by play instead of trusting ESPN's play-type labels</text>
   </g>
   <g id="text_28">
-   <text style="font-size: 12px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #898781" x="38.39904" y="526.5" transform="rotate(-0 38.39904 526.5)">Source: espn_cfb_2026.db (ESPN site API) · 752 Final games through Week 11 (Nov 15, 2026) · generated 2026-11-23</text>
+   <text style="font-size: 12px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #898781" x="38.39904" y="526.5" transform="rotate(-0 38.39904 526.5)">Source: espn_cfb_2026.db (ESPN site API) · 822 Final games through Week 12 (Nov 21, 2026) · generated 2026-11-23</text>
   </g>
   <g id="text_29">
    <text style="font-size: 12px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #898781" x="921.57696" y="526.5" transform="rotate(-0 921.57696 526.5)">10_context_recovery</text>
   </g>
  </g>
  <defs>
-  <clipPath id="p2aa6755f7f">
+  <clipPath id="p139a22a9b5">
    <rect x="239.994" y="145.8" width="191.9952" height="286.2"/>
   </clipPath>
-  <clipPath id="pf48808d6e0">
+  <clipPath id="p7f64803ead">
    <rect x="547.18632" y="145.8" width="374.39064" height="264.6"/>
   </clipPath>
  </defs>

@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-11-23T11:27:03.936019</dc:date>
+    <dc:date>2026-11-23T12:58:48.208340</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -40,7 +40,7 @@ Q 38.39904 112.32 38.39904 121.305375
 L 38.39904 186.521625 
 Q 38.39904 195.507 48.997175 195.507 
 z
-" clip-path="url(#p3aef139864)" style="fill: #f4f3ef"/>
+" clip-path="url(#p3344d47ce7)" style="fill: #f4f3ef"/>
    </g>
    <g id="patch_3">
     <path d="M 48.997175 291.33 
@@ -53,7 +53,7 @@ Q 38.39904 208.143 38.39904 217.128375
 L 38.39904 282.344625 
 Q 38.39904 291.33 48.997175 291.33 
 z
-" clip-path="url(#p3aef139864)" style="fill: #f4f3ef"/>
+" clip-path="url(#p3344d47ce7)" style="fill: #f4f3ef"/>
    </g>
    <g id="patch_4">
     <path d="M 48.997175 387.153 
@@ -66,7 +66,7 @@ Q 38.39904 303.966 38.39904 312.951375
 L 38.39904 378.167625 
 Q 38.39904 387.153 48.997175 387.153 
 z
-" clip-path="url(#p3aef139864)" style="fill: #f4f3ef"/>
+" clip-path="url(#p3344d47ce7)" style="fill: #f4f3ef"/>
    </g>
    <g id="patch_5">
     <path d="M 48.997175 482.976 
@@ -79,7 +79,7 @@ Q 38.39904 399.789 38.39904 408.774375
 L 38.39904 473.990625 
 Q 38.39904 482.976 48.997175 482.976 
 z
-" clip-path="url(#p3aef139864)" style="fill: url(#hf8eb9cb6d1); stroke: #eb6834; stroke-width: 2.5; stroke-linejoin: miter"/>
+" clip-path="url(#p3344d47ce7)" style="fill: url(#h5fd5b47d00); stroke: #eb6834; stroke-width: 2.5; stroke-linejoin: miter"/>
    </g>
    <g id="patch_6">
     <path d="M 48.997175 474.552 
@@ -87,7 +87,7 @@ L 434.062748 474.552
 L 434.062748 408.213 
 L 48.997175 408.213 
 z
-" clip-path="url(#p3aef139864)" style="fill: #ffffff"/>
+" clip-path="url(#p3344d47ce7)" style="fill: #ffffff"/>
    </g>
    <g id="patch_7">
     <path d="M 525.913252 227.448 
@@ -100,7 +100,7 @@ Q 515.315117 112.32 515.315117 121.305375
 L 515.315117 218.462625 
 Q 515.315117 227.448 525.913252 227.448 
 z
-" clip-path="url(#p3aef139864)" style="fill: #cde2fb"/>
+" clip-path="url(#p3344d47ce7)" style="fill: #cde2fb"/>
    </g>
    <g id="patch_8">
     <path d="M 525.913252 355.212 
@@ -113,7 +113,7 @@ Q 515.315117 240.084 515.315117 249.069375
 L 515.315117 346.226625 
 Q 515.315117 355.212 525.913252 355.212 
 z
-" clip-path="url(#p3aef139864)" style="fill: #cde2fb"/>
+" clip-path="url(#p3344d47ce7)" style="fill: #cde2fb"/>
    </g>
    <g id="patch_9">
     <path d="M 525.913252 482.976 
@@ -126,7 +126,7 @@ Q 515.315117 367.848 515.315117 376.833375
 L 515.315117 473.990625 
 Q 515.315117 482.976 525.913252 482.976 
 z
-" clip-path="url(#p3aef139864)" style="fill: #cde2fb"/>
+" clip-path="url(#p3344d47ce7)" style="fill: #cde2fb"/>
    </g>
    <g id="text_1">
     <text style="font-weight: 700; font-size: 20px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="38.39904" y="90.416" transform="rotate(-0 38.39904 90.416)">ESPN provides</text>
@@ -220,19 +220,19 @@ L 921.57696 507.6
    <text style="font-weight: 700; font-size: 24px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="38.39904" y="35.1" transform="rotate(-0 38.39904 35.1)">From 0 team defensive stats to 27 per game</text>
   </g>
   <g id="text_25">
-   <text style="font-size: 12px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #898781" x="38.39904" y="526.5" transform="rotate(-0 38.39904 526.5)">Source: espn_cfb_2026.db (ESPN site API) · 752 Final games through Week 11 (Nov 15, 2026) · generated 2026-11-23</text>
+   <text style="font-size: 12px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #898781" x="38.39904" y="526.5" transform="rotate(-0 38.39904 526.5)">Source: espn_cfb_2026.db (ESPN site API) · 822 Final games through Week 12 (Nov 21, 2026) · generated 2026-11-23</text>
   </g>
   <g id="text_26">
    <text style="font-size: 12px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #898781" x="921.57696" y="526.5" transform="rotate(-0 921.57696 526.5)">06_before_after</text>
   </g>
  </g>
  <defs>
-  <clipPath id="p3aef139864">
+  <clipPath id="p3344d47ce7">
    <rect x="38.39904" y="70.2" width="883.17792" height="421.2"/>
   </clipPath>
  </defs>
  <defs>
-  <pattern id="hf8eb9cb6d1" patternUnits="userSpaceOnUse" x="0" y="0" width="72" height="72">
+  <pattern id="h5fd5b47d00" patternUnits="userSpaceOnUse" x="0" y="0" width="72" height="72">
    <rect x="0" y="0" width="73" height="73" fill="#ffffff"/>
    <path d="M -36 36 
 L 36 -36 
