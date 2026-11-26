@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-11-23T12:58:49.006465</dc:date>
+    <dc:date>2026-11-24T10:49:56.396112</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -35,7 +35,7 @@ L 921.57696 156.924
 L 921.57696 109.296 
 L 38.39904 109.296 
 z
-" clip-path="url(#p27a80eb9fd)" style="fill: #f4f3ef"/>
+" clip-path="url(#pdb543834d1)" style="fill: #f4f3ef"/>
    </g>
    <g id="patch_3">
     <path d="M 38.39904 252.18 
@@ -43,7 +43,7 @@ L 921.57696 252.18
 L 921.57696 204.552 
 L 38.39904 204.552 
 z
-" clip-path="url(#p27a80eb9fd)" style="fill: #f4f3ef"/>
+" clip-path="url(#pdb543834d1)" style="fill: #f4f3ef"/>
    </g>
    <g id="patch_4">
     <path d="M 38.39904 347.436 
@@ -51,7 +51,7 @@ L 921.57696 347.436
 L 921.57696 299.808 
 L 38.39904 299.808 
 z
-" clip-path="url(#p27a80eb9fd)" style="fill: #f4f3ef"/>
+" clip-path="url(#pdb543834d1)" style="fill: #f4f3ef"/>
    </g>
    <g id="patch_5">
     <path d="M 38.39904 442.692 
@@ -59,12 +59,12 @@ L 921.57696 442.692
 L 921.57696 395.064 
 L 38.39904 395.064 
 z
-" clip-path="url(#p27a80eb9fd)" style="fill: #f4f3ef"/>
+" clip-path="url(#pdb543834d1)" style="fill: #f4f3ef"/>
    </g>
    <g id="line2d_1">
     <path d="M 38.39904 108.54 
 L 921.57696 108.54 
-" clip-path="url(#p27a80eb9fd)" style="fill: none; stroke: #0b0b0b; stroke-width: 1.2; stroke-linecap: square"/>
+" clip-path="url(#pdb543834d1)" style="fill: none; stroke: #0b0b0b; stroke-width: 1.2; stroke-linecap: square"/>
    </g>
    <g id="text_1">
     <text style="font-weight: 700; font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="47.230819" y="95.325" transform="rotate(-0 47.230819 95.325)">Check</text>
@@ -176,14 +176,14 @@ L 921.57696 507.6
    <text style="font-size: 16px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="38.39904" y="62.1" transform="rotate(-0 38.39904 62.1)">Run on all 822 completed games in section 2 of cfb2026_stats.ipynb</text>
   </g>
   <g id="text_35">
-   <text style="font-size: 12px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #898781" x="38.39904" y="526.5" transform="rotate(-0 38.39904 526.5)">Source: espn_cfb_2026.db (ESPN site API) · 822 Final games through Week 12 (Nov 21, 2026) · generated 2026-11-23</text>
+   <text style="font-size: 12px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #898781" x="38.39904" y="526.5" transform="rotate(-0 38.39904 526.5)">Source: espn_cfb_2026.db (ESPN site API) · 822 Final games through Week 12 (Nov 21, 2026) · generated 2026-11-24</text>
   </g>
   <g id="text_36">
    <text style="font-size: 12px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #898781" x="921.57696" y="526.5" transform="rotate(-0 921.57696 526.5)">09_validation_checklist</text>
   </g>
  </g>
  <defs>
-  <clipPath id="p27a80eb9fd">
+  <clipPath id="pdb543834d1">
    <rect x="38.39904" y="78.3" width="883.17792" height="378"/>
   </clipPath>
  </defs>

@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-11-23T12:58:49.458874</dc:date>
+    <dc:date>2026-11-24T10:49:56.873004</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -35,7 +35,7 @@ L 718.446038 161.623881
 L 718.446038 139.056716 
 L 462.324442 139.056716 
 z
-" clip-path="url(#pf4db971ef7)" style="fill: #f4f3ef"/>
+" clip-path="url(#pb0b756d3f2)" style="fill: #f4f3ef"/>
    </g>
    <g id="patch_3">
     <path d="M 462.324442 161.623881 
@@ -43,7 +43,7 @@ L 718.446038 161.623881
 L 718.446038 139.056716 
 L 462.324442 139.056716 
 z
-" clip-path="url(#pf4db971ef7)" style="fill: #2a78d6"/>
+" clip-path="url(#pb0b756d3f2)" style="fill: #2a78d6"/>
    </g>
    <g id="patch_4">
     <path d="M 462.324442 204.877612 
@@ -51,7 +51,7 @@ L 718.446038 204.877612
 L 718.446038 182.310448 
 L 462.324442 182.310448 
 z
-" clip-path="url(#pf4db971ef7)" style="fill: #f4f3ef"/>
+" clip-path="url(#pb0b756d3f2)" style="fill: #f4f3ef"/>
    </g>
    <g id="patch_5">
     <path d="M 462.324442 204.877612 
@@ -59,7 +59,7 @@ L 717.978663 204.877612
 L 717.978663 182.310448 
 L 462.324442 182.310448 
 z
-" clip-path="url(#pf4db971ef7)" style="fill: #2a78d6"/>
+" clip-path="url(#pb0b756d3f2)" style="fill: #2a78d6"/>
    </g>
    <g id="patch_6">
     <path d="M 462.324442 300.78806 
@@ -67,7 +67,7 @@ L 718.446038 300.78806
 L 718.446038 278.220896 
 L 462.324442 278.220896 
 z
-" clip-path="url(#pf4db971ef7)" style="fill: #f4f3ef"/>
+" clip-path="url(#pb0b756d3f2)" style="fill: #f4f3ef"/>
    </g>
    <g id="patch_7">
     <path d="M 462.324442 300.78806 
@@ -75,7 +75,7 @@ L 718.446038 300.78806
 L 718.446038 278.220896 
 L 462.324442 278.220896 
 z
-" clip-path="url(#pf4db971ef7)" style="fill: #2a78d6"/>
+" clip-path="url(#pb0b756d3f2)" style="fill: #2a78d6"/>
    </g>
    <g id="patch_8">
     <path d="M 462.324442 344.041791 
@@ -83,7 +83,7 @@ L 718.446038 344.041791
 L 718.446038 321.474627 
 L 462.324442 321.474627 
 z
-" clip-path="url(#pf4db971ef7)" style="fill: #f4f3ef"/>
+" clip-path="url(#pb0b756d3f2)" style="fill: #f4f3ef"/>
    </g>
    <g id="patch_9">
     <path d="M 462.324442 344.041791 
@@ -91,7 +91,7 @@ L 588.359948 344.041791
 L 588.359948 321.474627 
 L 462.324442 321.474627 
 z
-" clip-path="url(#pf4db971ef7)" style="fill: #2a78d6"/>
+" clip-path="url(#pb0b756d3f2)" style="fill: #2a78d6"/>
    </g>
    <g id="patch_10">
     <path d="M 462.324442 439.952239 
@@ -99,7 +99,7 @@ L 718.446038 439.952239
 L 718.446038 417.385075 
 L 462.324442 417.385075 
 z
-" clip-path="url(#pf4db971ef7)" style="fill: #f4f3ef"/>
+" clip-path="url(#pb0b756d3f2)" style="fill: #f4f3ef"/>
    </g>
    <g id="patch_11">
     <path d="M 462.324442 439.952239 
@@ -107,7 +107,7 @@ L 462.324442 439.952239
 L 462.324442 417.385075 
 L 462.324442 417.385075 
 z
-" clip-path="url(#pf4db971ef7)" style="fill: #eb6834"/>
+" clip-path="url(#pb0b756d3f2)" style="fill: #eb6834"/>
    </g>
    <g id="text_1">
     <text style="font-weight: 700; font-size: 17px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="38.39904" y="119.171358" transform="rotate(-0 38.39904 119.171358)">Opponent inversion</text>
@@ -163,14 +163,14 @@ L 921.57696 507.6
    <text style="font-size: 16px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="38.39904" y="62.1" transform="rotate(-0 38.39904 62.1)">Share of 1,644 team-games with a value; stats with the same coverage are grouped</text>
   </g>
   <g id="text_16">
-   <text style="font-size: 12px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #898781" x="38.39904" y="526.5" transform="rotate(-0 38.39904 526.5)">Source: espn_cfb_2026.db (ESPN site API) · 822 Final games through Week 12 (Nov 21, 2026) · generated 2026-11-23</text>
+   <text style="font-size: 12px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #898781" x="38.39904" y="526.5" transform="rotate(-0 38.39904 526.5)">Source: espn_cfb_2026.db (ESPN site API) · 822 Final games through Week 12 (Nov 21, 2026) · generated 2026-11-24</text>
   </g>
   <g id="text_17">
    <text style="font-size: 12px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #898781" x="921.57696" y="526.5" transform="rotate(-0 921.57696 526.5)">11_coverage</text>
   </g>
  </g>
  <defs>
-  <clipPath id="pf4db971ef7">
+  <clipPath id="pb0b756d3f2">
    <rect x="38.39904" y="86.4" width="883.17792" height="378"/>
   </clipPath>
  </defs>

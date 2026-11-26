@@ -1,6 +1,6 @@
 # Presentation figures
 
-Source: espn_cfb_2026.db (ESPN site API) · 822 Final games through Week 12 (Nov 21, 2026) · generated 2026-11-23. Regenerate by running cfb2026_stats.ipynb from the top.
+Source: espn_cfb_2026.db (ESPN site API) · 822 Final games through Week 12 (Nov 21, 2026) · generated 2026-11-24. Regenerate by running cfb2026_stats.ipynb from the top.
 
 - **01_api_gap** (`01_api_gap.png`, `01_api_gap.svg`): ESPN publishes team stats only for the offense and player stats for both sides, so team defense (yards, points and 3rd downs allowed) has to be reconstructed.
 - **02_api_payload_tree** (`02_api_payload_tree.png`, `02_api_payload_tree.svg`): Standings, scoreboard and game summary endpoints cover teams, schedule and every play; the summary's box score has team stats for the offense only.

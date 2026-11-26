@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-11-23T12:58:47.618233</dc:date>
+    <dc:date>2026-11-24T10:49:54.979231</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -40,7 +40,7 @@ Q 73.726157 124.362 73.726157 132.886587
 L 73.726157 167.785413 
 Q 73.726157 176.31 84.324292 176.31 
 z
-" clip-path="url(#p2285e27c6d)" style="fill: #cde2fb"/>
+" clip-path="url(#p6b8ef20061)" style="fill: #cde2fb"/>
    </g>
    <g id="patch_3">
     <path d="M 283.039324 176.31 
@@ -53,7 +53,7 @@ Q 272.441189 124.362 272.441189 132.886587
 L 272.441189 167.785413 
 Q 272.441189 176.31 283.039324 176.31 
 z
-" clip-path="url(#p2285e27c6d)" style="fill: #f4f3ef"/>
+" clip-path="url(#p6b8ef20061)" style="fill: #f4f3ef"/>
    </g>
    <g id="patch_4">
     <path d="M 84.324292 244.242 
@@ -66,7 +66,7 @@ Q 73.726157 192.294 73.726157 200.818587
 L 73.726157 235.717413 
 Q 73.726157 244.242 84.324292 244.242 
 z
-" clip-path="url(#p2285e27c6d)" style="fill: #cde2fb"/>
+" clip-path="url(#p6b8ef20061)" style="fill: #cde2fb"/>
    </g>
    <g id="patch_5">
     <path d="M 283.039324 244.242 
@@ -79,7 +79,7 @@ Q 272.441189 192.294 272.441189 200.818587
 L 272.441189 235.717413 
 Q 272.441189 244.242 283.039324 244.242 
 z
-" clip-path="url(#p2285e27c6d)" style="fill: #f4f3ef"/>
+" clip-path="url(#p6b8ef20061)" style="fill: #f4f3ef"/>
    </g>
    <g id="patch_6">
     <path d="M 84.324292 312.174 
@@ -92,7 +92,7 @@ Q 73.726157 260.226 73.726157 268.750587
 L 73.726157 303.649413 
 Q 73.726157 312.174 84.324292 312.174 
 z
-" clip-path="url(#p2285e27c6d)" style="fill: #cde2fb"/>
+" clip-path="url(#p6b8ef20061)" style="fill: #cde2fb"/>
    </g>
    <g id="patch_7">
     <path d="M 283.039324 312.174 
@@ -105,7 +105,7 @@ Q 272.441189 260.226 272.441189 268.750587
 L 272.441189 303.649413 
 Q 272.441189 312.174 283.039324 312.174 
 z
-" clip-path="url(#p2285e27c6d)" style="fill: #f4f3ef"/>
+" clip-path="url(#p6b8ef20061)" style="fill: #f4f3ef"/>
    </g>
    <g id="patch_8">
     <path d="M 84.324292 380.106 
@@ -118,7 +118,7 @@ Q 73.726157 328.158 73.726157 336.682587
 L 73.726157 371.581413 
 Q 73.726157 380.106 84.324292 380.106 
 z
-" clip-path="url(#p2285e27c6d)" style="fill: #f4f3ef"/>
+" clip-path="url(#p6b8ef20061)" style="fill: #f4f3ef"/>
    </g>
    <g id="patch_9">
     <path d="M 283.039324 380.106 
@@ -131,7 +131,7 @@ Q 272.441189 328.158 272.441189 336.682587
 L 272.441189 371.581413 
 Q 272.441189 380.106 283.039324 380.106 
 z
-" clip-path="url(#p2285e27c6d)" style="fill: #f4f3ef"/>
+" clip-path="url(#p6b8ef20061)" style="fill: #f4f3ef"/>
    </g>
    <g id="patch_10">
     <path d="M 84.324292 448.038 
@@ -144,7 +144,7 @@ Q 73.726157 396.09 73.726157 404.614587
 L 73.726157 439.513413 
 Q 73.726157 448.038 84.324292 448.038 
 z
-" clip-path="url(#p2285e27c6d)" style="fill: #f4f3ef"/>
+" clip-path="url(#p6b8ef20061)" style="fill: #f4f3ef"/>
    </g>
    <g id="patch_11">
     <path d="M 283.039324 448.038 
@@ -157,12 +157,12 @@ Q 272.441189 396.09 272.441189 404.614587
 L 272.441189 439.513413 
 Q 272.441189 448.038 283.039324 448.038 
 z
-" clip-path="url(#p2285e27c6d)" style="fill: #f4f3ef"/>
+" clip-path="url(#p6b8ef20061)" style="fill: #f4f3ef"/>
    </g>
    <g id="line2d_1">
     <path d="M 797.932051 464.022 
 L 921.57696 464.022 
-" clip-path="url(#p2285e27c6d)" style="fill: none; stroke: #c3c2b7; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#p6b8ef20061)" style="fill: none; stroke: #c3c2b7; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="text_1">
     <text style="font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="859.754506" y="98.388" transform="rotate(-0 859.754506 98.388)">requests</text>
@@ -317,14 +317,14 @@ L 921.57696 507.6
    <text style="font-size: 16px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="38.39904" y="62.1" transform="rotate(-0 38.39904 62.1)">Raw JSON is stored first, so parsing and deriving never touch the API</text>
   </g>
   <g id="text_32">
-   <text style="font-size: 12px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #898781" x="38.39904" y="526.5" transform="rotate(-0 38.39904 526.5)">Source: espn_cfb_2026.db (ESPN site API) · 822 Final games through Week 12 (Nov 21, 2026) · generated 2026-11-23</text>
+   <text style="font-size: 12px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #898781" x="38.39904" y="526.5" transform="rotate(-0 38.39904 526.5)">Source: espn_cfb_2026.db (ESPN site API) · 822 Final games through Week 12 (Nov 21, 2026) · generated 2026-11-24</text>
   </g>
   <g id="text_33">
    <text style="font-size: 12px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #898781" x="921.57696" y="526.5" transform="rotate(-0 921.57696 526.5)">03_collection_pipeline</text>
   </g>
  </g>
  <defs>
-  <clipPath id="p2285e27c6d">
+  <clipPath id="p6b8ef20061">
    <rect x="38.39904" y="86.4" width="883.17792" height="399.6"/>
   </clipPath>
  </defs>
