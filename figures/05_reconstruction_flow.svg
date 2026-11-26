@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="959.976pt" height="540pt" viewBox="0 0 959.976 540" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-24T10:49:55.424248</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 540 
+L 959.976 540 
+L 959.976 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 48.997175 174.312 
+L 239.763606 174.312 
+Q 250.361741 174.312 250.361741 165.787413 
+L 250.361741 118.900587 
+Q 250.361741 110.376 239.763606 110.376 
+L 48.997175 110.376 
+Q 38.39904 110.376 38.39904 118.900587 
+L 38.39904 165.787413 
+Q 38.39904 174.312 48.997175 174.312 
+z
+" clip-path="url(#pfdcea52c96)" style="fill: #f4f3ef"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 419.931901 174.312 
+L 663.689007 174.312 
+Q 674.287142 174.312 674.287142 165.787413 
+L 674.287142 118.900587 
+Q 674.287142 110.376 663.689007 110.376 
+L 419.931901 110.376 
+Q 409.333766 110.376 409.333766 118.900587 
+L 409.333766 165.787413 
+Q 409.333766 174.312 419.931901 174.312 
+z
+" clip-path="url(#pfdcea52c96)" style="fill: #cde2fb"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 48.997175 266.22 
+L 239.763606 266.22 
+Q 250.361741 266.22 250.361741 257.695413 
+L 250.361741 210.808587 
+Q 250.361741 202.284 239.763606 202.284 
+L 48.997175 202.284 
+Q 38.39904 202.284 38.39904 210.808587 
+L 38.39904 257.695413 
+Q 38.39904 266.22 48.997175 266.22 
+z
+" clip-path="url(#pfdcea52c96)" style="fill: #f4f3ef"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 419.931901 266.22 
+L 663.689007 266.22 
+Q 674.287142 266.22 674.287142 257.695413 
+L 674.287142 210.808587 
+Q 674.287142 202.284 663.689007 202.284 
+L 419.931901 202.284 
+Q 409.333766 202.284 409.333766 210.808587 
+L 409.333766 257.695413 
+Q 409.333766 266.22 419.931901 266.22 
+z
+" clip-path="url(#pfdcea52c96)" style="fill: #cde2fb"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 48.997175 358.128 
+L 239.763606 358.128 
+Q 250.361741 358.128 250.361741 349.603413 
+L 250.361741 302.716587 
+Q 250.361741 294.192 239.763606 294.192 
+L 48.997175 294.192 
+Q 38.39904 294.192 38.39904 302.716587 
+L 38.39904 349.603413 
+Q 38.39904 358.128 48.997175 358.128 
+z
+" clip-path="url(#pfdcea52c96)" style="fill: #f4f3ef"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 419.931901 358.128 
+L 663.689007 358.128 
+Q 674.287142 358.128 674.287142 349.603413 
+L 674.287142 302.716587 
+Q 674.287142 294.192 663.689007 294.192 
+L 419.931901 294.192 
+Q 409.333766 294.192 409.333766 302.716587 
+L 409.333766 349.603413 
+Q 409.333766 358.128 419.931901 358.128 
+z
+" clip-path="url(#pfdcea52c96)" style="fill: #cde2fb"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 48.997175 450.036 
+L 239.763606 450.036 
+Q 250.361741 450.036 250.361741 441.511413 
+L 250.361741 394.624587 
+Q 250.361741 386.1 239.763606 386.1 
+L 48.997175 386.1 
+Q 38.39904 386.1 38.39904 394.624587 
+L 38.39904 441.511413 
+Q 38.39904 450.036 48.997175 450.036 
+z
+" clip-path="url(#pfdcea52c96)" style="fill: #f4f3ef"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 419.931901 450.036 
+L 663.689007 450.036 
+Q 674.287142 450.036 674.287142 441.511413 
+L 674.287142 394.624587 
+Q 674.287142 386.1 663.689007 386.1 
+L 419.931901 386.1 
+Q 409.333766 386.1 409.333766 394.624587 
+L 409.333766 441.511413 
+Q 409.333766 450.036 419.931901 450.036 
+z
+" clip-path="url(#pfdcea52c96)" style="fill: #cde2fb"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 737.875953 398.088 
+L 910.978825 398.088 
+Q 921.57696 398.088 921.57696 389.563413 
+L 921.57696 182.836587 
+Q 921.57696 174.312 910.978825 174.312 
+L 737.875953 174.312 
+Q 727.277818 174.312 727.277818 182.836587 
+L 727.277818 389.563413 
+Q 727.277818 398.088 737.875953 398.088 
+z
+" clip-path="url(#pfdcea52c96)" style="fill: #2a78d6"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #0b0b0b" transform="translate(63.43039 135.3008)">Opponent's offensive</text>
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #0b0b0b" transform="translate(106.74789 159.39595)">box score</text>
+   </g>
+   <g id="patch_11">
+    <path d="M 259.19352 142.344 
+Q 329.847754 142.344 398.265919 142.344 
+" style="fill: none; stroke: #52514e; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 389.465919 137.944 
+L 398.265919 142.344 
+L 389.465919 146.744 
+z
+" style="fill: #52514e; stroke: #52514e; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="329.847754" y="130.356" transform="rotate(-0 329.847754 130.356)">flip perspective</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 17px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #1c5cab" x="426.997325" y="134.801" transform="rotate(-0 426.997325 134.801)">15 team stats allowed</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #52514e" transform="translate(426.997325 150.619094)">yards, 1st downs, 3rd/4th down,</text>
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #52514e" transform="translate(426.997325 169.257469)">yards per play, takeaways</text>
+   </g>
+   <g id="patch_12">
+    <path d="M 683.118922 142.344 
+Q 700.78248 189.7965 717.665982 235.153407 
+" style="fill: none; stroke: #c3c2b7; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 718.719667 225.371293 
+L 717.665982 235.153407 
+L 710.472502 228.44119 
+z
+" style="fill: #c3c2b7; stroke: #c3c2b7; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: middle; fill: #0b0b0b" x="144.38039" y="239.972" transform="rotate(-0 144.38039 239.972)">Scoreboard</text>
+   </g>
+   <g id="patch_13">
+    <path d="M 259.19352 234.252 
+Q 329.847754 234.252 398.265919 234.252 
+" style="fill: none; stroke: #52514e; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 389.465919 229.852 
+L 398.265919 234.252 
+L 389.465919 238.652 
+z
+" style="fill: #52514e; stroke: #52514e; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="329.847754" y="222.264" transform="rotate(-0 329.847754 222.264)">opponent's score</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 17px; font-family: 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: start; fill: #1c5cab" x="426.997325" y="225.134242" transform="rotate(-0 426.997325 225.134242)">pointsAllowed</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #52514e" transform="translate(426.997325 242.450531)">every point, including defensive</text>
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #52514e" transform="translate(426.997325 261.235469)">and special-teams scores</text>
+   </g>
+   <g id="patch_14">
+    <path d="M 683.118922 234.252 
+Q 700.78248 251.8344 716.861263 267.839306 
+" style="fill: none; stroke: #c3c2b7; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 713.728509 258.512685 
+L 716.861263 267.839306 
+L 707.520314 264.749537 
+z
+" style="fill: #c3c2b7; stroke: #c3c2b7; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #0b0b0b" transform="translate(96.98664 318.9818)">Play-by-play</text>
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #0b0b0b" transform="translate(93.58039 341.7557)">scoring plays</text>
+   </g>
+   <g id="patch_15">
+    <path d="M 259.19352 326.16 
+Q 329.847754 326.16 398.265919 326.16 
+" style="fill: none; stroke: #52514e; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 389.465919 321.76 
+L 398.265919 326.16 
+L 389.465919 330.56 
+z
+" style="fill: #52514e; stroke: #52514e; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="329.847754" y="314.172" transform="rotate(-0 329.847754 314.172)">drop non-offense</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 17px; font-family: 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: start; fill: #1c5cab" x="426.997325" y="317.042242" transform="rotate(-0 426.997325 317.042242)">offensePointsAllowed</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #52514e" transform="translate(426.997325 334.386969)">333 pick-sixes and return</text>
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #52514e" transform="translate(426.997325 354.446125)">scores removed</text>
+   </g>
+   <g id="patch_16">
+    <path d="M 683.118922 326.16 
+Q 700.78248 313.8723 716.610439 302.86154 
+" style="fill: none; stroke: #c3c2b7; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 706.87379 304.274927 
+L 716.610439 302.86154 
+L 711.899159 311.498891 
+z
+" style="fill: #c3c2b7; stroke: #c3c2b7; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #0b0b0b" transform="translate(75.19414 410.8898)">Players' defensive</text>
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #0b0b0b" transform="translate(102.45164 435.11995)">box scores</text>
+   </g>
+   <g id="patch_17">
+    <path d="M 259.19352 418.068 
+Q 329.847754 418.068 398.265919 418.068 
+" style="fill: none; stroke: #52514e; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 389.465919 413.668 
+L 398.265919 418.068 
+L 389.465919 422.468 
+z
+" style="fill: #52514e; stroke: #52514e; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="329.847754" y="406.08" transform="rotate(-0 329.847754 406.08)">sum to team</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 17px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #1c5cab" x="426.997325" y="410.525" transform="rotate(-0 426.997325 410.525)">10 team totals</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #52514e" transform="translate(426.997325 426.294969)">sacks, TFL, hurries, passes</text>
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #52514e" transform="translate(426.997325 445.03725)">defended, tackles, INT yards</text>
+   </g>
+   <g id="patch_18">
+    <path d="M 683.118922 418.068 
+Q 700.78248 375.9102 717.581937 335.81476 
+" style="fill: none; stroke: #c3c2b7; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 710.123095 342.230809 
+L 717.581937 335.81476 
+L 718.239471 345.631463 
+z
+" style="fill: #c3c2b7; stroke: #c3c2b7; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 54px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="824.427389" y="250.722" transform="rotate(-0 824.427389 250.722)">27</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 17px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #ffffff" transform="translate(766.644654 280.466297)">team defensive</text>
+    <text style="font-size: 17px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #ffffff" transform="translate(791.209654 302.2255)">stats per</text>
+    <text style="font-size: 17px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #ffffff" transform="translate(780.803795 325.889234)">team-game</text>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="824.427389" y="375.801" transform="rotate(-0 824.427389 375.801)">× 1,644 team-games</text>
+   </g>
+  </g>
+  <g id="line2d_1">
+   <path d="M 38.39904 507.6 
+L 921.57696 507.6 
+" style="fill: none; stroke: #e1e0d9; stroke-linecap: square"/>
+  </g>
+  <g id="text_20">
+   <text style="font-weight: 700; font-size: 24px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="38.39904" y="35.1" transform="rotate(-0 38.39904 35.1)">Flip the perspective: the opponent's offense is your defense</text>
+  </g>
+  <g id="text_21">
+   <text style="font-size: 16px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="38.39904" y="62.1" transform="rotate(-0 38.39904 62.1)">Four parts of the payload combine into one team defensive record per team-game</text>
+  </g>
+  <g id="text_22">
+   <text style="font-size: 12px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #898781" x="38.39904" y="526.5" transform="rotate(-0 38.39904 526.5)">Source: espn_cfb_2026.db (ESPN site API) · 822 Final games through Week 12 (Nov 21, 2026) · generated 2026-11-24</text>
+  </g>
+  <g id="text_23">
+   <text style="font-size: 12px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #898781" x="921.57696" y="526.5" transform="rotate(-0 921.57696 526.5)">05_reconstruction_flow</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pfdcea52c96">
+   <rect x="38.39904" y="86.4" width="883.17792" height="399.6"/>
+  </clipPath>
+ </defs>
+</svg>

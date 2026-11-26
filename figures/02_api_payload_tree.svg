@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="959.976pt" height="540pt" viewBox="0 0 959.976 540" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-24T10:49:54.775686</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 540 
+L 959.976 540 
+L 959.976 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 48.997175 160.326 
+L 381.072073 160.326 
+Q 391.670208 160.326 391.670208 151.801413 
+L 391.670208 116.902587 
+Q 391.670208 108.378 381.072073 108.378 
+L 48.997175 108.378 
+Q 38.39904 108.378 38.39904 116.902587 
+L 38.39904 151.801413 
+Q 38.39904 160.326 48.997175 160.326 
+z
+" clip-path="url(#p9c4b4f2033)" style="fill: #cde2fb"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 48.997175 248.238 
+L 381.072073 248.238 
+Q 391.670208 248.238 391.670208 239.713413 
+L 391.670208 204.814587 
+Q 391.670208 196.29 381.072073 196.29 
+L 48.997175 196.29 
+Q 38.39904 196.29 38.39904 204.814587 
+L 38.39904 239.713413 
+Q 38.39904 248.238 48.997175 248.238 
+z
+" clip-path="url(#p9c4b4f2033)" style="fill: #cde2fb"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 48.997175 376.11 
+L 381.072073 376.11 
+Q 391.670208 376.11 391.670208 367.585413 
+L 391.670208 332.686587 
+Q 391.670208 324.162 381.072073 324.162 
+L 48.997175 324.162 
+Q 38.39904 324.162 38.39904 332.686587 
+L 38.39904 367.585413 
+Q 38.39904 376.11 48.997175 376.11 
+z
+" clip-path="url(#p9c4b4f2033)" style="fill: #cde2fb"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 468.506687 288.198 
+L 910.978825 288.198 
+Q 921.57696 288.198 921.57696 279.673413 
+L 921.57696 252.766587 
+Q 921.57696 244.242 910.978825 244.242 
+L 468.506687 244.242 
+Q 457.908552 244.242 457.908552 252.766587 
+L 457.908552 279.673413 
+Q 457.908552 288.198 468.506687 288.198 
+z
+" clip-path="url(#p9c4b4f2033)" style="fill: #f4f3ef"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 468.506687 352.134 
+L 910.978825 352.134 
+Q 921.57696 352.134 921.57696 343.609413 
+L 921.57696 316.702587 
+Q 921.57696 308.178 910.978825 308.178 
+L 468.506687 308.178 
+Q 457.908552 308.178 457.908552 316.702587 
+L 457.908552 343.609413 
+Q 457.908552 352.134 468.506687 352.134 
+z
+" clip-path="url(#p9c4b4f2033)" style="fill: #f4f3ef"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 468.506687 416.07 
+L 910.978825 416.07 
+Q 921.57696 416.07 921.57696 407.545413 
+L 921.57696 380.638587 
+Q 921.57696 372.114 910.978825 372.114 
+L 468.506687 372.114 
+Q 457.908552 372.114 457.908552 380.638587 
+L 457.908552 407.545413 
+Q 457.908552 416.07 468.506687 416.07 
+z
+" clip-path="url(#p9c4b4f2033)" style="fill: #f4f3ef"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 468.506687 480.006 
+L 910.978825 480.006 
+Q 921.57696 480.006 921.57696 471.481413 
+L 921.57696 444.574587 
+Q 921.57696 436.05 910.978825 436.05 
+L 468.506687 436.05 
+Q 457.908552 436.05 457.908552 444.574587 
+L 457.908552 471.481413 
+Q 457.908552 480.006 468.506687 480.006 
+z
+" clip-path="url(#p9c4b4f2033)" style="fill: #f4f3ef"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 409.333766 458.028 
+L 409.333766 266.22 
+" clip-path="url(#p9c4b4f2033)" style="fill: none; stroke: #c3c2b7; stroke-width: 2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 391.670208 350.136 
+L 409.333766 350.136 
+" clip-path="url(#p9c4b4f2033)" style="fill: none; stroke: #c3c2b7; stroke-width: 2; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: start; fill: #0b0b0b" x="56.062598" y="130.655508" transform="rotate(-0 56.062598 130.655508)">standings?season=2026</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="56.062598" y="151.513" transform="rotate(-0 56.062598 151.513)">138 FBS teams + conferences</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: start; fill: #0b0b0b" x="56.062598" y="218.16907" transform="rotate(-0 56.062598 218.16907)">scoreboard?dates=YYYYMMDD</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="56.062598" y="239.425" transform="rotate(-0 56.062598 239.425)">daily schedule, scores, status · 909 games</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: start; fill: #0b0b0b" x="56.062598" y="346.439508" transform="rotate(-0 56.062598 346.439508)">summary?event={id}</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="56.062598" y="367.297" transform="rotate(-0 56.062598 367.297)">one completed game · 822 games</text>
+   </g>
+   <g id="patch_9">
+    <path d="M 409.333766 266.22 
+Q 431.413214 266.22 451.256594 266.22 
+" style="fill: none; stroke: #c3c2b7; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 442.456594 261.82 
+L 451.256594 266.22 
+L 442.456594 270.62 
+z
+" style="fill: #c3c2b7; stroke: #c3c2b7; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: start; fill: #0b0b0b" x="475.57211" y="270.11707" transform="rotate(-0 475.57211 270.11707)">boxscore.teams[]</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="908.329291" y="271.7625" transform="rotate(-0 908.329291 271.7625)">15 team stats (offense only)</text>
+   </g>
+   <g id="patch_10">
+    <path d="M 409.333766 330.156 
+Q 431.413214 330.156 451.256594 330.156 
+" style="fill: none; stroke: #c3c2b7; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 442.456594 325.756 
+L 451.256594 330.156 
+L 442.456594 334.556 
+z
+" style="fill: #c3c2b7; stroke: #c3c2b7; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: start; fill: #0b0b0b" x="475.57211" y="334.05307" transform="rotate(-0 475.57211 334.05307)">boxscore.players[]</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="908.329291" y="335.6985" transform="rotate(-0 908.329291 335.6985)">10 categories, 50 fields</text>
+   </g>
+   <g id="patch_11">
+    <path d="M 409.333766 394.092 
+Q 431.413214 394.092 451.256594 394.092 
+" style="fill: none; stroke: #c3c2b7; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 442.456594 389.692 
+L 451.256594 394.092 
+L 442.456594 398.492 
+z
+" style="fill: #c3c2b7; stroke: #c3c2b7; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: start; fill: #0b0b0b" x="475.57211" y="398.387508" transform="rotate(-0 475.57211 398.387508)">drives.previous[].plays[]</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="908.329291" y="399.6345" transform="rotate(-0 908.329291 399.6345)">every play, 34 fields</text>
+   </g>
+   <g id="patch_12">
+    <path d="M 409.333766 458.028 
+Q 431.413214 458.028 451.256594 458.028 
+" style="fill: none; stroke: #c3c2b7; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 442.456594 453.628 
+L 451.256594 458.028 
+L 442.456594 462.428 
+z
+" style="fill: #c3c2b7; stroke: #c3c2b7; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: start; fill: #0b0b0b" x="475.57211" y="462.323508" transform="rotate(-0 475.57211 462.323508)">scoringPlays[]</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="908.329291" y="463.5705" transform="rotate(-0 908.329291 463.5705)">every score, with team and type</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #52514e" transform="translate(457.908552 125.982)">map_schema.py flattens the nested payload into tables;</text>
+    <text style="font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #52514e" transform="translate(457.908552 150.372)">logged_statistics.txt is the resulting data dictionary</text>
+   </g>
+  </g>
+  <g id="line2d_3">
+   <path d="M 38.39904 507.6 
+L 921.57696 507.6 
+" style="fill: none; stroke: #e1e0d9; stroke-linecap: square"/>
+  </g>
+  <g id="text_16">
+   <text style="font-weight: 700; font-size: 24px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="38.39904" y="35.1" transform="rotate(-0 38.39904 35.1)">Three undocumented endpoints hold everything we need</text>
+  </g>
+  <g id="text_17">
+   <text style="font-size: 16px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="38.39904" y="62.1" transform="rotate(-0 38.39904 62.1)">No docs, no API key, no schema: mapped by walking the JSON (65 stat fields per game)</text>
+  </g>
+  <g id="text_18">
+   <text style="font-size: 12px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #898781" x="38.39904" y="526.5" transform="rotate(-0 38.39904 526.5)">Source: espn_cfb_2026.db (ESPN site API) · 822 Final games through Week 12 (Nov 21, 2026) · generated 2026-11-24</text>
+  </g>
+  <g id="text_19">
+   <text style="font-size: 12px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #898781" x="921.57696" y="526.5" transform="rotate(-0 921.57696 526.5)">02_api_payload_tree</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p9c4b4f2033">
+   <rect x="38.39904" y="86.4" width="883.17792" height="399.6"/>
+  </clipPath>
+ </defs>
+</svg>

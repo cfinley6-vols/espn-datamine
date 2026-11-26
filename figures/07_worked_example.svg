@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="959.976pt" height="540pt" viewBox="0 0 959.976 540" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-24T10:49:55.848271</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 540 
+L 959.976 540 
+L 959.976 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 33.98315 185.2416 
+L 479.988 185.2416 
+L 479.988 149.1264 
+L 33.98315 149.1264 
+z
+" clip-path="url(#p3460794ddd)" style="fill: #f4f3ef"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 33.98315 269.784 
+L 479.988 269.784 
+L 479.988 233.6688 
+L 33.98315 233.6688 
+z
+" clip-path="url(#p3460794ddd)" style="fill: #f4f3ef"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 33.98315 354.3264 
+L 479.988 354.3264 
+L 479.988 318.2112 
+L 33.98315 318.2112 
+z
+" clip-path="url(#p3460794ddd)" style="fill: #f4f3ef"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 33.98315 438.8688 
+L 479.988 438.8688 
+L 479.988 402.7536 
+L 33.98315 402.7536 
+z
+" clip-path="url(#p3460794ddd)" style="fill: #f4f3ef"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 528.562786 182.7792 
+L 921.57696 182.7792 
+L 921.57696 151.5888 
+L 528.562786 151.5888 
+z
+" clip-path="url(#p3460794ddd)" style="fill: #f4f3ef"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 528.562786 253.368 
+L 921.57696 253.368 
+L 921.57696 222.1776 
+L 528.562786 222.1776 
+z
+" clip-path="url(#p3460794ddd)" style="fill: #f4f3ef"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 528.562786 323.9568 
+L 921.57696 323.9568 
+L 921.57696 292.7664 
+L 528.562786 292.7664 
+z
+" clip-path="url(#p3460794ddd)" style="fill: #f4f3ef"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 528.562786 394.5456 
+L 921.57696 394.5456 
+L 921.57696 363.3552 
+L 528.562786 363.3552 
+z
+" clip-path="url(#p3460794ddd)" style="fill: #f4f3ef"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 532.978675 399.8808 
+L 921.57696 399.8808 
+" clip-path="url(#p3460794ddd)" style="fill: none; stroke: #0b0b0b; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 19px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="38.39904" y="100.513" transform="rotate(-0 38.39904 100.513)">1. Opponent inversion</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="38.39904" y="130.248" transform="rotate(-0 38.39904 130.248)">Alabama offense (ESPN)</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #1c5cab" x="276.857078" y="130.248" transform="rotate(-0 276.857078 130.248)">Tennessee defense (derived)</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 14px; font-family: 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: start; fill: #0b0b0b" x="42.81493" y="170.858453" transform="rotate(-0 42.81493 170.858453)">totalYards</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #0b0b0b" x="228.282293" y="173.248" transform="rotate(-0 228.282293 173.248)">201</text>
+   </g>
+   <g id="patch_10">
+    <path d="M 237.114072 167.184 
+Q 252.569686 167.184 266.348248 167.184 
+" style="fill: none; stroke: #c3c2b7; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 257.548248 162.784 
+L 266.348248 167.184 
+L 257.548248 171.584 
+z
+" style="fill: #c3c2b7; stroke: #c3c2b7; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 14px; font-family: 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: start; fill: #1c5cab" x="276.857078" y="170.858453" transform="rotate(-0 276.857078 170.858453)">totalYardsAllowed</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #1c5cab" x="475.57211" y="173.248" transform="rotate(-0 475.57211 173.248)">201</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 14px; font-family: 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: start; fill: #0b0b0b" x="42.81493" y="213.092466" transform="rotate(-0 42.81493 213.092466)">netPassingYards</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #0b0b0b" x="228.282293" y="215.5192" transform="rotate(-0 228.282293 215.5192)">147</text>
+   </g>
+   <g id="patch_11">
+    <path d="M 237.114072 209.4552 
+Q 252.569686 209.4552 266.348248 209.4552 
+" style="fill: none; stroke: #c3c2b7; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 257.548248 205.0552 
+L 266.348248 209.4552 
+L 257.548248 213.8552 
+z
+" style="fill: #c3c2b7; stroke: #c3c2b7; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 14px; font-family: 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: start; fill: #1c5cab" x="276.857078" y="213.129653" transform="rotate(-0 276.857078 213.129653)">passingYardsAllowed</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #1c5cab" x="475.57211" y="215.5192" transform="rotate(-0 475.57211 215.5192)">147</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 14px; font-family: 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: start; fill: #0b0b0b" x="42.81493" y="255.363666" transform="rotate(-0 42.81493 255.363666)">rushingYards</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #0b0b0b" x="228.282293" y="257.7904" transform="rotate(-0 228.282293 257.7904)">54</text>
+   </g>
+   <g id="patch_12">
+    <path d="M 237.114072 251.7264 
+Q 252.569686 251.7264 266.348248 251.7264 
+" style="fill: none; stroke: #c3c2b7; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 257.548248 247.3264 
+L 266.348248 251.7264 
+L 257.548248 256.1264 
+z
+" style="fill: #c3c2b7; stroke: #c3c2b7; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 14px; font-family: 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: start; fill: #1c5cab" x="276.857078" y="255.400853" transform="rotate(-0 276.857078 255.400853)">rushingYardsAllowed</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #1c5cab" x="475.57211" y="257.7904" transform="rotate(-0 475.57211 257.7904)">54</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 14px; font-family: 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: start; fill: #0b0b0b" x="42.81493" y="297.634866" transform="rotate(-0 42.81493 297.634866)">firstDowns</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #0b0b0b" x="228.282293" y="300.0616" transform="rotate(-0 228.282293 300.0616)">12</text>
+   </g>
+   <g id="patch_13">
+    <path d="M 237.114072 293.9976 
+Q 252.569686 293.9976 266.348248 293.9976 
+" style="fill: none; stroke: #c3c2b7; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 257.548248 289.5976 
+L 266.348248 293.9976 
+L 257.548248 298.3976 
+z
+" style="fill: #c3c2b7; stroke: #c3c2b7; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 14px; font-family: 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: start; fill: #1c5cab" x="276.857078" y="297.672053" transform="rotate(-0 276.857078 297.672053)">firstDownsAllowed</text>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #1c5cab" x="475.57211" y="300.0616" transform="rotate(-0 475.57211 300.0616)">12</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 14px; font-family: 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: start; fill: #0b0b0b" x="42.81493" y="339.906066" transform="rotate(-0 42.81493 339.906066)">thirdDownEff</text>
+   </g>
+   <g id="text_21">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #0b0b0b" x="228.282293" y="342.3328" transform="rotate(-0 228.282293 342.3328)">2-13</text>
+   </g>
+   <g id="patch_14">
+    <path d="M 237.114072 336.2688 
+Q 252.569686 336.2688 266.348248 336.2688 
+" style="fill: none; stroke: #c3c2b7; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 257.548248 331.8688 
+L 266.348248 336.2688 
+L 257.548248 340.6688 
+z
+" style="fill: #c3c2b7; stroke: #c3c2b7; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 14px; font-family: 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: start; fill: #1c5cab" x="276.857078" y="339.943253" transform="rotate(-0 276.857078 339.943253)">thirdDownEffAllowed</text>
+   </g>
+   <g id="text_23">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #1c5cab" x="475.57211" y="342.3328" transform="rotate(-0 475.57211 342.3328)">2-13</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 14px; font-family: 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: start; fill: #0b0b0b" x="42.81493" y="382.176719" transform="rotate(-0 42.81493 382.176719)">turnovers</text>
+   </g>
+   <g id="text_25">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #0b0b0b" x="228.282293" y="384.604" transform="rotate(-0 228.282293 384.604)">4</text>
+   </g>
+   <g id="patch_15">
+    <path d="M 237.114072 378.54 
+Q 252.569686 378.54 266.348248 378.54 
+" style="fill: none; stroke: #c3c2b7; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 257.548248 374.14 
+L 266.348248 378.54 
+L 257.548248 382.94 
+z
+" style="fill: #c3c2b7; stroke: #c3c2b7; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 14px; font-family: 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: start; fill: #1c5cab" x="276.857078" y="382.177266" transform="rotate(-0 276.857078 382.177266)">takeaways</text>
+   </g>
+   <g id="text_27">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #1c5cab" x="475.57211" y="384.604" transform="rotate(-0 475.57211 384.604)">4</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="42.81493" y="425.9842" transform="rotate(-0 42.81493 425.9842)">score (scoreboard)</text>
+   </g>
+   <g id="text_29">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #0b0b0b" x="228.282293" y="426.8752" transform="rotate(-0 228.282293 426.8752)">10</text>
+   </g>
+   <g id="patch_16">
+    <path d="M 237.114072 420.8112 
+Q 252.569686 420.8112 266.348248 420.8112 
+" style="fill: none; stroke: #c3c2b7; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 257.548248 416.4112 
+L 266.348248 420.8112 
+L 257.548248 425.2112 
+z
+" style="fill: #c3c2b7; stroke: #c3c2b7; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 14px; font-family: 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: start; fill: #1c5cab" x="276.857078" y="424.485653" transform="rotate(-0 276.857078 424.485653)">pointsAllowed</text>
+   </g>
+   <g id="text_31">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #1c5cab" x="475.57211" y="426.8752" transform="rotate(-0 475.57211 426.8752)">10</text>
+   </g>
+   <g id="text_32">
+    <text style="font-weight: 700; font-size: 19px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="532.978675" y="100.513" transform="rotate(-0 532.978675 100.513)">2. Player aggregation</text>
+   </g>
+   <g id="text_33">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="532.978675" y="130.248" transform="rotate(-0 532.978675 130.248)">Tennessee defenders</text>
+   </g>
+   <g id="text_34">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="771.436714" y="130.248" transform="rotate(-0 771.436714 130.248)">Sacks</text>
+   </g>
+   <g id="text_35">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="842.090947" y="130.248" transform="rotate(-0 842.090947 130.248)">TFL</text>
+   </g>
+   <g id="text_36">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="912.745181" y="130.248" transform="rotate(-0 912.745181 130.248)">PD</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="537.394565" y="172.357" transform="rotate(-0 537.394565 172.357)">Tyree Weathersby</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #0b0b0b" x="771.436714" y="172.7265" transform="rotate(-0 771.436714 172.7265)">2</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #0b0b0b" x="842.090947" y="172.7265" transform="rotate(-0 842.090947 172.7265)">2.5</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #898781" x="912.745181" y="172.7265" transform="rotate(-0 912.745181 172.7265)">–</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="537.394565" y="207.6514" transform="rotate(-0 537.394565 207.6514)">Jeremiah Telander</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #0b0b0b" x="771.436714" y="208.0209" transform="rotate(-0 771.436714 208.0209)">2</text>
+   </g>
+   <g id="text_43">
+    <text style="font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #0b0b0b" x="842.090947" y="208.0209" transform="rotate(-0 842.090947 208.0209)">2</text>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #898781" x="912.745181" y="208.0209" transform="rotate(-0 912.745181 208.0209)">–</text>
+   </g>
+   <g id="text_45">
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="537.394565" y="242.9458" transform="rotate(-0 537.394565 242.9458)">Arion Carter</text>
+   </g>
+   <g id="text_46">
+    <text style="font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #0b0b0b" x="771.436714" y="243.3153" transform="rotate(-0 771.436714 243.3153)">1</text>
+   </g>
+   <g id="text_47">
+    <text style="font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #0b0b0b" x="842.090947" y="243.3153" transform="rotate(-0 842.090947 243.3153)">1</text>
+   </g>
+   <g id="text_48">
+    <text style="font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #898781" x="912.745181" y="243.3153" transform="rotate(-0 912.745181 243.3153)">–</text>
+   </g>
+   <g id="text_49">
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="537.394565" y="278.2402" transform="rotate(-0 537.394565 278.2402)">Amare Campbell</text>
+   </g>
+   <g id="text_50">
+    <text style="font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #898781" x="771.436714" y="278.6097" transform="rotate(-0 771.436714 278.6097)">–</text>
+   </g>
+   <g id="text_51">
+    <text style="font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #0b0b0b" x="842.090947" y="278.6097" transform="rotate(-0 842.090947 278.6097)">2</text>
+   </g>
+   <g id="text_52">
+    <text style="font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #898781" x="912.745181" y="278.6097" transform="rotate(-0 912.745181 278.6097)">–</text>
+   </g>
+   <g id="text_53">
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="537.394565" y="313.5346" transform="rotate(-0 537.394565 313.5346)">Dejuan Lane</text>
+   </g>
+   <g id="text_54">
+    <text style="font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #898781" x="771.436714" y="313.9041" transform="rotate(-0 771.436714 313.9041)">–</text>
+   </g>
+   <g id="text_55">
+    <text style="font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #0b0b0b" x="842.090947" y="313.9041" transform="rotate(-0 842.090947 313.9041)">1.5</text>
+   </g>
+   <g id="text_56">
+    <text style="font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #0b0b0b" x="912.745181" y="313.9041" transform="rotate(-0 912.745181 313.9041)">1</text>
+   </g>
+   <g id="text_57">
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="537.394565" y="348.829" transform="rotate(-0 537.394565 348.829)">Xavier Gilliam</text>
+   </g>
+   <g id="text_58">
+    <text style="font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #898781" x="771.436714" y="349.1985" transform="rotate(-0 771.436714 349.1985)">–</text>
+   </g>
+   <g id="text_59">
+    <text style="font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #0b0b0b" x="842.090947" y="349.1985" transform="rotate(-0 842.090947 349.1985)">0.5</text>
+   </g>
+   <g id="text_60">
+    <text style="font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #0b0b0b" x="912.745181" y="349.1985" transform="rotate(-0 912.745181 349.1985)">1</text>
+   </g>
+   <g id="text_61">
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="537.394565" y="384.1234" transform="rotate(-0 537.394565 384.1234)">3 other players</text>
+   </g>
+   <g id="text_62">
+    <text style="font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #898781" x="771.436714" y="384.4929" transform="rotate(-0 771.436714 384.4929)">–</text>
+   </g>
+   <g id="text_63">
+    <text style="font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #0b0b0b" x="842.090947" y="384.4929" transform="rotate(-0 842.090947 384.4929)">0.5</text>
+   </g>
+   <g id="text_64">
+    <text style="font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #0b0b0b" x="912.745181" y="384.4929" transform="rotate(-0 912.745181 384.4929)">2</text>
+   </g>
+   <g id="text_65">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #1c5cab" x="537.394565" y="424.4128" transform="rotate(-0 537.394565 424.4128)">Team total</text>
+   </g>
+   <g id="text_66">
+    <text style="font-weight: 700; font-size: 18px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #1c5cab" x="771.436714" y="425.1708" transform="rotate(-0 771.436714 425.1708)">5</text>
+   </g>
+   <g id="text_67">
+    <text style="font-weight: 700; font-size: 18px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #1c5cab" x="842.090947" y="425.1708" transform="rotate(-0 842.090947 425.1708)">10</text>
+   </g>
+   <g id="text_68">
+    <text style="font-weight: 700; font-size: 18px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #1c5cab" x="912.745181" y="425.1708" transform="rotate(-0 912.745181 425.1708)">4</text>
+   </g>
+  </g>
+  <g id="line2d_2">
+   <path d="M 38.39904 507.6 
+L 921.57696 507.6 
+" style="fill: none; stroke: #e1e0d9; stroke-linecap: square"/>
+  </g>
+  <g id="text_69">
+   <text style="font-weight: 700; font-size: 24px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="38.39904" y="35.1" transform="rotate(-0 38.39904 35.1)">Worked example: Alabama 10, Tennessee 26 (Week 7)</text>
+  </g>
+  <g id="text_70">
+   <text style="font-size: 16px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="38.39904" y="62.1" transform="rotate(-0 38.39904 62.1)">How Tennessee's team defensive line is built from two parts of the same payload</text>
+  </g>
+  <g id="text_71">
+   <text style="font-size: 12px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #898781" x="38.39904" y="526.5" transform="rotate(-0 38.39904 526.5)">Source: espn_cfb_2026.db (ESPN site API) · 822 Final games through Week 12 (Nov 21, 2026) · generated 2026-11-24</text>
+  </g>
+  <g id="text_72">
+   <text style="font-size: 12px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #898781" x="921.57696" y="526.5" transform="rotate(-0 921.57696 526.5)">07_worked_example</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p3460794ddd">
+   <rect x="38.39904" y="81" width="883.17792" height="410.4"/>
+  </clipPath>
+ </defs>
+</svg>

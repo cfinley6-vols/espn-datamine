@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="959.976pt" height="540pt" viewBox="0 0 959.976 540" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-24T10:49:54.585087</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 540 
+L 959.976 540 
+L 959.976 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 243.296317 278.208 
+L 548.875878 278.208 
+Q 559.474013 278.208 559.474013 269.683413 
+L 559.474013 126.892587 
+Q 559.474013 118.368 548.875878 118.368 
+L 243.296317 118.368 
+Q 232.698182 118.368 232.698182 126.892587 
+L 232.698182 269.683413 
+Q 232.698182 278.208 243.296317 278.208 
+z
+" clip-path="url(#p49e9af5f01)" style="fill: #cde2fb"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 587.735706 278.208 
+L 893.315267 278.208 
+Q 903.913402 278.208 903.913402 269.683413 
+L 903.913402 126.892587 
+Q 903.913402 118.368 893.315267 118.368 
+L 587.735706 118.368 
+Q 577.137571 118.368 577.137571 126.892587 
+L 577.137571 269.683413 
+Q 577.137571 278.208 587.735706 278.208 
+z
+" clip-path="url(#p49e9af5f01)" style="fill: #cde2fb"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 243.296317 462.024 
+L 548.875878 462.024 
+Q 559.474013 462.024 559.474013 453.499413 
+L 559.474013 310.708587 
+Q 559.474013 302.184 548.875878 302.184 
+L 243.296317 302.184 
+Q 232.698182 302.184 232.698182 310.708587 
+L 232.698182 453.499413 
+Q 232.698182 462.024 243.296317 462.024 
+z
+" clip-path="url(#p49e9af5f01)" style="fill: #cde2fb"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 587.735706 462.024 
+L 893.315267 462.024 
+Q 903.913402 462.024 903.913402 453.499413 
+L 903.913402 310.708587 
+Q 903.913402 302.184 893.315267 302.184 
+L 587.735706 302.184 
+Q 577.137571 302.184 577.137571 310.708587 
+L 577.137571 453.499413 
+Q 577.137571 462.024 587.735706 462.024 
+z
+" clip-path="url(#p49e9af5f01)" style="fill: url(#hd6a9c4df0f); stroke: #eb6834; stroke-width: 2.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 587.735706 454.032 
+L 893.315267 454.032 
+L 893.315267 310.176 
+L 587.735706 310.176 
+z
+" clip-path="url(#p49e9af5f01)" style="fill: #ffffff"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: middle; fill: #0b0b0b" x="396.086098" y="102.384" transform="rotate(-0 396.086098 102.384)">Offense</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: middle; fill: #0b0b0b" x="740.525486" y="102.384" transform="rotate(-0 740.525486 102.384)">Defense</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #0b0b0b" x="206.202845" y="205.868" transform="rotate(-0 206.202845 205.868)">Player stats</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #0b0b0b" x="206.202845" y="389.684" transform="rotate(-0 206.202845 389.684)">Team stats</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 18px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: middle; fill: #1c5cab" x="396.086098" y="154.332" transform="rotate(-0 396.086098 154.332)">✓  Recorded</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 26px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: middle; fill: #0b0b0b" x="396.086098" y="212.138" transform="rotate(-0 396.086098 212.138)">16 fields</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="396.086098" y="242.0355" transform="rotate(-0 396.086098 242.0355)">passing, rushing, receiving</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 18px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: middle; fill: #1c5cab" x="740.525486" y="154.332" transform="rotate(-0 740.525486 154.332)">✓  Recorded</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 26px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: middle; fill: #0b0b0b" x="740.525486" y="212.138" transform="rotate(-0 740.525486 212.138)">10 fields</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #52514e" transform="translate(647.172752 231.150188)">tackles, sacks, TFL, hurries,</text>
+    <text style="font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #52514e" transform="translate(664.122752 253.54425)">passes defended, INTs</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 18px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: middle; fill: #1c5cab" x="396.086098" y="338.148" transform="rotate(-0 396.086098 338.148)">✓  Recorded</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 26px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: middle; fill: #0b0b0b" x="396.086098" y="395.954" transform="rotate(-0 396.086098 395.954)">15 stats per game</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #52514e" transform="translate(300.929848 414.507984)">yards, 1st downs, 3rd down,</text>
+    <text style="font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #52514e" transform="translate(314.831801 437.300484)">turnovers, possession…</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 18px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: middle; fill: #b4441a" x="740.525486" y="338.148" transform="rotate(-0 740.525486 338.148)">✗  Not recorded</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 26px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: middle; fill: #0b0b0b" x="740.525486" y="395.954" transform="rotate(-0 740.525486 395.954)">0 stats</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #52514e" transform="translate(677.87119 414.507984)">no yards, points or</text>
+    <text style="font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #52514e" transform="translate(665.112986 438.696188)">3rd-down rate allowed</text>
+   </g>
+  </g>
+  <g id="line2d_1">
+   <path d="M 38.39904 507.6 
+L 921.57696 507.6 
+" style="fill: none; stroke: #e1e0d9; stroke-linecap: square"/>
+  </g>
+  <g id="text_17">
+   <text style="font-weight: 700; font-size: 24px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="38.39904" y="35.1" transform="rotate(-0 38.39904 35.1)">ESPN records team offense, but no team defense</text>
+  </g>
+  <g id="text_18">
+   <text style="font-size: 16px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="38.39904" y="62.1" transform="rotate(-0 38.39904 62.1)">What the summary endpoint publishes for every completed game</text>
+  </g>
+  <g id="text_19">
+   <text style="font-size: 12px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #898781" x="38.39904" y="526.5" transform="rotate(-0 38.39904 526.5)">Source: espn_cfb_2026.db (ESPN site API) · 822 Final games through Week 12 (Nov 21, 2026) · generated 2026-11-24</text>
+  </g>
+  <g id="text_20">
+   <text style="font-size: 12px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #898781" x="921.57696" y="526.5" transform="rotate(-0 921.57696 526.5)">01_api_gap</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p49e9af5f01">
+   <rect x="38.39904" y="86.4" width="883.17792" height="399.6"/>
+  </clipPath>
+ </defs>
+ <defs>
+  <pattern id="hd6a9c4df0f" patternUnits="userSpaceOnUse" x="0" y="0" width="72" height="72">
+   <rect x="0" y="0" width="73" height="73" fill="#ffffff"/>
+   <path d="M -36 36 
+L 36 -36 
+M -30 42 
+L 42 -30 
+M -24 48 
+L 48 -24 
+M -18 54 
+L 54 -18 
+M -12 60 
+L 60 -12 
+M -6 66 
+L 66 -6 
+M 0 72 
+L 72 0 
+M 6 78 
+L 78 6 
+M 12 84 
+L 84 12 
+M 18 90 
+L 90 18 
+M 24 96 
+L 96 24 
+M 30 102 
+L 102 30 
+M 36 108 
+L 108 36 
+" style="fill: #eb6834; stroke: #eb6834; stroke-width: 1.2; stroke-linecap: butt; stroke-linejoin: miter"/>
+  </pattern>
+ </defs>
+</svg>

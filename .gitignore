@@ -221,3 +221,6 @@ __marimo__/
 
 data/
 *.db
+
+# Notebook reruns of the presentation figures (figures/ is the presentation/report snapshot)
+figures/latest/

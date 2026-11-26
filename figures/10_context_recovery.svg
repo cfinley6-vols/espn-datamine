@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="959.976pt" height="540pt" viewBox="0 0 959.976 540" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-24T10:49:56.620500</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 540 
+L 959.976 540 
+L 959.976 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 239.994 432 
+L 431.9892 432 
+L 431.9892 145.8 
+L 239.994 145.8 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 239.994 218.851049 
+L 399.99 218.851049 
+L 399.99 158.809091 
+L 239.994 158.809091 
+z
+" clip-path="url(#pd278c7b61d)" style="fill: #2a78d6"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 239.994 318.920979 
+L 262.850571 318.920979 
+L 262.850571 258.879021 
+L 239.994 258.879021 
+z
+" clip-path="url(#pd278c7b61d)" style="fill: #2a78d6"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 239.994 418.990909 
+L 262.850571 418.990909 
+L 262.850571 358.948951 
+L 239.994 358.948951 
+z
+" clip-path="url(#pd278c7b61d)" style="fill: #2a78d6"/>
+   </g>
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_1"/>
+     <g id="text_1">
+      <text style="font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #52514e" transform="translate(43.38775 178.18007)">Fumbled out of the end zone</text>
+      <text style="font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #52514e" transform="translate(91.458063 196.07507)">(touchback: no player</text>
+      <text style="font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #52514e" transform="translate(162.886188 213.97007)">recovers it)</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_2"/>
+     <g id="text_2">
+      <text style="font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #52514e" transform="translate(131.777594 287.1975)">Recovered own</text>
+      <text style="font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #52514e" transform="translate(141.171344 305.0925)">team's fumble</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_3"/>
+     <g id="text_3">
+      <text style="font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #52514e" transform="translate(155.018219 387.26743)">Muffed punt</text>
+      <text style="font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #52514e" transform="translate(116.463531 405.16243)">(not a fumble lost)</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_6">
+    <path d="M 239.994 432 
+L 239.994 145.8 
+" style="fill: none; stroke: #c3c2b7; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 18px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="403.418486" y="195.65207" transform="rotate(-0 403.418486 195.65207)">7</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 18px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="266.279057" y="295.722" transform="rotate(-0 266.279057 295.722)">1</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 18px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="266.279057" y="395.79193" transform="rotate(-0 266.279057 395.79193)">1</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="47.9988" y="108.594" transform="rotate(-0 47.9988 108.594)">All 9 fumble mismatches explained</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="47.9988" y="134.352" transform="rotate(-0 47.9988 134.352)">team-games; takeaways now use opponent's fumbles lost</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_7">
+    <path d="M 547.18632 410.4 
+L 921.57696 410.4 
+L 921.57696 145.8 
+L 547.18632 145.8 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_1">
+     <g id="line2d_4"/>
+     <g id="text_9">
+      <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #52514e" transform="translate(564.313635 427.424)">Text says</text>
+      <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #52514e" transform="translate(564.82551 444.126)">"sacked"</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_5"/>
+     <g id="text_10">
+      <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #52514e" transform="translate(649.208138 427.424)">+ final ruling</text>
+      <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #52514e" transform="translate(674.407045 444.126)">only</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_6"/>
+     <g id="text_11">
+      <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #52514e" transform="translate(740.623579 427.424)">+ drop sacks</text>
+      <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #52514e" transform="translate(750.410454 444.126)">wiped out</text>
+      <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #52514e" transform="translate(748.975454 460.828)">by penalty</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7"/>
+     <g id="text_12">
+      <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #52514e" transform="translate(836.98277 427.424)">+ intentional</text>
+      <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #52514e" transform="translate(843.77277 444.126)">grounding</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_4">
+     <g id="line2d_8">
+      <path d="M 547.18632 410.4 
+L 921.57696 410.4 
+" clip-path="url(#p231991d5a0)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_9"/>
+     <g id="text_13">
+      <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="543.68632" y="417.064" transform="rotate(-0 543.68632 417.064)">75</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_10">
+      <path d="M 547.18632 357.48 
+L 921.57696 357.48 
+" clip-path="url(#p231991d5a0)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_11"/>
+     <g id="text_14">
+      <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="543.68632" y="364.144" transform="rotate(-0 543.68632 364.144)">80</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_12">
+      <path d="M 547.18632 304.56 
+L 921.57696 304.56 
+" clip-path="url(#p231991d5a0)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_13"/>
+     <g id="text_15">
+      <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="543.68632" y="311.224" transform="rotate(-0 543.68632 311.224)">85</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_14">
+      <path d="M 547.18632 251.64 
+L 921.57696 251.64 
+" clip-path="url(#p231991d5a0)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_15"/>
+     <g id="text_16">
+      <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="543.68632" y="258.304" transform="rotate(-0 543.68632 258.304)">90</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_16">
+      <path d="M 547.18632 198.72 
+L 921.57696 198.72 
+" clip-path="url(#p231991d5a0)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_17"/>
+     <g id="text_17">
+      <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="543.68632" y="205.384" transform="rotate(-0 543.68632 205.384)">95</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_18">
+      <path d="M 547.18632 145.8 
+L 921.57696 145.8 
+" clip-path="url(#p231991d5a0)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_19"/>
+     <g id="text_18">
+      <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="543.68632" y="152.464" transform="rotate(-0 543.68632 152.464)">100</text>
+     </g>
+    </g>
+    <g id="text_19">
+     <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="513.354945" y="278.1" transform="rotate(-90 513.354945 278.1)">team-games matching exactly (%)</text>
+    </g>
+   </g>
+   <g id="patch_8">
+    <path d="M 564.204076 1204.2 
+L 622.496943 1204.2 
+L 622.496943 296.448175 
+L 564.204076 296.448175 
+z
+" clip-path="url(#p231991d5a0)" style="fill: #c3c2b7"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 658.22483 1204.2 
+L 716.517697 1204.2 
+L 716.517697 285.50365 
+L 658.22483 285.50365 
+z
+" clip-path="url(#p231991d5a0)" style="fill: #c3c2b7"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 752.245583 1204.2 
+L 810.53845 1204.2 
+L 810.53845 241.725547 
+L 752.245583 241.725547 
+z
+" clip-path="url(#p231991d5a0)" style="fill: #c3c2b7"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 846.266337 1204.2 
+L 904.559204 1204.2 
+L 904.559204 206.960584 
+L 846.266337 206.960584 
+z
+" clip-path="url(#p231991d5a0)" style="fill: #2a78d6"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 547.18632 410.4 
+L 547.18632 145.8 
+" style="fill: none; stroke: #c3c2b7; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 547.18632 410.4 
+L 921.57696 410.4 
+" style="fill: none; stroke: #c3c2b7; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 18px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: middle; fill: #0b0b0b" x="593.35051" y="290.097775" transform="rotate(-0 593.35051 290.097775)">85.8%</text>
+   </g>
+   <g id="text_21">
+    <text style="font-weight: 700; font-size: 18px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: middle; fill: #0b0b0b" x="687.371263" y="279.15325" transform="rotate(-0 687.371263 279.15325)">86.8%</text>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 700; font-size: 18px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: middle; fill: #0b0b0b" x="781.392017" y="235.375147" transform="rotate(-0 781.392017 235.375147)">90.9%</text>
+   </g>
+   <g id="text_23">
+    <text style="font-weight: 700; font-size: 18px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: middle; fill: #0b0b0b" x="875.41277" y="200.610184" transform="rotate(-0 875.41277 200.610184)">94.2%</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="547.18632" y="136.539" transform="rotate(-0 547.18632 136.539)">1,644 team-games; y-axis starts at 75%</text>
+   </g>
+   <g id="text_25">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start" x="547.18632" y="115.8" transform="rotate(-0 547.18632 115.8)">Sacks: rebuilding "sacks taken" from play text</text>
+   </g>
+  </g>
+  <g id="line2d_20">
+   <path d="M 38.39904 507.6 
+L 921.57696 507.6 
+" style="fill: none; stroke: #e1e0d9; stroke-linecap: square"/>
+  </g>
+  <g id="text_26">
+   <text style="font-weight: 700; font-size: 24px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="38.39904" y="35.1" transform="rotate(-0 38.39904 35.1)">Where sources disagreed, the play text told us why</text>
+  </g>
+  <g id="text_27">
+   <text style="font-size: 16px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="38.39904" y="62.1" transform="rotate(-0 38.39904 62.1)">Mismatches were read play by play instead of trusting ESPN's play-type labels</text>
+  </g>
+  <g id="text_28">
+   <text style="font-size: 12px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #898781" x="38.39904" y="526.5" transform="rotate(-0 38.39904 526.5)">Source: espn_cfb_2026.db (ESPN site API) · 822 Final games through Week 12 (Nov 21, 2026) · generated 2026-11-24</text>
+  </g>
+  <g id="text_29">
+   <text style="font-size: 12px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #898781" x="921.57696" y="526.5" transform="rotate(-0 921.57696 526.5)">10_context_recovery</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pd278c7b61d">
+   <rect x="239.994" y="145.8" width="191.9952" height="286.2"/>
+  </clipPath>
+  <clipPath id="p231991d5a0">
+   <rect x="547.18632" y="145.8" width="374.39064" height="264.6"/>
+  </clipPath>
+ </defs>
+</svg>

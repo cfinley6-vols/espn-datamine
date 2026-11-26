@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="959.976pt" height="540pt" viewBox="0 0 959.976 540" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-24T10:49:56.396112</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 540 
+L 959.976 540 
+L 959.976 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 38.39904 156.924 
+L 921.57696 156.924 
+L 921.57696 109.296 
+L 38.39904 109.296 
+z
+" clip-path="url(#pdb543834d1)" style="fill: #f4f3ef"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 38.39904 252.18 
+L 921.57696 252.18 
+L 921.57696 204.552 
+L 38.39904 204.552 
+z
+" clip-path="url(#pdb543834d1)" style="fill: #f4f3ef"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 38.39904 347.436 
+L 921.57696 347.436 
+L 921.57696 299.808 
+L 38.39904 299.808 
+z
+" clip-path="url(#pdb543834d1)" style="fill: #f4f3ef"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 38.39904 442.692 
+L 921.57696 442.692 
+L 921.57696 395.064 
+L 38.39904 395.064 
+z
+" clip-path="url(#pdb543834d1)" style="fill: #f4f3ef"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 38.39904 108.54 
+L 921.57696 108.54 
+" clip-path="url(#pdb543834d1)" style="fill: none; stroke: #0b0b0b; stroke-width: 1.2; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="47.230819" y="95.325" transform="rotate(-0 47.230819 95.325)">Check</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="524.146896" y="95.325" transform="rotate(-0 524.146896 95.325)">Records</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="647.791805" y="95.325" transform="rotate(-0 647.791805 95.325)">Result</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 17px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="47.230819" y="139.3915" transform="rotate(-0 47.230819 139.3915)">Player INTs = opponent INTs thrown</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 17px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="524.146896" y="139.3915" transform="rotate(-0 524.146896 139.3915)">1,644</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #1c5cab" x="647.791805" y="140.69" transform="rotate(-0 647.791805 140.69)">✓</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 17px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="678.703032" y="139.553" transform="rotate(-0 678.703032 139.553)">0 mismatches</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 17px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="47.230819" y="187.0195" transform="rotate(-0 47.230819 187.0195)">Player fumble recoveries = opponent fumbles lost</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 17px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="524.146896" y="187.0195" transform="rotate(-0 524.146896 187.0195)">1,644</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #1c5cab" x="647.791805" y="188.318" transform="rotate(-0 647.791805 188.318)">✓</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 17px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="678.703032" y="187.181" transform="rotate(-0 678.703032 187.181)">9 mismatches, 9 explained</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 17px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="47.230819" y="234.6475" transform="rotate(-0 47.230819 234.6475)">Player sacks = sacks taken (play-by-play)</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 17px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="524.146896" y="234.6475" transform="rotate(-0 524.146896 234.6475)">1,644</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #b4441a" x="647.791805" y="235.946" transform="rotate(-0 647.791805 235.946)">≈</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 17px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="678.703032" y="234.809" transform="rotate(-0 678.703032 234.809)">94.2% exact</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 17px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="47.230819" y="282.2755" transform="rotate(-0 47.230819 282.2755)">Scoring plays add up to the final score</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 17px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="524.146896" y="282.2755" transform="rotate(-0 524.146896 282.2755)">1,644</text>
+   </g>
+   <g id="text_18">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #1c5cab" x="647.791805" y="283.574" transform="rotate(-0 647.791805 283.574)">✓</text>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 700; font-size: 17px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="678.703032" y="282.437" transform="rotate(-0 678.703032 282.437)">3 differ, all explained</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 17px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="47.230819" y="329.9035" transform="rotate(-0 47.230819 329.9035)">Points allowed present for both teams</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 17px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="524.146896" y="329.9035" transform="rotate(-0 524.146896 329.9035)">1,644</text>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #1c5cab" x="647.791805" y="331.202" transform="rotate(-0 647.791805 331.202)">✓</text>
+   </g>
+   <g id="text_23">
+    <text style="font-weight: 700; font-size: 17px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="678.703032" y="330.065" transform="rotate(-0 678.703032 330.065)">0 missing</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 17px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="47.230819" y="377.5315" transform="rotate(-0 47.230819 377.5315)">Both defenses present for all 7 core stats</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 17px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="524.146896" y="377.5315" transform="rotate(-0 524.146896 377.5315)">5,754</text>
+   </g>
+   <g id="text_26">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #1c5cab" x="647.791805" y="378.83" transform="rotate(-0 647.791805 378.83)">✓</text>
+   </g>
+   <g id="text_27">
+    <text style="font-weight: 700; font-size: 17px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="678.703032" y="377.693" transform="rotate(-0 678.703032 377.693)">0 errors</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 17px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="47.230819" y="425.1595" transform="rotate(-0 47.230819 425.1595)">Every FBS team appears in the schedule</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 17px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="524.146896" y="425.1595" transform="rotate(-0 524.146896 425.1595)">138</text>
+   </g>
+   <g id="text_30">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #1c5cab" x="647.791805" y="426.458" transform="rotate(-0 647.791805 426.458)">✓</text>
+   </g>
+   <g id="text_31">
+    <text style="font-weight: 700; font-size: 17px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="678.703032" y="425.321" transform="rotate(-0 678.703032 425.321)">0 missing</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #52514e" transform="translate(38.39904 463.656125)">✓ exact or fully explained    ≈ ESPN's sources disagree (3,301 credited sacks vs. 3,257 in the play-by-play)</text>
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #52514e" transform="translate(38.39904 486.490125)">Scoring mismatches use pointsAllowed. Core-stats records are game-stat pairs. Points allowed (scoreboard) checks coverage only.</text>
+   </g>
+  </g>
+  <g id="line2d_2">
+   <path d="M 38.39904 507.6 
+L 921.57696 507.6 
+" style="fill: none; stroke: #e1e0d9; stroke-linecap: square"/>
+  </g>
+  <g id="text_33">
+   <text style="font-weight: 700; font-size: 24px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="38.39904" y="35.1" transform="rotate(-0 38.39904 35.1)">6 of 7 checks pass exactly or are fully explained</text>
+  </g>
+  <g id="text_34">
+   <text style="font-size: 16px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="38.39904" y="62.1" transform="rotate(-0 38.39904 62.1)">Run on all 822 completed games in section 2 of cfb2026_stats.ipynb</text>
+  </g>
+  <g id="text_35">
+   <text style="font-size: 12px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #898781" x="38.39904" y="526.5" transform="rotate(-0 38.39904 526.5)">Source: espn_cfb_2026.db (ESPN site API) · 822 Final games through Week 12 (Nov 21, 2026) · generated 2026-11-24</text>
+  </g>
+  <g id="text_36">
+   <text style="font-size: 12px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #898781" x="921.57696" y="526.5" transform="rotate(-0 921.57696 526.5)">09_validation_checklist</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pdb543834d1">
+   <rect x="38.39904" y="78.3" width="883.17792" height="378"/>
+  </clipPath>
+ </defs>
+</svg>

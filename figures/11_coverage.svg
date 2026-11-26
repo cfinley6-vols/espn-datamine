@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="959.976pt" height="540pt" viewBox="0 0 959.976 540" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-24T10:49:56.873004</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 540 
+L 959.976 540 
+L 959.976 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 462.324442 161.623881 
+L 718.446038 161.623881 
+L 718.446038 139.056716 
+L 462.324442 139.056716 
+z
+" clip-path="url(#pb0b756d3f2)" style="fill: #f4f3ef"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 462.324442 161.623881 
+L 718.446038 161.623881 
+L 718.446038 139.056716 
+L 462.324442 139.056716 
+z
+" clip-path="url(#pb0b756d3f2)" style="fill: #2a78d6"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 462.324442 204.877612 
+L 718.446038 204.877612 
+L 718.446038 182.310448 
+L 462.324442 182.310448 
+z
+" clip-path="url(#pb0b756d3f2)" style="fill: #f4f3ef"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 462.324442 204.877612 
+L 717.978663 204.877612 
+L 717.978663 182.310448 
+L 462.324442 182.310448 
+z
+" clip-path="url(#pb0b756d3f2)" style="fill: #2a78d6"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 462.324442 300.78806 
+L 718.446038 300.78806 
+L 718.446038 278.220896 
+L 462.324442 278.220896 
+z
+" clip-path="url(#pb0b756d3f2)" style="fill: #f4f3ef"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 462.324442 300.78806 
+L 718.446038 300.78806 
+L 718.446038 278.220896 
+L 462.324442 278.220896 
+z
+" clip-path="url(#pb0b756d3f2)" style="fill: #2a78d6"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 462.324442 344.041791 
+L 718.446038 344.041791 
+L 718.446038 321.474627 
+L 462.324442 321.474627 
+z
+" clip-path="url(#pb0b756d3f2)" style="fill: #f4f3ef"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 462.324442 344.041791 
+L 588.359948 344.041791 
+L 588.359948 321.474627 
+L 462.324442 321.474627 
+z
+" clip-path="url(#pb0b756d3f2)" style="fill: #2a78d6"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 462.324442 439.952239 
+L 718.446038 439.952239 
+L 718.446038 417.385075 
+L 462.324442 417.385075 
+z
+" clip-path="url(#pb0b756d3f2)" style="fill: #f4f3ef"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 462.324442 439.952239 
+L 462.324442 439.952239 
+L 462.324442 417.385075 
+L 462.324442 417.385075 
+z
+" clip-path="url(#pb0b756d3f2)" style="fill: #eb6834"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 17px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="38.39904" y="119.171358" transform="rotate(-0 38.39904 119.171358)">Opponent inversion</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 14px; font-family: 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: start; fill: #0b0b0b" x="38.39904" y="154.014752" transform="rotate(-0 38.39904 154.014752)">16 stats: takeaways, pointsAllowed, …</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="731.693707" y="155.247955" transform="rotate(-0 731.693707 155.247955)">100% · 238 teams</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 14px; font-family: 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: start; fill: #0b0b0b" x="38.39904" y="197.268483" transform="rotate(-0 38.39904 197.268483)">offensePointsAllowed</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #52514e" transform="translate(731.693707 188.214311)">99.8% · 3 team-games use</text>
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #52514e" transform="translate(731.693707 206.183749)">pointsAllowed instead</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 17px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="38.39904" y="258.335537" transform="rotate(-0 38.39904 258.335537)">Player aggregation</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 14px; font-family: 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: start; fill: #0b0b0b" x="38.39904" y="293.141743" transform="rotate(-0 38.39904 293.141743)">7 stats: sacks, hurries, …</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="731.693707" y="294.412134" transform="rotate(-0 731.693707 294.412134)">100% · 238 teams</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 14px; font-family: 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: start; fill: #0b0b0b" x="38.39904" y="336.395475" transform="rotate(-0 38.39904 336.395475)">3 stats: interceptions, interceptionYards, …</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #52514e" transform="translate(731.693707 327.392709)">49.2% · row only when</text>
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #52514e" transform="translate(731.693707 345.466053)">a team has an INT (else 0)</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 17px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="38.39904" y="397.499716" transform="rotate(-0 38.39904 397.499716)">Not in ESPN's data</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 14px; font-family: 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: start; fill: #0b0b0b" x="38.39904" y="432.34311" transform="rotate(-0 38.39904 432.34311)">qbHits, forcedFumbles</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="731.693707" y="432.336" transform="rotate(-0 731.693707 432.336)">not published by ESPN</text>
+   </g>
+  </g>
+  <g id="line2d_1">
+   <path d="M 38.39904 507.6 
+L 921.57696 507.6 
+" style="fill: none; stroke: #e1e0d9; stroke-linecap: square"/>
+  </g>
+  <g id="text_14">
+   <text style="font-weight: 700; font-size: 24px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="38.39904" y="35.1" transform="rotate(-0 38.39904 35.1)">Every derived stat covers every game, except where ESPN leaves zeros out</text>
+  </g>
+  <g id="text_15">
+   <text style="font-size: 16px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="38.39904" y="62.1" transform="rotate(-0 38.39904 62.1)">Share of 1,644 team-games with a value; stats with the same coverage are grouped</text>
+  </g>
+  <g id="text_16">
+   <text style="font-size: 12px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #898781" x="38.39904" y="526.5" transform="rotate(-0 38.39904 526.5)">Source: espn_cfb_2026.db (ESPN site API) · 822 Final games through Week 12 (Nov 21, 2026) · generated 2026-11-24</text>
+  </g>
+  <g id="text_17">
+   <text style="font-size: 12px; font-family: 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #898781" x="921.57696" y="526.5" transform="rotate(-0 921.57696 526.5)">11_coverage</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pb0b756d3f2">
+   <rect x="38.39904" y="86.4" width="883.17792" height="378"/>
+  </clipPath>
+ </defs>
+</svg>
