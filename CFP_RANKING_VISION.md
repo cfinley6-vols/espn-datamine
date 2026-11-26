@@ -162,6 +162,13 @@ Add dated entries as new goals or decisions come up.
   how a team has played in its last 2-3 games. Example: Tennessee's Faizon Brandon QB-run packages
   (Single Wing Shotgun) since Week 11. The simulator uses one QB per game, and the team pass-rate offset
   isn't recency-weighted.
+- **Finding (2026-11-26):** The simulator gave every QB carry to the starter, so package-QB runs were
+  simulated as the starter's. The fix is `PACKAGE_QBS`. Backtest, Weeks 7–12, 366 games: neutral
+  overall (+0.0016 ± 0.0049 Brier). The 190 games with a package-QB team looked better at 40 sims
+  (−0.0074), but a rerun at 150 sims showed that was noise (−0.0006 ± 0.0035). It's on because it's
+  correct at the player level and costs no accuracy. Recency-weighting the run/pass tendency (`TENDENCY_DECAY` 0.7) and faster usage decay (0.6)
+  didn't help overall, and 0.6 was worse, so both are off. No version improved the simulated run-share
+  error (8.4 pts), so most of a team's game-to-game run/pass swing is game script.
 - **Finding (2026-11-20):** Margin caps don't fix LSU-type profiles (blowout
   wins, close losses). Massey treats a 1-point loss as almost a tie. So the
   final model needs a win/loss (resume) component as well as margin.
