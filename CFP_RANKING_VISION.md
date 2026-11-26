@@ -151,6 +151,17 @@ Add dated entries as new goals or decisions come up.
   caps (tanh) and garbage-time filtering can all be compared on the same measure.
   **Never tune parameters to match the committee's rankings**: that would build in
   its biases. Tune on predictive accuracy, then compare with the committee.
+- **2026-11-26**: **Injury data.** ESPN has no college injury data, so injuries come from the
+  conference availability reports, collected by kickoffstatus.com. `cfb2026.ipynb` section 10 stores
+  them in `Raw_Injury_Pages` / `Injury_Reports` (2026 only; official reports cover conference games only,
+  plus unofficial media notes). `matchup_simulator.ipynb` uses them (`INJURY_REPORTS`). Questionable is
+  about 60% to play (Connor's estimate, confirmed by the data: 57% on the Wednesday report, 62% on gameday).
+  The other chances are also measured from 2026 box scores. They are relevant to the committee's "key
+  injuries" criterion later.
+- **2026-11-26**: **Next simulator goal: recent playing style.** The matchup simulator underweights
+  how a team has played in its last 2-3 games. Example: Tennessee's Faizon Brandon QB-run packages
+  (Single Wing Shotgun) since Week 11. The simulator uses one QB per game, and the team pass-rate offset
+  isn't recency-weighted.
 - **Finding (2026-11-20):** Margin caps don't fix LSU-type profiles (blowout
   wins, close losses). Massey treats a 1-point loss as almost a tie. So the
   final model needs a win/loss (resume) component as well as margin.
